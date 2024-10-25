@@ -1,0 +1,201 @@
+order_id,date,time,restaurant,delivery_time,order_value,items_quantity,delivery_rating,restaurant_rating,region,payment_method,restaurant_category,delivery_status,order_items,has_drinks,is_scheduled
+ORDER_0001,2023-01-02,11:15:00,Sushi House,41,45.83,4,4,5,Centro,Debit Card,Japonesa,On Time,5,True,False
+ORDER_0002,2023-01-05,11:30:00,Pizza Express,49,88.03,3,2,4,Oeste,Debit Card,Pizza,Delayed,1,True,False
+ORDER_0003,2023-01-09,18:00:00,Food Box,31,163.51,2,5,5,Norte,Debit Card,Variada,On Time,1,False,False
+ORDER_0004,2023-01-13,11:15:00,Burger King,37,31.67,5,3,2,Oeste,PIX,Hambúrguer,On Time,1,True,False
+ORDER_0005,2023-01-14,11:15:00,Veggie Life,41,75.54,5,2,2,Leste,Cash,Vegetariana,On Time,1,False,False
+ORDER_0006,2023-01-15,20:45:00,Taco Feliz,44,67.78,3,5,3,Leste,PIX,Mexicana,On Time,1,False,True
+ORDER_0007,2023-01-15,19:30:00,Sabor Caseiro,47,61.94,3,5,3,Oeste,Cash,Brasileira,Delayed,1,True,False
+ORDER_0008,2023-01-21,21:45:00,Veggie Life,30,102.81,4,5,5,Centro,Debit Card,Vegetariana,On Time,2,False,False
+ORDER_0009,2023-01-21,22:00:00,Taco Feliz,28,113.19,1,5,3,Centro,Credit Card,Mexicana,On Time,4,False,True
+ORDER_0010,2023-01-22,11:00:00,Sushi House,49,103.15,3,5,5,Leste,PIX,Japonesa,Delayed,5,False,False
+ORDER_0011,2023-01-28,18:30:00,Veggie Life,15,58.3,3,4,4,Sul,Credit Card,Vegetariana,On Time,1,False,False
+ORDER_0012,2023-01-28,11:15:00,Pasta Bella,51,153.02,2,2,3,Centro,PIX,Italiana,Delayed,2,True,True
+ORDER_0013,2023-01-29,20:15:00,Sabor Caseiro,32,26.89,5,4,5,Oeste,Debit Card,Brasileira,On Time,2,True,False
+ORDER_0014,2023-02-02,21:45:00,Taco Feliz,35,49.02,1,4,5,Centro,PIX,Mexicana,On Time,2,False,False
+ORDER_0015,2023-02-04,12:15:00,Taco Feliz,28,85.09,2,3,4,Oeste,Debit Card,Mexicana,On Time,4,False,True
+ORDER_0016,2023-02-04,21:45:00,Taco Feliz,35,82.68,4,5,4,Leste,PIX,Mexicana,On Time,5,True,False
+ORDER_0017,2023-02-05,11:45:00,Sushi House,48,94.64,4,4,5,Centro,Debit Card,Japonesa,Delayed,4,False,False
+ORDER_0018,2023-02-10,13:30:00,Veggie Life,43,127.4,3,2,3,Oeste,Debit Card,Vegetariana,On Time,3,True,False
+ORDER_0019,2023-02-10,18:00:00,Sushi House,40,76.4,3,3,5,Leste,Cash,Japonesa,On Time,2,False,False
+ORDER_0020,2023-02-11,19:45:00,Food Box,36,83.41,4,5,5,Sul,Debit Card,Variada,On Time,3,False,False
+ORDER_0021,2023-02-13,12:00:00,Pizza Express,21,62.16,3,2,5,Oeste,Cash,Pizza,On Time,1,True,False
+ORDER_0022,2023-02-13,22:15:00,Pizza Express,27,97.65,1,5,3,Sul,Debit Card,Pizza,On Time,1,True,False
+ORDER_0023,2023-02-14,12:15:00,Food Box,32,70.45,3,4,5,Sul,Credit Card,Variada,On Time,4,True,True
+ORDER_0024,2023-02-17,19:15:00,Veggie Life,40,70.43,5,4,2,Norte,Debit Card,Vegetariana,On Time,5,True,False
+ORDER_0025,2023-02-18,13:30:00,Pasta Bella,36,96.3,3,4,1,Centro,Credit Card,Italiana,On Time,3,False,False
+ORDER_0026,2023-02-19,14:45:00,Sushi House,45,111.05,2,5,3,Oeste,Credit Card,Japonesa,On Time,5,True,False
+ORDER_0027,2023-02-20,22:00:00,Sabor Caseiro,40,13.76,1,4,4,Sul,Debit Card,Brasileira,On Time,4,False,True
+ORDER_0028,2023-02-21,13:00:00,Taco Feliz,36,90.82,2,5,5,Norte,Credit Card,Mexicana,On Time,1,True,False
+ORDER_0029,2023-02-21,12:15:00,Taco Feliz,58,71.89,2,4,5,Leste,Cash,Mexicana,Delayed,5,True,False
+ORDER_0030,2023-02-22,14:45:00,Veggie Life,39,108.43,5,3,5,Oeste,PIX,Vegetariana,On Time,5,False,False
+ORDER_0031,2023-02-22,21:00:00,Pasta Bella,31,72.5,1,5,4,Sul,Debit Card,Italiana,On Time,1,True,True
+ORDER_0032,2023-02-23,11:30:00,Pizza Express,54,119.03,1,5,4,Centro,Credit Card,Pizza,Delayed,3,True,False
+ORDER_0033,2023-02-24,18:45:00,Pizza Express,47,59.71,1,5,4,Norte,Debit Card,Pizza,Delayed,1,True,False
+ORDER_0034,2023-02-28,22:45:00,Taco Feliz,53,13.09,1,5,5,Sul,Cash,Mexicana,Delayed,5,True,False
+ORDER_0035,2023-03-03,18:30:00,Veggie Life,34,111.55,1,5,1,Centro,Debit Card,Vegetariana,On Time,3,False,False
+ORDER_0036,2023-03-03,20:15:00,Sushi House,45,54.69,5,5,5,Sul,Debit Card,Japonesa,On Time,3,False,False
+ORDER_0037,2023-03-04,11:30:00,Pizza Express,20,32.59,3,5,4,Oeste,Credit Card,Pizza,On Time,1,True,False
+ORDER_0038,2023-03-04,18:30:00,Sushi House,43,80.48,2,5,4,Oeste,Cash,Japonesa,On Time,5,True,False
+ORDER_0039,2023-03-06,18:45:00,Pasta Bella,33,72.82,1,5,5,Oeste,PIX,Italiana,On Time,4,True,False
+ORDER_0040,2023-03-07,21:45:00,Pizza Express,21,104.69,3,5,4,Norte,PIX,Pizza,On Time,5,False,False
+ORDER_0041,2023-03-13,12:30:00,Pizza Express,45,106.77,3,5,5,Oeste,Credit Card,Pizza,On Time,2,False,False
+ORDER_0042,2023-03-22,22:00:00,Burger King,17,82.87,2,3,5,Centro,Debit Card,Hambúrguer,On Time,4,False,False
+ORDER_0043,2023-03-22,18:15:00,Pizza Express,16,53.46,5,5,4,Sul,Credit Card,Pizza,On Time,3,False,True
+ORDER_0044,2023-03-27,11:00:00,Food Box,39,88.61,4,5,3,Leste,Credit Card,Variada,On Time,4,True,True
+ORDER_0045,2023-03-29,13:30:00,Sabor Caseiro,41,84.96,4,1,4,Centro,Credit Card,Brasileira,On Time,3,True,False
+ORDER_0046,2023-03-30,20:45:00,Food Box,45,97.07,3,5,5,Centro,Debit Card,Variada,On Time,3,True,False
+ORDER_0047,2023-04-02,20:00:00,Veggie Life,42,53.76,2,2,3,Oeste,Cash,Vegetariana,On Time,4,False,False
+ORDER_0048,2023-04-06,19:30:00,Veggie Life,50,67.99,4,4,5,Norte,Credit Card,Vegetariana,Delayed,3,True,False
+ORDER_0049,2023-04-06,21:30:00,Sushi House,42,95.28,3,5,5,Sul,Debit Card,Japonesa,On Time,3,False,True
+ORDER_0050,2023-04-09,21:15:00,Food Box,34,117.42,5,3,5,Norte,Cash,Variada,On Time,2,False,False
+ORDER_0051,2023-04-10,22:30:00,Food Box,34,108.98,4,5,2,Sul,Credit Card,Variada,On Time,5,True,False
+ORDER_0052,2023-04-11,12:30:00,Food Box,32,82.46,3,5,5,Sul,PIX,Variada,On Time,5,True,False
+ORDER_0053,2023-04-13,14:45:00,Pasta Bella,38,65.38,3,4,5,Norte,Cash,Italiana,On Time,2,True,False
+ORDER_0054,2023-04-13,20:15:00,Pizza Express,24,92.11,1,1,3,Centro,Credit Card,Pizza,On Time,4,False,False
+ORDER_0055,2023-04-16,11:15:00,Sabor Caseiro,38,47.26,5,3,3,Sul,Cash,Brasileira,On Time,1,False,False
+ORDER_0056,2023-04-17,11:00:00,Sushi House,34,55.49,1,5,5,Norte,Cash,Japonesa,On Time,1,True,False
+ORDER_0057,2023-04-18,13:45:00,Food Box,38,125.29,2,5,3,Sul,Cash,Variada,On Time,1,True,False
+ORDER_0058,2023-04-23,12:00:00,Food Box,38,92.06,1,5,5,Leste,Cash,Variada,On Time,2,False,False
+ORDER_0059,2023-04-26,21:45:00,Burger King,10,69.57,1,3,4,Centro,Cash,Hambúrguer,On Time,2,True,False
+ORDER_0060,2023-05-01,13:00:00,Sushi House,26,104.87,4,5,3,Oeste,Cash,Japonesa,On Time,3,False,False
+ORDER_0061,2023-05-02,22:30:00,Food Box,34,118.61,3,4,5,Sul,Credit Card,Variada,On Time,1,False,False
+ORDER_0062,2023-05-08,18:30:00,Sushi House,34,66.66,5,5,4,Leste,PIX,Japonesa,On Time,4,True,False
+ORDER_0063,2023-05-09,14:45:00,Pizza Express,38,67.18,1,2,4,Oeste,Debit Card,Pizza,On Time,4,True,False
+ORDER_0064,2023-05-11,11:30:00,Burger King,38,63.42,5,5,4,Oeste,Cash,Hambúrguer,On Time,1,True,False
+ORDER_0065,2023-05-11,18:45:00,Sushi House,50,108.92,1,4,4,Sul,Debit Card,Japonesa,Delayed,1,True,True
+ORDER_0066,2023-05-11,19:45:00,Sabor Caseiro,38,109.21,2,5,3,Norte,Credit Card,Brasileira,On Time,1,False,False
+ORDER_0067,2023-05-14,22:00:00,Sabor Caseiro,32,121.58,1,4,4,Sul,Cash,Brasileira,On Time,2,False,False
+ORDER_0068,2023-05-15,19:45:00,Veggie Life,19,110.26,4,5,5,Leste,PIX,Vegetariana,On Time,2,False,False
+ORDER_0069,2023-05-15,13:30:00,Burger King,21,31.03,3,5,3,Oeste,Debit Card,Hambúrguer,On Time,2,True,False
+ORDER_0070,2023-05-16,12:45:00,Burger King,40,88.43,2,2,5,Sul,Cash,Hambúrguer,On Time,5,False,False
+ORDER_0071,2023-05-17,22:45:00,Veggie Life,46,48.25,1,5,4,Norte,Credit Card,Vegetariana,Delayed,4,True,False
+ORDER_0072,2023-05-19,18:45:00,Sushi House,50,64.61,5,5,5,Sul,PIX,Japonesa,Delayed,4,True,False
+ORDER_0073,2023-05-23,22:30:00,Burger King,27,85.12,2,2,2,Centro,Debit Card,Hambúrguer,On Time,3,True,True
+ORDER_0074,2023-05-30,20:00:00,Sabor Caseiro,32,105.07,2,4,5,Norte,Debit Card,Brasileira,On Time,2,True,False
+ORDER_0075,2023-06-01,22:30:00,Sabor Caseiro,37,53.27,1,5,4,Leste,Cash,Brasileira,On Time,5,True,True
+ORDER_0076,2023-06-01,20:00:00,Food Box,55,10.26,2,2,3,Oeste,PIX,Variada,Delayed,5,True,False
+ORDER_0077,2023-06-06,21:00:00,Pizza Express,36,85.42,5,4,2,Sul,PIX,Pizza,On Time,4,False,False
+ORDER_0078,2023-06-09,18:15:00,Burger King,51,159.31,2,4,3,Norte,PIX,Hambúrguer,Delayed,2,True,True
+ORDER_0079,2023-06-09,18:15:00,Sushi House,37,73.91,5,5,4,Centro,PIX,Japonesa,On Time,3,False,False
+ORDER_0080,2023-06-10,11:15:00,Veggie Life,47,81.41,1,1,4,Norte,Credit Card,Vegetariana,Delayed,2,False,False
+ORDER_0081,2023-06-11,22:30:00,Veggie Life,45,133.46,3,5,5,Centro,PIX,Vegetariana,On Time,1,True,True
+ORDER_0082,2023-06-12,14:45:00,Sushi House,37,97.71,2,5,4,Leste,Debit Card,Japonesa,On Time,2,True,False
+ORDER_0083,2023-06-14,22:45:00,Pasta Bella,25,86.51,3,5,3,Oeste,Debit Card,Italiana,On Time,1,True,False
+ORDER_0084,2023-06-16,22:00:00,Taco Feliz,32,93.26,5,5,5,Leste,Credit Card,Mexicana,On Time,1,False,False
+ORDER_0085,2023-06-19,11:45:00,Pizza Express,50,87.51,2,2,5,Sul,Debit Card,Pizza,Delayed,3,True,False
+ORDER_0086,2023-06-19,22:00:00,Veggie Life,44,45.81,4,5,3,Norte,Debit Card,Vegetariana,On Time,4,False,False
+ORDER_0087,2023-06-20,14:15:00,Burger King,31,39.76,3,1,3,Centro,PIX,Hambúrguer,On Time,2,True,False
+ORDER_0088,2023-06-21,19:00:00,Pizza Express,32,136.6,2,1,1,Centro,Debit Card,Pizza,On Time,1,True,False
+ORDER_0089,2023-06-21,18:45:00,Burger King,18,85.52,3,4,5,Norte,Credit Card,Hambúrguer,On Time,2,False,False
+ORDER_0090,2023-06-24,12:45:00,Pasta Bella,49,83.0,2,4,5,Norte,PIX,Italiana,Delayed,4,False,True
+ORDER_0091,2023-06-28,12:30:00,Sabor Caseiro,44,77.29,1,5,4,Sul,Cash,Brasileira,On Time,4,True,False
+ORDER_0092,2023-06-29,11:30:00,Pizza Express,34,103.43,3,5,5,Leste,PIX,Pizza,On Time,5,False,False
+ORDER_0093,2023-07-06,18:00:00,Food Box,37,156.16,4,4,5,Centro,Credit Card,Variada,On Time,4,False,True
+ORDER_0094,2023-07-07,22:00:00,Veggie Life,13,95.72,4,3,4,Sul,PIX,Vegetariana,On Time,3,False,True
+ORDER_0095,2023-07-07,13:45:00,Pizza Express,30,62.36,5,5,5,Leste,PIX,Pizza,On Time,1,False,False
+ORDER_0096,2023-07-08,19:15:00,Pizza Express,48,76.0,2,4,3,Sul,Credit Card,Pizza,Delayed,5,False,False
+ORDER_0097,2023-07-09,19:15:00,Pizza Express,45,112.13,3,4,2,Centro,PIX,Pizza,On Time,3,True,False
+ORDER_0098,2023-07-09,21:15:00,Taco Feliz,38,62.52,5,3,3,Norte,Credit Card,Mexicana,On Time,2,True,False
+ORDER_0099,2023-07-09,12:45:00,Pizza Express,35,105.57,3,5,2,Norte,Credit Card,Pizza,On Time,1,False,True
+ORDER_0100,2023-07-10,20:30:00,Burger King,43,10.38,2,5,4,Leste,Cash,Hambúrguer,On Time,4,True,False
+ORDER_0101,2023-07-11,20:30:00,Sabor Caseiro,32,73.1,4,3,5,Oeste,Debit Card,Brasileira,On Time,1,True,True
+ORDER_0102,2023-07-17,22:15:00,Pasta Bella,18,98.84,1,2,1,Leste,Debit Card,Italiana,On Time,2,False,False
+ORDER_0103,2023-07-20,19:00:00,Sushi House,35,118.1,4,5,2,Oeste,PIX,Japonesa,On Time,5,True,False
+ORDER_0104,2023-07-21,21:15:00,Pizza Express,39,55.45,5,5,4,Sul,PIX,Pizza,On Time,5,False,False
+ORDER_0105,2023-07-25,22:00:00,Veggie Life,46,34.92,1,3,5,Sul,Cash,Vegetariana,Delayed,5,False,False
+ORDER_0106,2023-07-26,20:45:00,Pizza Express,21,72.18,5,5,4,Centro,Cash,Pizza,On Time,4,True,False
+ORDER_0107,2023-07-27,22:00:00,Veggie Life,34,46.24,2,3,4,Oeste,Cash,Vegetariana,On Time,3,False,False
+ORDER_0108,2023-08-01,12:00:00,Burger King,34,75.53,1,4,1,Centro,Credit Card,Hambúrguer,On Time,3,False,False
+ORDER_0109,2023-08-02,18:30:00,Veggie Life,24,79.8,5,5,2,Norte,Cash,Vegetariana,On Time,1,False,False
+ORDER_0110,2023-08-03,11:45:00,Food Box,40,40.43,2,4,5,Oeste,Cash,Variada,On Time,4,False,False
+ORDER_0111,2023-08-03,22:30:00,Sushi House,42,104.13,4,5,5,Leste,PIX,Japonesa,On Time,5,False,False
+ORDER_0112,2023-08-04,18:00:00,Sabor Caseiro,32,75.28,2,4,1,Norte,Cash,Brasileira,On Time,5,True,False
+ORDER_0113,2023-08-05,20:45:00,Veggie Life,56,112.41,3,3,5,Norte,Credit Card,Vegetariana,Delayed,2,True,False
+ORDER_0114,2023-08-06,21:15:00,Veggie Life,32,24.65,2,5,5,Leste,Credit Card,Vegetariana,On Time,2,False,True
+ORDER_0115,2023-08-06,21:00:00,Sabor Caseiro,31,49.48,2,4,5,Norte,PIX,Brasileira,On Time,5,False,False
+ORDER_0116,2023-08-10,12:15:00,Sushi House,30,95.5,3,5,4,Oeste,Cash,Japonesa,On Time,5,True,False
+ORDER_0117,2023-08-13,22:30:00,Pizza Express,27,56.03,5,3,4,Centro,Cash,Pizza,On Time,4,False,True
+ORDER_0118,2023-08-13,19:45:00,Veggie Life,29,75.06,5,3,4,Norte,Credit Card,Vegetariana,On Time,3,True,False
+ORDER_0119,2023-08-15,21:00:00,Sabor Caseiro,21,80.02,2,1,5,Oeste,Cash,Brasileira,On Time,2,False,True
+ORDER_0120,2023-08-19,21:30:00,Food Box,33,84.75,3,5,2,Sul,Cash,Variada,On Time,3,False,False
+ORDER_0121,2023-08-19,22:30:00,Food Box,36,59.67,3,4,1,Oeste,Cash,Variada,On Time,4,False,False
+ORDER_0122,2023-08-19,22:00:00,Burger King,12,84.48,4,5,4,Centro,Debit Card,Hambúrguer,On Time,5,False,False
+ORDER_0123,2023-08-19,19:00:00,Sabor Caseiro,34,56.52,5,4,5,Oeste,PIX,Brasileira,On Time,3,False,False
+ORDER_0124,2023-08-21,21:45:00,Burger King,35,100.23,1,5,3,Leste,Debit Card,Hambúrguer,On Time,5,False,False
+ORDER_0125,2023-08-21,19:30:00,Food Box,40,76.55,5,3,5,Centro,PIX,Variada,On Time,5,False,False
+ORDER_0126,2023-08-22,22:00:00,Sushi House,47,84.65,5,5,5,Sul,Credit Card,Japonesa,Delayed,1,True,False
+ORDER_0127,2023-08-24,11:30:00,Pizza Express,44,157.1,4,5,2,Leste,Cash,Pizza,On Time,3,True,False
+ORDER_0128,2023-08-25,18:15:00,Sabor Caseiro,29,46.79,1,5,5,Oeste,PIX,Brasileira,On Time,3,True,False
+ORDER_0129,2023-08-25,20:00:00,Pasta Bella,28,121.66,4,5,4,Centro,Debit Card,Italiana,On Time,5,False,False
+ORDER_0130,2023-08-29,21:30:00,Food Box,41,0.22,1,5,5,Sul,Cash,Variada,On Time,4,False,True
+ORDER_0131,2023-08-30,11:30:00,Food Box,30,17.65,2,5,3,Leste,Credit Card,Variada,On Time,1,False,False
+ORDER_0132,2023-08-31,19:45:00,Pasta Bella,23,42.78,1,2,5,Sul,PIX,Italiana,On Time,5,False,False
+ORDER_0133,2023-09-01,21:45:00,Taco Feliz,59,44.67,4,1,5,Oeste,PIX,Mexicana,Delayed,2,False,False
+ORDER_0134,2023-09-09,19:15:00,Food Box,32,86.11,5,5,5,Sul,PIX,Variada,On Time,2,False,True
+ORDER_0135,2023-09-09,19:30:00,Veggie Life,29,88.7,1,5,5,Norte,Cash,Vegetariana,On Time,1,False,True
+ORDER_0136,2023-09-10,11:15:00,Sushi House,13,72.36,1,5,4,Leste,Debit Card,Japonesa,On Time,4,True,False
+ORDER_0137,2023-09-12,20:30:00,Sabor Caseiro,44,75.5,3,4,5,Sul,Debit Card,Brasileira,On Time,5,False,False
+ORDER_0138,2023-09-14,11:15:00,Pasta Bella,25,95.83,5,2,5,Oeste,PIX,Italiana,On Time,3,True,False
+ORDER_0139,2023-09-15,20:15:00,Veggie Life,35,105.0,2,2,4,Oeste,Credit Card,Vegetariana,On Time,1,True,False
+ORDER_0140,2023-09-16,18:00:00,Pasta Bella,45,40.2,4,5,1,Sul,Credit Card,Italiana,On Time,4,False,False
+ORDER_0141,2023-09-17,22:00:00,Sabor Caseiro,25,69.14,2,4,5,Oeste,Debit Card,Brasileira,On Time,3,False,False
+ORDER_0142,2023-09-18,13:00:00,Burger King,36,77.91,5,3,5,Centro,Credit Card,Hambúrguer,On Time,2,True,False
+ORDER_0143,2023-09-21,21:00:00,Sabor Caseiro,50,94.56,1,4,5,Centro,Debit Card,Brasileira,Delayed,2,True,False
+ORDER_0144,2023-09-22,20:15:00,Taco Feliz,10,56.82,1,2,3,Centro,PIX,Mexicana,On Time,3,False,False
+ORDER_0145,2023-09-25,22:30:00,Sabor Caseiro,27,77.32,5,4,5,Norte,Debit Card,Brasileira,On Time,1,False,True
+ORDER_0146,2023-09-25,20:00:00,Sabor Caseiro,26,80.9,1,3,4,Sul,Debit Card,Brasileira,On Time,2,True,False
+ORDER_0147,2023-09-27,19:45:00,Taco Feliz,33,58.87,1,5,5,Norte,PIX,Mexicana,On Time,5,False,False
+ORDER_0148,2023-09-28,14:00:00,Sushi House,35,58.15,1,4,2,Oeste,Credit Card,Japonesa,On Time,3,False,False
+ORDER_0149,2023-09-28,12:30:00,Food Box,24,82.96,4,4,5,Norte,Debit Card,Variada,On Time,3,False,False
+ORDER_0150,2023-09-28,22:45:00,Sabor Caseiro,28,76.09,4,1,5,Oeste,Debit Card,Brasileira,On Time,2,True,False
+ORDER_0151,2023-10-01,18:45:00,Taco Feliz,27,95.01,3,2,1,Oeste,PIX,Mexicana,On Time,1,True,False
+ORDER_0152,2023-10-04,11:00:00,Veggie Life,31,48.4,2,4,5,Leste,Credit Card,Vegetariana,On Time,5,True,False
+ORDER_0153,2023-10-07,12:45:00,Burger King,37,69.48,5,4,4,Centro,Debit Card,Hambúrguer,On Time,1,False,False
+ORDER_0154,2023-10-10,14:45:00,Burger King,44,73.12,5,5,5,Oeste,PIX,Hambúrguer,On Time,4,False,False
+ORDER_0155,2023-10-10,14:15:00,Sabor Caseiro,46,104.42,5,3,5,Leste,Debit Card,Brasileira,Delayed,4,True,False
+ORDER_0156,2023-10-11,13:45:00,Sushi House,42,51.79,3,5,4,Centro,Cash,Japonesa,On Time,2,True,False
+ORDER_0157,2023-10-11,19:30:00,Sushi House,26,87.04,4,5,5,Oeste,PIX,Japonesa,On Time,2,True,True
+ORDER_0158,2023-10-13,14:30:00,Veggie Life,35,87.58,3,5,5,Oeste,Credit Card,Vegetariana,On Time,2,False,False
+ORDER_0159,2023-10-16,20:45:00,Sabor Caseiro,59,129.39,5,1,4,Norte,Credit Card,Brasileira,Delayed,4,True,False
+ORDER_0160,2023-10-20,22:15:00,Burger King,45,49.79,2,4,4,Norte,Credit Card,Hambúrguer,On Time,1,True,False
+ORDER_0161,2023-10-21,11:15:00,Sushi House,31,60.28,1,2,5,Centro,Credit Card,Japonesa,On Time,1,False,False
+ORDER_0162,2023-10-22,21:45:00,Sabor Caseiro,51,51.88,4,3,5,Oeste,Debit Card,Brasileira,Delayed,2,False,False
+ORDER_0163,2023-10-23,19:30:00,Pasta Bella,31,29.91,4,5,5,Sul,Debit Card,Italiana,On Time,5,False,False
+ORDER_0164,2023-10-28,19:15:00,Sushi House,28,132.94,3,2,5,Norte,Credit Card,Japonesa,On Time,1,True,True
+ORDER_0165,2023-10-31,20:00:00,Taco Feliz,49,42.75,4,4,4,Centro,Credit Card,Mexicana,Delayed,4,False,False
+ORDER_0166,2023-11-03,19:15:00,Pasta Bella,22,55.51,5,5,5,Oeste,Credit Card,Italiana,On Time,3,False,True
+ORDER_0167,2023-11-03,19:15:00,Food Box,16,119.47,5,5,2,Oeste,Debit Card,Variada,On Time,3,True,False
+ORDER_0168,2023-11-05,12:15:00,Sushi House,44,27.41,3,4,4,Sul,Credit Card,Japonesa,On Time,3,False,False
+ORDER_0169,2023-11-06,14:30:00,Burger King,35,102.69,5,1,1,Centro,Credit Card,Hambúrguer,On Time,5,True,False
+ORDER_0170,2023-11-10,22:00:00,Pizza Express,36,37.61,2,4,4,Oeste,Cash,Pizza,On Time,2,True,False
+ORDER_0171,2023-11-11,12:45:00,Pasta Bella,31,117.4,3,4,4,Norte,Cash,Italiana,On Time,4,False,False
+ORDER_0172,2023-11-12,12:00:00,Food Box,33,14.9,2,2,4,Sul,Credit Card,Variada,On Time,5,False,False
+ORDER_0173,2023-11-14,11:45:00,Veggie Life,30,27.4,1,4,5,Centro,PIX,Vegetariana,On Time,4,False,False
+ORDER_0174,2023-11-14,12:15:00,Veggie Life,29,63.65,2,1,4,Sul,Credit Card,Vegetariana,On Time,4,False,False
+ORDER_0175,2023-11-16,21:45:00,Burger King,31,109.15,1,2,4,Norte,Cash,Hambúrguer,On Time,2,False,True
+ORDER_0176,2023-11-23,21:15:00,Sushi House,31,79.07,1,4,3,Centro,PIX,Japonesa,On Time,3,False,False
+ORDER_0177,2023-11-23,22:30:00,Sabor Caseiro,27,69.93,2,2,4,Sul,PIX,Brasileira,On Time,2,True,False
+ORDER_0178,2023-11-24,14:45:00,Sushi House,30,120.38,3,4,3,Leste,Credit Card,Japonesa,On Time,5,True,False
+ORDER_0179,2023-11-25,14:00:00,Burger King,10,144.66,5,5,2,Norte,Cash,Hambúrguer,On Time,5,False,False
+ORDER_0180,2023-11-27,21:15:00,Veggie Life,42,100.17,5,5,5,Norte,Cash,Vegetariana,On Time,5,True,False
+ORDER_0181,2023-11-27,18:30:00,Sushi House,39,61.31,1,3,5,Norte,PIX,Japonesa,On Time,2,False,False
+ORDER_0182,2023-12-04,18:00:00,Veggie Life,34,67.46,1,3,5,Leste,Credit Card,Vegetariana,On Time,4,True,True
+ORDER_0183,2023-12-06,18:30:00,Pasta Bella,37,41.35,3,2,4,Leste,Debit Card,Italiana,On Time,4,True,False
+ORDER_0184,2023-12-06,20:45:00,Food Box,38,83.02,4,5,4,Oeste,Debit Card,Variada,On Time,1,True,False
+ORDER_0185,2023-12-10,20:15:00,Sabor Caseiro,28,31.11,2,5,5,Sul,Cash,Brasileira,On Time,5,False,True
+ORDER_0186,2023-12-10,20:15:00,Pasta Bella,30,96.56,1,1,4,Oeste,Debit Card,Italiana,On Time,4,True,False
+ORDER_0187,2023-12-11,19:30:00,Veggie Life,40,140.17,5,5,4,Sul,Cash,Vegetariana,On Time,1,False,True
+ORDER_0188,2023-12-11,13:00:00,Veggie Life,37,101.53,3,2,1,Leste,Cash,Vegetariana,On Time,4,True,False
+ORDER_0189,2023-12-12,13:45:00,Pizza Express,55,65.93,2,4,4,Leste,Cash,Pizza,Delayed,5,True,False
+ORDER_0190,2023-12-12,11:00:00,Pizza Express,51,95.81,3,5,4,Oeste,Debit Card,Pizza,Delayed,3,True,False
+ORDER_0191,2023-12-14,11:00:00,Pasta Bella,44,128.62,2,5,4,Centro,Cash,Italiana,On Time,5,True,False
+ORDER_0192,2023-12-15,22:15:00,Taco Feliz,27,127.11,2,5,4,Oeste,PIX,Mexicana,On Time,2,True,False
+ORDER_0193,2023-12-17,21:45:00,Pasta Bella,29,49.89,1,5,4,Sul,Credit Card,Italiana,On Time,4,False,False
+ORDER_0194,2023-12-18,20:00:00,Pizza Express,25,95.31,3,4,5,Oeste,Credit Card,Pizza,On Time,4,False,True
+ORDER_0195,2023-12-25,11:00:00,Veggie Life,38,75.26,3,5,5,Norte,Cash,Vegetariana,On Time,2,True,False
+ORDER_0196,2023-12-25,14:45:00,Burger King,8,104.2,5,2,5,Sul,Credit Card,Hambúrguer,On Time,2,True,False
+ORDER_0197,2023-12-26,12:00:00,Pasta Bella,30,91.51,5,5,5,Sul,Debit Card,Italiana,On Time,3,True,False
+ORDER_0198,2023-12-26,19:15:00,Veggie Life,32,8.91,1,4,5,Centro,Debit Card,Vegetariana,On Time,4,True,False
+ORDER_0199,2023-12-26,21:00:00,Burger King,20,69.56,1,5,1,Leste,Credit Card,Hambúrguer,On Time,4,False,False
+ORDER_0200,2023-12-30,11:30:00,Burger King,43,85.96,4,4,3,Sul,Debit Card,Hambúrguer,On Time,3,True,True

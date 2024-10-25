@@ -1,0 +1,201 @@
+play_id,date,time,user_id,genre,duration_seconds,platform,subscription_type,stream_quality,offline_mode,subgenre,skipped,skip_reason,liked,added_to_playlist,share_count,user_age,listening_device,audio_quality_setting
+PLAY_0001,2023-01-02,06:15:00,USER_0009,Rock,63,Web,Free,High,True,Metal,False,,True,False,4,55,Smartphone,Auto
+PLAY_0002,2023-01-05,06:30:00,USER_0043,Electronic,156,Desktop,Free,Low,True,House,False,,False,False,2,35,Computer,Normal
+PLAY_0003,2023-01-09,02:00:00,USER_0048,Rock,203,Mobile,Family,Low,False,Indie,True,Não gostou,False,False,0,64,Tablet,Auto
+PLAY_0004,2023-01-13,19:15:00,USER_0039,Jazz,207,Desktop,Family,Low,False,Fusion,False,,False,False,4,48,Computer,Normal
+PLAY_0005,2023-01-14,19:30:00,USER_0093,Rock,226,Desktop,Family,Medium,True,Classic Rock,False,,False,True,4,27,Smartphone,Auto
+PLAY_0006,2023-01-15,20:00:00,USER_0042,Rock,228,Mobile,Premium,Low,False,Metal,False,,False,True,3,30,Tablet,Auto
+PLAY_0007,2023-01-15,06:15:00,USER_0026,Jazz,301,Web,Premium,High,False,Fusion,False,,False,False,3,56,Smart Speaker,Auto
+PLAY_0008,2023-01-21,06:15:00,USER_0099,Hip Hop,229,Web,Family,Low,False,Trap,False,,False,False,3,54,Computer,High
+PLAY_0009,2023-01-21,22:15:00,USER_0050,Rock,191,Smart TV,Premium,High,False,Classic Rock,False,,True,False,0,17,Smartphone,Auto
+PLAY_0010,2023-01-22,18:45:00,USER_0025,Jazz,114,Mobile,Premium,Ultra,True,Swing,False,,False,False,0,44,Computer,Auto
+PLAY_0011,2023-01-28,21:00:00,USER_0024,MPB,128,Smart TV,Free,Medium,False,Samba,True,Outro,True,False,2,56,Tablet,Auto
+PLAY_0012,2023-01-28,02:00:00,USER_0013,Electronic,242,Smart TV,Family,Ultra,False,Trance,True,Interrupção,False,False,3,25,Tablet,Normal
+PLAY_0013,2023-01-29,23:30:00,USER_0060,Electronic,274,Smart TV,Family,Ultra,False,Trance,False,,False,False,4,17,Smart Speaker,Auto
+PLAY_0014,2023-02-02,00:00:00,USER_0007,Rock,302,Web,Premium,High,True,Indie,False,,False,True,1,26,Smartphone,Normal
+PLAY_0015,2023-02-04,06:00:00,USER_0057,Hip Hop,160,Mobile,Family,Ultra,False,Rap,False,,True,False,2,28,Smartphone,Auto
+PLAY_0016,2023-02-04,06:30:00,USER_0036,Hip Hop,192,Smart TV,Free,High,True,Trap,False,,True,False,0,25,Smart Speaker,Auto
+PLAY_0017,2023-02-05,06:15:00,USER_0045,MPB,225,Mobile,Free,Low,True,Bossa Nova,False,,False,False,2,29,Smart Speaker,High
+PLAY_0018,2023-02-10,18:30:00,USER_0020,Rock,333,Mobile,Free,Low,False,Indie,True,Não gostou,True,True,2,33,Smartphone,Normal
+PLAY_0019,2023-02-10,15:30:00,USER_0065,Electronic,217,Web,Family,High,False,Techno,False,,True,True,2,24,Computer,Auto
+PLAY_0020,2023-02-11,21:45:00,USER_0008,Hip Hop,303,Smart TV,Family,Low,False,Trap,False,,True,False,2,54,Computer,Normal
+PLAY_0021,2023-02-13,09:45:00,USER_0016,Rock,220,Smart TV,Family,Medium,True,Metal,False,,False,False,1,43,Smart Speaker,Normal
+PLAY_0022,2023-02-13,22:45:00,USER_0014,Hip Hop,279,Mobile,Family,Ultra,False,R&B,True,Não gostou,False,False,3,18,Computer,Low
+PLAY_0023,2023-02-14,09:45:00,USER_0076,Jazz,272,Desktop,Family,Medium,True,Fusion,False,,False,False,4,35,Smartphone,High
+PLAY_0024,2023-02-17,22:15:00,USER_0087,Hip Hop,220,Web,Free,Ultra,True,R&B,False,,True,False,2,21,Tablet,High
+PLAY_0025,2023-02-18,19:00:00,USER_0015,Electronic,149,Web,Premium,Low,False,Trance,False,,False,False,2,42,Tablet,High
+PLAY_0026,2023-02-19,18:00:00,USER_0092,Pop,194,Web,Free,Medium,False,Pop Brasil,False,,False,False,2,17,Computer,Low
+PLAY_0027,2023-02-20,19:15:00,USER_0098,MPB,299,Web,Family,Low,False,Bossa Nova,False,,False,False,3,44,Smart Speaker,Low
+PLAY_0028,2023-02-21,06:00:00,USER_0066,MPB,263,Smart TV,Free,Ultra,False,Bossa Nova,False,,True,False,0,53,Smart Speaker,High
+PLAY_0029,2023-02-21,12:30:00,USER_0032,Electronic,184,Smart TV,Family,High,False,Techno,False,,True,True,0,18,Smart Speaker,Low
+PLAY_0030,2023-02-22,07:45:00,USER_0087,Hip Hop,189,Desktop,Family,High,False,R&B,False,,True,False,1,31,Smart Speaker,Low
+PLAY_0031,2023-02-22,22:30:00,USER_0063,Rock,106,Web,Free,Medium,True,Metal,True,Outro,False,True,0,45,Smart Speaker,Low
+PLAY_0032,2023-02-23,00:30:00,USER_0086,Hip Hop,297,Web,Family,Low,False,R&B,False,,False,True,2,55,Computer,High
+PLAY_0033,2023-02-24,22:45:00,USER_0051,Electronic,263,Mobile,Premium,Low,False,House,False,,True,False,2,17,Tablet,High
+PLAY_0034,2023-02-28,20:45:00,USER_0025,MPB,202,Smart TV,Family,Medium,True,Bossa Nova,False,,True,True,2,32,Tablet,High
+PLAY_0035,2023-03-03,08:30:00,USER_0058,Hip Hop,222,Web,Premium,High,False,Trap,False,,True,False,1,56,Computer,Low
+PLAY_0036,2023-03-03,09:45:00,USER_0063,MPB,80,Desktop,Premium,Ultra,False,Forró,False,,False,False,2,27,Smart Speaker,High
+PLAY_0037,2023-03-04,00:00:00,USER_0062,Rock,181,Desktop,Family,Medium,True,Alternative,False,,True,False,0,50,Computer,Low
+PLAY_0038,2023-03-04,17:30:00,USER_0022,MPB,290,Smart TV,Free,Ultra,True,Bossa Nova,False,,False,False,3,58,Tablet,Auto
+PLAY_0039,2023-03-06,20:00:00,USER_0058,MPB,269,Desktop,Premium,High,False,Forró,True,Não gostou,False,True,3,16,Smartphone,Low
+PLAY_0040,2023-03-07,22:45:00,USER_0058,Pop,230,Desktop,Free,Low,True,Pop Internacional,False,,False,False,4,60,Computer,Normal
+PLAY_0041,2023-03-13,19:15:00,USER_0086,Pop,209,Smart TV,Premium,High,False,Pop Internacional,False,,True,False,0,30,Smart Speaker,High
+PLAY_0042,2023-03-22,22:30:00,USER_0049,Jazz,258,Web,Family,Medium,False,Bebop,True,Interrupção,True,False,2,41,Tablet,High
+PLAY_0043,2023-03-22,06:30:00,USER_0052,Pop,193,Web,Family,Low,False,K-pop,False,,False,False,3,52,Tablet,Normal
+PLAY_0044,2023-03-27,06:45:00,USER_0042,MPB,110,Desktop,Premium,Medium,False,Bossa Nova,False,,False,True,0,36,Tablet,Low
+PLAY_0045,2023-03-29,20:00:00,USER_0070,Electronic,210,Desktop,Family,Medium,False,Trance,False,,False,False,3,64,Tablet,Auto
+PLAY_0046,2023-03-30,11:30:00,USER_0015,MPB,234,Web,Premium,High,False,Forró,False,,False,False,2,46,Smart Speaker,Normal
+PLAY_0047,2023-04-02,06:30:00,USER_0054,Electronic,277,Smart TV,Family,Medium,False,Techno,False,,True,False,3,40,Smartphone,Normal
+PLAY_0048,2023-04-06,21:45:00,USER_0060,Electronic,124,Desktop,Free,High,False,House,False,,False,False,4,38,Tablet,Low
+PLAY_0049,2023-04-06,22:00:00,USER_0097,Pop,203,Mobile,Family,Low,True,Pop Internacional,False,,False,False,4,39,Computer,High
+PLAY_0050,2023-04-09,06:30:00,USER_0008,Hip Hop,205,Smart TV,Free,High,False,R&B,False,,True,False,3,53,Smartphone,Low
+PLAY_0051,2023-04-10,06:45:00,USER_0053,Rock,144,Desktop,Family,Low,False,Classic Rock,False,,False,False,0,43,Tablet,Normal
+PLAY_0052,2023-04-11,23:30:00,USER_0060,Pop,239,Desktop,Free,High,False,K-pop,False,,False,False,0,36,Smartphone,Normal
+PLAY_0053,2023-04-13,17:00:00,USER_0005,Pop,255,Mobile,Family,Ultra,False,K-pop,False,,False,False,0,58,Computer,High
+PLAY_0054,2023-04-13,18:15:00,USER_0068,Hip Hop,193,Mobile,Free,Ultra,False,Trap,False,,False,False,3,33,Tablet,High
+PLAY_0055,2023-04-16,04:00:00,USER_0006,Rock,333,Web,Premium,Medium,False,Alternative,False,,False,False,0,51,Computer,High
+PLAY_0056,2023-04-17,10:00:00,USER_0096,MPB,191,Smart TV,Premium,High,False,Bossa Nova,False,,False,False,2,50,Smart Speaker,Low
+PLAY_0057,2023-04-18,13:30:00,USER_0094,Jazz,183,Smart TV,Free,High,False,Fusion,False,,True,True,4,60,Tablet,High
+PLAY_0058,2023-04-23,13:00:00,USER_0047,Jazz,181,Web,Family,Low,False,Swing,True,Música repetida,False,False,2,24,Tablet,Normal
+PLAY_0059,2023-04-26,19:45:00,USER_0099,MPB,161,Smart TV,Free,Medium,False,Samba,False,,False,False,0,53,Tablet,Normal
+PLAY_0060,2023-05-01,03:30:00,USER_0055,Pop,176,Smart TV,Family,High,False,Pop Internacional,True,Interrupção,True,False,2,45,Tablet,Auto
+PLAY_0061,2023-05-02,06:00:00,USER_0040,Rock,124,Smart TV,Premium,Medium,True,Metal,False,,False,False,0,59,Smart Speaker,Low
+PLAY_0062,2023-05-08,08:30:00,USER_0052,Pop,199,Smart TV,Family,Ultra,False,K-pop,False,,False,False,3,49,Tablet,Auto
+PLAY_0063,2023-05-09,22:15:00,USER_0016,Electronic,213,Smart TV,Premium,High,False,Techno,False,,False,False,2,47,Smartphone,Normal
+PLAY_0064,2023-05-11,19:30:00,USER_0013,Pop,73,Mobile,Family,High,True,K-pop,False,,False,True,3,18,Tablet,Auto
+PLAY_0065,2023-05-11,21:30:00,USER_0030,Pop,204,Smart TV,Family,Medium,False,K-pop,False,,False,False,3,18,Smart Speaker,Normal
+PLAY_0066,2023-05-11,17:45:00,USER_0019,MPB,213,Mobile,Family,High,True,Samba,False,,True,False,1,43,Tablet,Auto
+PLAY_0067,2023-05-14,07:30:00,USER_0017,MPB,241,Smart TV,Free,Medium,False,Samba,False,,True,True,0,59,Smartphone,High
+PLAY_0068,2023-05-15,09:30:00,USER_0063,MPB,282,Web,Free,High,False,Bossa Nova,False,,True,False,4,30,Smart Speaker,Auto
+PLAY_0069,2023-05-15,22:45:00,USER_0019,Jazz,261,Desktop,Premium,Low,True,Fusion,False,,False,False,0,56,Smart Speaker,High
+PLAY_0070,2023-05-16,14:30:00,USER_0092,Electronic,173,Mobile,Premium,Medium,False,Trance,True,Música repetida,False,True,4,38,Smartphone,High
+PLAY_0071,2023-05-17,01:00:00,USER_0058,MPB,166,Smart TV,Free,High,False,Samba,False,,True,False,0,55,Smartphone,Low
+PLAY_0072,2023-05-19,07:30:00,USER_0055,Rock,245,Web,Premium,Ultra,False,Metal,False,,False,False,3,26,Smartphone,High
+PLAY_0073,2023-05-23,09:45:00,USER_0090,Jazz,177,Desktop,Free,High,True,Bebop,False,,False,False,2,63,Smartphone,High
+PLAY_0074,2023-05-30,21:45:00,USER_0090,Hip Hop,136,Mobile,Family,Ultra,True,Trap,False,,False,False,2,47,Smartphone,Auto
+PLAY_0075,2023-06-01,20:15:00,USER_0062,Rock,352,Desktop,Premium,Ultra,False,Classic Rock,False,,False,False,1,51,Smart Speaker,Normal
+PLAY_0076,2023-06-01,06:15:00,USER_0023,Rock,191,Web,Premium,Low,False,Metal,False,,True,False,4,48,Smart Speaker,Low
+PLAY_0077,2023-06-06,06:00:00,USER_0009,MPB,172,Mobile,Free,Medium,False,Bossa Nova,False,,False,False,4,39,Tablet,High
+PLAY_0078,2023-06-09,17:15:00,USER_0012,Hip Hop,78,Desktop,Premium,High,True,Rap,False,,False,False,4,54,Tablet,Low
+PLAY_0079,2023-06-09,08:45:00,USER_0001,Hip Hop,261,Smart TV,Premium,Low,False,Rap,True,Outro,False,False,3,49,Computer,Auto
+PLAY_0080,2023-06-10,22:30:00,USER_0058,Jazz,151,Mobile,Family,High,False,Swing,False,,False,False,4,43,Tablet,High
+PLAY_0081,2023-06-11,12:00:00,USER_0001,Hip Hop,212,Desktop,Premium,Ultra,False,Trap,False,,False,True,2,52,Tablet,Auto
+PLAY_0082,2023-06-12,09:45:00,USER_0034,Electronic,268,Web,Family,Medium,True,House,False,,False,False,3,22,Smartphone,Low
+PLAY_0083,2023-06-14,08:00:00,USER_0096,MPB,152,Web,Free,High,False,Forró,False,,True,False,0,19,Smartphone,Auto
+PLAY_0084,2023-06-16,04:00:00,USER_0048,Hip Hop,215,Mobile,Premium,High,False,Rap,False,,False,False,4,52,Tablet,Low
+PLAY_0085,2023-06-19,01:00:00,USER_0089,Jazz,301,Desktop,Family,Ultra,False,Swing,False,,False,True,4,16,Computer,Auto
+PLAY_0086,2023-06-19,06:30:00,USER_0001,Electronic,63,Mobile,Free,High,False,House,False,,False,False,0,16,Smartphone,Low
+PLAY_0087,2023-06-20,17:15:00,USER_0016,Pop,161,Mobile,Premium,High,False,Pop Brasil,False,,True,False,4,62,Tablet,Normal
+PLAY_0088,2023-06-21,19:15:00,USER_0061,Pop,156,Desktop,Free,Ultra,False,Pop Brasil,False,,True,False,0,35,Tablet,Auto
+PLAY_0089,2023-06-21,06:30:00,USER_0064,Electronic,199,Desktop,Premium,Low,True,Trance,False,,True,False,3,34,Smart Speaker,Auto
+PLAY_0090,2023-06-24,06:45:00,USER_0063,Jazz,207,Smart TV,Free,Ultra,False,Swing,True,Interrupção,False,False,2,44,Computer,Normal
+PLAY_0091,2023-06-28,07:45:00,USER_0069,Electronic,146,Desktop,Free,Low,False,Techno,True,Não gostou,False,False,0,25,Smart Speaker,Normal
+PLAY_0092,2023-06-29,18:45:00,USER_0022,MPB,171,Web,Family,Medium,True,Forró,True,Interrupção,True,False,1,33,Computer,Auto
+PLAY_0093,2023-07-06,10:00:00,USER_0093,MPB,164,Mobile,Free,Low,False,Bossa Nova,False,,False,False,0,43,Smartphone,Normal
+PLAY_0094,2023-07-07,07:45:00,USER_0067,Pop,189,Mobile,Premium,Low,False,K-pop,False,,False,False,4,50,Computer,High
+PLAY_0095,2023-07-07,18:00:00,USER_0076,Hip Hop,223,Web,Premium,Medium,True,R&B,False,,False,False,3,58,Tablet,Low
+PLAY_0096,2023-07-08,17:15:00,USER_0026,Jazz,265,Desktop,Family,Low,False,Swing,False,,False,False,3,62,Tablet,Low
+PLAY_0097,2023-07-09,11:30:00,USER_0016,Pop,273,Web,Premium,Ultra,False,Pop Brasil,True,Outro,False,False,0,46,Computer,Low
+PLAY_0098,2023-07-09,12:30:00,USER_0051,Hip Hop,249,Web,Premium,Low,False,Rap,False,,False,False,2,42,Computer,High
+PLAY_0099,2023-07-09,03:30:00,USER_0086,Hip Hop,158,Smart TV,Premium,Medium,True,R&B,False,,True,False,1,26,Computer,Normal
+PLAY_0100,2023-07-10,20:15:00,USER_0057,MPB,210,Web,Free,Ultra,False,Samba,True,Outro,False,False,3,64,Smart Speaker,Normal
+PLAY_0101,2023-07-11,01:00:00,USER_0029,Rock,352,Mobile,Free,Medium,False,Alternative,False,,False,True,4,64,Computer,Auto
+PLAY_0102,2023-07-17,21:30:00,USER_0078,Rock,271,Web,Premium,Medium,False,Indie,False,,False,True,4,53,Smartphone,Normal
+PLAY_0103,2023-07-20,01:00:00,USER_0092,Electronic,184,Mobile,Family,High,False,House,False,,False,False,2,20,Smart Speaker,Auto
+PLAY_0104,2023-07-21,08:00:00,USER_0069,MPB,305,Mobile,Free,High,True,Forró,False,,False,False,3,23,Smart Speaker,High
+PLAY_0105,2023-07-25,22:30:00,USER_0047,Hip Hop,187,Mobile,Family,Medium,False,Rap,False,,True,False,0,49,Computer,Low
+PLAY_0106,2023-07-26,06:15:00,USER_0094,Jazz,170,Desktop,Premium,Medium,True,Fusion,False,,False,False,4,63,Smartphone,Low
+PLAY_0107,2023-07-27,19:45:00,USER_0062,Rock,294,Smart TV,Premium,Medium,True,Alternative,False,,True,True,2,27,Smart Speaker,Low
+PLAY_0108,2023-08-01,21:45:00,USER_0069,Hip Hop,131,Mobile,Free,High,False,Trap,False,,True,False,3,53,Tablet,Normal
+PLAY_0109,2023-08-02,18:45:00,USER_0076,Rock,95,Mobile,Premium,High,False,Metal,False,,False,False,3,16,Smart Speaker,Auto
+PLAY_0110,2023-08-03,11:00:00,USER_0016,Rock,266,Desktop,Free,Low,False,Alternative,False,,False,False,3,46,Computer,Auto
+PLAY_0111,2023-08-03,19:15:00,USER_0090,Rock,212,Mobile,Premium,Low,False,Indie,False,,True,False,3,19,Smartphone,High
+PLAY_0112,2023-08-04,20:30:00,USER_0090,Jazz,218,Web,Premium,Medium,False,Swing,True,Não gostou,False,False,3,64,Computer,Normal
+PLAY_0113,2023-08-05,14:00:00,USER_0048,MPB,188,Web,Free,Ultra,True,Bossa Nova,True,Música repetida,False,False,4,60,Tablet,High
+PLAY_0114,2023-08-06,01:30:00,USER_0085,Jazz,196,Smart TV,Free,Ultra,False,Swing,False,,True,False,2,20,Tablet,Auto
+PLAY_0115,2023-08-06,10:00:00,USER_0039,Pop,183,Mobile,Free,High,False,K-pop,True,Música repetida,False,False,3,45,Tablet,Auto
+PLAY_0116,2023-08-10,22:15:00,USER_0100,Hip Hop,172,Desktop,Premium,High,False,Rap,False,,False,False,1,39,Computer,Low
+PLAY_0117,2023-08-13,10:00:00,USER_0033,MPB,187,Web,Premium,High,True,Samba,False,,False,False,1,18,Smart Speaker,Normal
+PLAY_0118,2023-08-13,09:15:00,USER_0094,MPB,185,Desktop,Family,Medium,False,Bossa Nova,True,Mudança de humor,True,False,2,26,Computer,Auto
+PLAY_0119,2023-08-15,07:00:00,USER_0023,MPB,160,Desktop,Free,Ultra,False,Samba,False,,False,False,0,60,Smartphone,Low
+PLAY_0120,2023-08-19,17:15:00,USER_0010,MPB,177,Web,Premium,Low,True,Samba,False,,False,False,0,19,Smart Speaker,Normal
+PLAY_0121,2023-08-19,06:45:00,USER_0069,Jazz,60,Desktop,Premium,Medium,True,Swing,False,,False,False,0,41,Tablet,High
+PLAY_0122,2023-08-19,07:45:00,USER_0100,MPB,251,Web,Free,Low,False,Bossa Nova,False,,True,False,1,42,Computer,Normal
+PLAY_0123,2023-08-19,07:30:00,USER_0034,Electronic,233,Desktop,Family,Low,False,House,False,,False,False,0,61,Tablet,Normal
+PLAY_0124,2023-08-21,22:00:00,USER_0052,Hip Hop,205,Web,Free,Medium,True,R&B,False,,True,False,4,58,Tablet,Auto
+PLAY_0125,2023-08-21,06:00:00,USER_0095,MPB,224,Mobile,Family,Low,False,Bossa Nova,True,Interrupção,False,False,3,42,Smartphone,Auto
+PLAY_0126,2023-08-22,10:00:00,USER_0010,Hip Hop,226,Smart TV,Premium,Ultra,True,R&B,False,,True,False,1,57,Smart Speaker,Normal
+PLAY_0127,2023-08-24,17:15:00,USER_0019,Electronic,167,Web,Family,Low,False,House,False,,False,False,2,21,Smartphone,Auto
+PLAY_0128,2023-08-25,18:15:00,USER_0058,Electronic,178,Web,Premium,Ultra,False,Techno,False,,False,False,2,30,Smartphone,Auto
+PLAY_0129,2023-08-25,20:00:00,USER_0096,Hip Hop,242,Smart TV,Free,Ultra,False,R&B,False,,False,False,3,45,Smartphone,Auto
+PLAY_0130,2023-08-29,20:45:00,USER_0001,Rock,222,Web,Free,Ultra,False,Alternative,False,,True,False,1,57,Tablet,Low
+PLAY_0131,2023-08-30,07:15:00,USER_0069,Pop,333,Web,Free,High,False,Pop Internacional,False,,False,True,0,52,Smartphone,Low
+PLAY_0132,2023-08-31,09:15:00,USER_0004,Rock,307,Desktop,Family,Low,True,Metal,False,,False,False,0,52,Smartphone,Normal
+PLAY_0133,2023-09-01,12:30:00,USER_0016,Rock,266,Smart TV,Premium,Medium,False,Classic Rock,False,,False,False,4,57,Smart Speaker,Auto
+PLAY_0134,2023-09-09,02:30:00,USER_0024,Jazz,164,Mobile,Free,Medium,False,Bebop,False,,False,False,4,52,Smart Speaker,Low
+PLAY_0135,2023-09-09,18:00:00,USER_0080,Rock,176,Web,Free,Low,False,Indie,False,,False,False,0,50,Smartphone,Normal
+PLAY_0136,2023-09-10,18:45:00,USER_0002,MPB,150,Smart TV,Premium,High,True,Bossa Nova,False,,False,False,2,38,Smart Speaker,Auto
+PLAY_0137,2023-09-12,07:45:00,USER_0092,Jazz,227,Desktop,Free,High,True,Fusion,False,,False,False,2,21,Smart Speaker,High
+PLAY_0138,2023-09-14,08:30:00,USER_0032,Jazz,46,Mobile,Premium,Ultra,True,Bebop,False,,False,False,4,19,Smartphone,Auto
+PLAY_0139,2023-09-15,08:30:00,USER_0091,Electronic,182,Smart TV,Premium,Low,False,House,False,,False,True,3,33,Tablet,Auto
+PLAY_0140,2023-09-16,00:30:00,USER_0084,Rock,192,Mobile,Premium,Low,False,Metal,False,,False,False,0,24,Smartphone,Low
+PLAY_0141,2023-09-17,07:00:00,USER_0024,Electronic,119,Mobile,Premium,Medium,False,House,False,,False,False,4,64,Smart Speaker,Normal
+PLAY_0142,2023-09-18,09:15:00,USER_0012,Hip Hop,258,Mobile,Premium,Low,False,Rap,False,,True,False,4,44,Tablet,Normal
+PLAY_0143,2023-09-21,00:00:00,USER_0050,Pop,142,Web,Family,High,False,K-pop,False,,False,False,0,28,Computer,Low
+PLAY_0144,2023-09-22,08:45:00,USER_0035,Jazz,226,Web,Free,Low,True,Fusion,True,Outro,False,False,0,62,Tablet,Auto
+PLAY_0145,2023-09-25,21:15:00,USER_0033,Hip Hop,377,Desktop,Family,Medium,False,R&B,False,,False,False,2,32,Smart Speaker,High
+PLAY_0146,2023-09-25,00:00:00,USER_0033,Hip Hop,113,Desktop,Free,Ultra,False,R&B,False,,True,False,3,60,Tablet,Auto
+PLAY_0147,2023-09-27,22:30:00,USER_0061,MPB,201,Smart TV,Family,Medium,False,Bossa Nova,False,,False,False,3,47,Smartphone,Auto
+PLAY_0148,2023-09-28,20:30:00,USER_0051,Pop,186,Desktop,Premium,Medium,False,K-pop,True,Mudança de humor,False,False,0,63,Computer,High
+PLAY_0149,2023-09-28,17:15:00,USER_0043,Hip Hop,174,Mobile,Free,Ultra,False,Trap,False,,False,False,1,37,Computer,Low
+PLAY_0150,2023-09-28,06:30:00,USER_0012,Hip Hop,256,Mobile,Free,Medium,False,Trap,False,,True,False,4,19,Computer,Normal
+PLAY_0151,2023-10-01,06:45:00,USER_0067,Pop,276,Web,Family,Medium,True,Pop Brasil,False,,False,False,4,20,Smart Speaker,Low
+PLAY_0152,2023-10-04,11:00:00,USER_0065,Pop,256,Mobile,Family,Low,True,Pop Internacional,True,Música repetida,False,True,0,52,Smart Speaker,Low
+PLAY_0153,2023-10-07,21:15:00,USER_0033,Hip Hop,167,Smart TV,Free,Low,False,Trap,True,Outro,False,False,1,56,Computer,Auto
+PLAY_0154,2023-10-10,17:30:00,USER_0040,Pop,356,Mobile,Family,Ultra,False,Pop Brasil,False,,False,False,2,64,Tablet,Normal
+PLAY_0155,2023-10-10,06:00:00,USER_0074,Hip Hop,104,Mobile,Family,Low,False,Rap,False,,False,False,0,28,Computer,Normal
+PLAY_0156,2023-10-11,15:30:00,USER_0043,Hip Hop,148,Smart TV,Family,Low,False,Rap,False,,False,False,0,49,Tablet,Low
+PLAY_0157,2023-10-11,22:15:00,USER_0044,MPB,220,Desktop,Premium,Medium,True,Samba,False,,True,True,4,60,Tablet,High
+PLAY_0158,2023-10-13,09:15:00,USER_0029,Rock,215,Desktop,Premium,High,True,Indie,False,,False,False,0,37,Smart Speaker,Low
+PLAY_0159,2023-10-16,22:30:00,USER_0013,Hip Hop,239,Smart TV,Family,Low,False,R&B,False,,False,False,0,38,Tablet,High
+PLAY_0160,2023-10-20,16:30:00,USER_0012,Electronic,305,Web,Family,High,False,House,False,,True,False,0,18,Computer,Normal
+PLAY_0161,2023-10-21,07:15:00,USER_0095,Jazz,203,Mobile,Premium,Low,True,Bebop,False,,True,False,4,57,Smart Speaker,Low
+PLAY_0162,2023-10-22,01:00:00,USER_0046,Rock,217,Smart TV,Premium,Low,False,Indie,True,Música repetida,False,False,2,49,Smartphone,Auto
+PLAY_0163,2023-10-23,04:00:00,USER_0002,Rock,174,Mobile,Free,Ultra,True,Alternative,False,,False,False,2,47,Smartphone,Low
+PLAY_0164,2023-10-28,12:00:00,USER_0035,Rock,245,Web,Free,Ultra,False,Indie,False,,False,False,0,60,Smart Speaker,Normal
+PLAY_0165,2023-10-31,07:45:00,USER_0087,MPB,191,Mobile,Premium,Ultra,True,Samba,False,,False,False,4,64,Computer,Auto
+PLAY_0166,2023-11-03,22:30:00,USER_0081,Hip Hop,191,Smart TV,Family,High,False,R&B,False,,False,False,2,36,Smartphone,Auto
+PLAY_0167,2023-11-03,16:30:00,USER_0090,MPB,243,Mobile,Family,Medium,False,Samba,False,,False,False,2,61,Smartphone,High
+PLAY_0168,2023-11-05,18:30:00,USER_0008,Hip Hop,272,Desktop,Family,Low,False,R&B,False,,True,False,2,59,Tablet,Auto
+PLAY_0169,2023-11-06,23:00:00,USER_0093,MPB,78,Web,Family,Low,True,Samba,True,Interrupção,False,False,4,36,Tablet,Auto
+PLAY_0170,2023-11-10,01:00:00,USER_0026,MPB,232,Web,Free,Low,True,Samba,True,Mudança de humor,False,False,4,59,Computer,Low
+PLAY_0171,2023-11-11,20:15:00,USER_0074,Jazz,194,Web,Premium,High,False,Bebop,False,,True,False,0,26,Smart Speaker,Normal
+PLAY_0172,2023-11-12,00:00:00,USER_0090,Electronic,267,Smart TV,Family,Ultra,False,House,False,,True,False,3,54,Computer,High
+PLAY_0173,2023-11-14,21:00:00,USER_0034,MPB,195,Web,Free,Medium,False,Forró,False,,False,False,2,19,Smart Speaker,Low
+PLAY_0174,2023-11-14,20:30:00,USER_0007,Jazz,288,Desktop,Family,High,True,Fusion,True,Música repetida,False,False,3,16,Smartphone,Auto
+PLAY_0175,2023-11-16,09:45:00,USER_0068,Pop,169,Smart TV,Premium,Ultra,False,Pop Brasil,True,Interrupção,False,True,4,43,Tablet,Auto
+PLAY_0176,2023-11-23,21:00:00,USER_0058,Electronic,76,Desktop,Free,High,False,Trance,False,,False,False,4,39,Computer,High
+PLAY_0177,2023-11-23,10:00:00,USER_0075,MPB,273,Mobile,Premium,Medium,False,Samba,True,Interrupção,False,True,4,50,Computer,Normal
+PLAY_0178,2023-11-24,22:00:00,USER_0029,Rock,159,Mobile,Premium,Ultra,True,Indie,False,,False,False,3,28,Smart Speaker,High
+PLAY_0179,2023-11-25,06:15:00,USER_0036,Pop,115,Mobile,Free,High,False,Pop Brasil,False,,False,False,4,62,Smart Speaker,Low
+PLAY_0180,2023-11-27,08:00:00,USER_0089,Pop,211,Mobile,Free,Medium,True,Pop Brasil,False,,False,False,0,49,Computer,High
+PLAY_0181,2023-11-27,04:30:00,USER_0021,Jazz,196,Desktop,Free,Low,True,Swing,True,Não gostou,True,False,4,26,Smart Speaker,Auto
+PLAY_0182,2023-12-04,23:00:00,USER_0036,Pop,259,Smart TV,Free,Medium,False,Pop Internacional,False,,False,False,1,51,Computer,Low
+PLAY_0183,2023-12-06,18:45:00,USER_0010,Electronic,264,Smart TV,Free,Low,True,Trance,True,Interrupção,False,False,3,32,Computer,Auto
+PLAY_0184,2023-12-06,19:45:00,USER_0073,MPB,216,Web,Free,High,False,Samba,False,,False,False,1,50,Computer,Normal
+PLAY_0185,2023-12-10,22:00:00,USER_0024,MPB,157,Desktop,Free,Ultra,False,Bossa Nova,False,,False,False,4,33,Smartphone,Auto
+PLAY_0186,2023-12-10,03:30:00,USER_0064,Rock,227,Mobile,Family,Ultra,False,Classic Rock,False,,False,False,0,55,Smart Speaker,Auto
+PLAY_0187,2023-12-11,16:30:00,USER_0099,Jazz,220,Desktop,Premium,High,False,Bebop,False,,True,False,2,37,Tablet,High
+PLAY_0188,2023-12-11,07:45:00,USER_0049,Rock,244,Web,Free,Ultra,True,Metal,False,,False,True,4,39,Tablet,Auto
+PLAY_0189,2023-12-12,09:45:00,USER_0099,Pop,158,Web,Family,Ultra,False,K-pop,False,,False,False,0,34,Smart Speaker,Low
+PLAY_0190,2023-12-12,17:00:00,USER_0036,Rock,186,Desktop,Family,Low,False,Alternative,False,,True,False,3,52,Computer,Low
+PLAY_0191,2023-12-14,20:45:00,USER_0082,Electronic,241,Desktop,Family,High,True,House,False,,True,False,1,54,Tablet,Normal
+PLAY_0192,2023-12-15,07:30:00,USER_0096,MPB,285,Desktop,Premium,Medium,False,Samba,False,,False,True,1,36,Tablet,Low
+PLAY_0193,2023-12-17,21:45:00,USER_0024,Pop,268,Smart TV,Free,Low,True,K-pop,False,,True,False,1,23,Smart Speaker,High
+PLAY_0194,2023-12-18,08:30:00,USER_0023,Rock,215,Mobile,Family,High,True,Classic Rock,False,,False,False,3,43,Tablet,Normal
+PLAY_0195,2023-12-25,04:30:00,USER_0062,Jazz,181,Desktop,Premium,Low,False,Bebop,False,,True,False,0,20,Computer,Low
+PLAY_0196,2023-12-25,06:15:00,USER_0096,Electronic,234,Desktop,Premium,Medium,True,House,False,,False,False,3,32,Smart Speaker,High
+PLAY_0197,2023-12-26,21:45:00,USER_0037,Electronic,145,Desktop,Premium,Medium,False,Trance,False,,True,False,1,52,Computer,Low
+PLAY_0198,2023-12-26,06:00:00,USER_0012,Rock,161,Web,Family,High,False,Alternative,True,Não gostou,False,False,4,51,Tablet,Low
+PLAY_0199,2023-12-26,03:30:00,USER_0055,MPB,301,Web,Free,Medium,False,Bossa Nova,False,,False,False,2,34,Tablet,Auto
+PLAY_0200,2023-12-30,10:00:00,USER_0013,Rock,234,Smart TV,Family,Low,True,Indie,False,,False,False,3,42,Computer,Low

@@ -1,0 +1,2001 @@
+order_id,date,customer_id,category,subcategory,price,size,color,returned,rating,payment_method,margin,day_of_week,day_of_month
+ORDER_0001,2022-01-01,CUST_0112,Saias,Longa,354.95,M,Preto,False,4,Boleto,128.17,5,1
+ORDER_0002,2022-01-01,CUST_0301,Calças,Social,405.07,P,Preto,False,4,Credit Card,146.28,5,1
+ORDER_0003,2022-01-01,CUST_0077,Calças,Social,260.4,M,Preto,False,5,PIX,94.03,5,1
+ORDER_0004,2022-01-01,CUST_0177,Blusas,Moletom,275.0,GG,Branco,True,3,PIX,85.94,5,1
+ORDER_0005,2022-01-01,CUST_0343,Calças,Jeans,315.49,GG,Branco,False,3,Debit Card,105.16,5,1
+ORDER_0006,2022-01-02,CUST_0148,Acessórios,Cintos,141.65,Único,Prata,False,2,PIX,49.19,6,2
+ORDER_0007,2022-01-02,CUST_0101,Calças,Jeans,228.82,G,Preto,False,4,Boleto,76.27,6,2
+ORDER_0008,2022-01-02,CUST_0246,Vestidos,Festa,464.24,P,Preto,False,4,Credit Card,177.31,6,2
+ORDER_0009,2022-01-02,CUST_0117,Vestidos,Praia,147.63,M,Rosa,False,4,PIX,51.26,6,2
+ORDER_0010,2022-01-02,CUST_0092,Saias,Longa,346.82,M,Rosa,True,2,Boleto,125.24,6,2
+ORDER_0011,2022-01-03,CUST_0401,Acessórios,Cintos,148.02,Único,Preto,False,4,Debit Card,61.67,0,3
+ORDER_0012,2022-01-03,CUST_0028,Acessórios,Bijuterias,117.58,Único,Preto,False,5,Boleto,58.79,0,3
+ORDER_0013,2022-01-03,CUST_0425,Saias,Midi,255.47,P,Vermelho,False,5,Credit Card,106.44,0,3
+ORDER_0014,2022-01-04,CUST_0450,Vestidos,Praia,174.41,G,Azul,False,4,Boleto,72.67,1,4
+ORDER_0015,2022-01-04,CUST_0025,Saias,Midi,182.05,M,Rosa,False,4,Debit Card,75.86,1,4
+ORDER_0016,2022-01-05,CUST_0058,Blusas,Social,159.77,GG,Rosa,True,3,PIX,63.91,2,5
+ORDER_0017,2022-01-05,CUST_0498,Blusas,Social,197.29,GG,Branco,False,5,PIX,78.92,2,5
+ORDER_0018,2022-01-05,CUST_0297,Calças,Jeans,193.46,M,Branco,False,5,Credit Card,77.39,2,5
+ORDER_0019,2022-01-05,CUST_0134,Vestidos,Festa,396.4,P,Preto,False,3,Boleto,181.68,2,5
+ORDER_0020,2022-01-05,CUST_0331,Acessórios,Bolsas,324.22,Único,Dourado,False,5,PIX,148.6,2,5
+ORDER_0021,2022-01-06,CUST_0249,Acessórios,Cintos,67.52,Único,Dourado,False,4,PIX,33.76,3,6
+ORDER_0022,2022-01-07,CUST_0038,Blusas,Moletom,162.73,M,Preto,False,5,Debit Card,73.23,4,7
+ORDER_0023,2022-01-07,CUST_0390,Acessórios,Cintos,120.23,Único,Dourado,False,5,Debit Card,60.12,4,7
+ORDER_0024,2022-01-07,CUST_0429,Acessórios,Bolsas,165.65,Único,Dourado,False,2,PIX,91.11,4,7
+ORDER_0025,2022-01-07,CUST_0075,Vestidos,Festa,532.27,M,Azul,False,5,Credit Card,292.75,4,7
+ORDER_0026,2022-01-07,CUST_0142,Calças,Moletom,177.75,GG,Branco,False,3,Credit Card,79.99,4,7
+ORDER_0027,2022-01-08,CUST_0322,Blusas,Moletom,219.8,M,Rosa,False,5,Credit Card,82.43,5,8
+ORDER_0028,2022-01-08,CUST_0168,Vestidos,Festa,592.94,M,Vermelho,False,3,Boleto,271.77,5,8
+ORDER_0029,2022-01-08,CUST_0259,Calças,Social,236.72,GG,Branco,False,5,Credit Card,102.58,5,8
+ORDER_0030,2022-01-09,CUST_0373,Blusas,T-shirt,99.6,GG,Branco,True,1,Debit Card,34.86,6,9
+ORDER_0031,2022-01-09,CUST_0355,Vestidos,Casual,183.72,M,Rosa,False,3,Credit Card,68.89,6,9
+ORDER_0032,2022-01-09,CUST_0225,Blusas,T-shirt,68.08,GG,Azul,False,5,Debit Card,23.83,6,9
+ORDER_0033,2022-01-10,CUST_0152,Saias,Midi,134.81,M,Vermelho,False,4,Credit Card,67.41,0,10
+ORDER_0034,2022-01-10,CUST_0019,Blusas,Moletom,113.96,G,Branco,False,5,PIX,51.28,0,10
+ORDER_0035,2022-01-10,CUST_0146,Acessórios,Bijuterias,45.74,Único,Marrom,False,5,Credit Card,27.44,0,10
+ORDER_0036,2022-01-11,CUST_0448,Acessórios,Bolsas,405.03,Único,Prata,False,4,Credit Card,222.77,1,11
+ORDER_0037,2022-01-11,CUST_0241,Calças,Jeans,146.62,G,Branco,False,5,PIX,70.38,1,11
+ORDER_0038,2022-01-11,CUST_0372,Calças,Social,210.82,P,Azul,False,5,Credit Card,109.63,1,11
+ORDER_0039,2022-01-11,CUST_0381,Saias,Mini,147.96,M,Rosa,False,5,Credit Card,69.54,1,11
+ORDER_0040,2022-01-12,CUST_0344,Blusas,Moletom,193.33,P,Preto,True,4,Credit Card,87.0,2,12
+ORDER_0041,2022-01-12,CUST_0237,Acessórios,Bolsas,280.72,Único,Preto,False,5,Boleto,154.4,2,12
+ORDER_0042,2022-01-12,CUST_0035,Acessórios,Cintos,89.66,Único,Marrom,False,4,Credit Card,44.83,2,12
+ORDER_0043,2022-01-12,CUST_0190,Saias,Longa,232.41,P,Azul,False,3,Credit Card,120.85,2,12
+ORDER_0044,2022-01-12,CUST_0001,Calças,Moletom,163.24,P,Branco,False,5,Boleto,73.46,2,12
+ORDER_0045,2022-01-13,CUST_0484,Calças,Jeans,142.11,GG,Branco,False,5,PIX,68.21,3,13
+ORDER_0046,2022-01-14,CUST_0153,Acessórios,Cintos,56.22,Único,Marrom,False,3,Debit Card,28.11,4,14
+ORDER_0047,2022-01-14,CUST_0429,Saias,Longa,169.07,M,Azul,False,4,Boleto,87.92,4,14
+ORDER_0048,2022-01-14,CUST_0433,Blusas,Moletom,138.93,G,Azul,False,5,PIX,62.52,4,14
+ORDER_0049,2022-01-15,CUST_0126,Blusas,T-shirt,86.21,GG,Preto,False,3,PIX,30.17,5,15
+ORDER_0050,2022-01-15,CUST_0491,Calças,Jeans,221.16,G,Azul,False,3,PIX,88.46,5,15
+ORDER_0051,2022-01-15,CUST_0482,Blusas,Moletom,165.62,GG,Rosa,True,1,PIX,62.11,5,15
+ORDER_0052,2022-01-15,CUST_0345,Calças,Social,193.58,G,Azul,False,5,Credit Card,83.89,5,15
+ORDER_0053,2022-01-15,CUST_0400,Acessórios,Bijuterias,85.31,Único,Prata,False,4,Credit Card,42.65,5,15
+ORDER_0054,2022-01-16,CUST_0226,Blusas,T-shirt,81.58,G,Branco,False,2,PIX,28.55,6,16
+ORDER_0055,2022-01-16,CUST_0221,Vestidos,Festa,489.02,G,Vermelho,False,3,Credit Card,224.14,6,16
+ORDER_0056,2022-01-16,CUST_0403,Acessórios,Cintos,114.01,Único,Prata,False,5,PIX,47.51,6,16
+ORDER_0057,2022-01-17,CUST_0407,Vestidos,Festa,336.77,M,Vermelho,False,5,PIX,185.22,0,17
+ORDER_0058,2022-01-17,CUST_0211,Blusas,Social,178.31,GG,Rosa,False,5,PIX,85.59,0,17
+ORDER_0059,2022-01-17,CUST_0025,Calças,Moletom,109.74,G,Preto,False,5,Boleto,49.38,0,17
+ORDER_0060,2022-01-17,CUST_0016,Calças,Moletom,93.69,GG,Preto,False,5,PIX,42.16,0,17
+ORDER_0061,2022-01-17,CUST_0182,Blusas,T-shirt,56.02,G,Rosa,False,4,Boleto,23.53,0,17
+ORDER_0062,2022-01-17,CUST_0499,Vestidos,Casual,188.07,P,Vermelho,True,2,Credit Card,84.63,0,17
+ORDER_0063,2022-01-18,CUST_0329,Blusas,Moletom,168.37,M,Branco,False,3,Debit Card,75.77,1,18
+ORDER_0064,2022-01-18,CUST_0129,Calças,Moletom,122.85,M,Branco,False,1,PIX,55.28,1,18
+ORDER_0065,2022-01-19,CUST_0042,Saias,Midi,247.33,M,Rosa,False,1,Credit Card,123.67,2,19
+ORDER_0066,2022-01-19,CUST_0403,Blusas,Social,167.83,M,Branco,False,5,Credit Card,80.56,2,19
+ORDER_0067,2022-01-20,CUST_0481,Blusas,T-shirt,96.96,G,Azul,False,3,Boleto,40.72,3,20
+ORDER_0068,2022-01-20,CUST_0418,Calças,Social,312.87,M,Azul,False,5,Credit Card,162.69,3,20
+ORDER_0069,2022-01-20,CUST_0336,Vestidos,Praia,120.21,G,Preto,False,4,PIX,60.1,3,20
+ORDER_0070,2022-01-21,CUST_0236,Calças,Jeans,131.12,M,Branco,False,4,Boleto,62.94,4,21
+ORDER_0071,2022-01-21,CUST_0360,Acessórios,Bijuterias,93.54,Único,Prata,False,4,PIX,56.12,4,21
+ORDER_0072,2022-01-21,CUST_0439,Blusas,T-shirt,113.57,P,Branco,False,5,Credit Card,47.7,4,21
+ORDER_0073,2022-01-21,CUST_0402,Acessórios,Cintos,57.19,Único,Marrom,False,2,Credit Card,28.59,4,21
+ORDER_0074,2022-01-22,CUST_0034,Saias,Longa,198.47,M,Preto,True,2,PIX,86.0,5,22
+ORDER_0075,2022-01-22,CUST_0345,Vestidos,Casual,220.51,M,Vermelho,False,5,Credit Card,82.69,5,22
+ORDER_0076,2022-01-22,CUST_0381,Calças,Social,195.5,M,Azul,False,5,PIX,84.72,5,22
+ORDER_0077,2022-01-22,CUST_0045,Vestidos,Casual,139.0,P,Vermelho,False,2,Boleto,52.12,5,22
+ORDER_0078,2022-01-22,CUST_0134,Blusas,Moletom,145.54,M,Preto,False,5,PIX,54.58,5,22
+ORDER_0079,2022-01-23,CUST_0021,Vestidos,Casual,169.67,P,Rosa,False,4,Debit Card,63.63,6,23
+ORDER_0080,2022-01-23,CUST_0122,Acessórios,Bijuterias,64.52,Único,Marrom,False,5,Boleto,32.26,6,23
+ORDER_0081,2022-01-23,CUST_0070,Blusas,T-shirt,138.38,G,Rosa,False,5,Debit Card,48.43,6,23
+ORDER_0082,2022-01-23,CUST_0352,Calças,Social,246.34,GG,Branco,False,3,Debit Card,106.75,6,23
+ORDER_0083,2022-01-24,CUST_0361,Calças,Moletom,118.98,M,Preto,False,4,Boleto,53.54,0,24
+ORDER_0084,2022-01-25,CUST_0048,Calças,Jeans,174.7,M,Branco,False,3,PIX,69.88,1,25
+ORDER_0085,2022-01-25,CUST_0491,Vestidos,Praia,136.98,G,Rosa,False,3,PIX,57.08,1,25
+ORDER_0086,2022-01-25,CUST_0039,Vestidos,Festa,507.18,M,Vermelho,False,5,PIX,232.46,1,25
+ORDER_0087,2022-01-25,CUST_0287,Calças,Jeans,168.79,M,Preto,False,5,Boleto,67.52,1,25
+ORDER_0088,2022-01-26,CUST_0490,Calças,Social,220.88,P,Preto,False,4,Credit Card,95.72,2,26
+ORDER_0089,2022-01-26,CUST_0010,Saias,Midi,151.99,P,Vermelho,True,5,Boleto,63.33,2,26
+ORDER_0090,2022-01-27,CUST_0030,Saias,Midi,190.69,G,Azul,False,3,Boleto,79.45,3,27
+ORDER_0091,2022-01-27,CUST_0244,Calças,Social,333.37,GG,Preto,False,5,Boleto,144.46,3,27
+ORDER_0092,2022-01-27,CUST_0274,Blusas,Social,230.34,G,Branco,False,2,Credit Card,92.14,3,27
+ORDER_0093,2022-01-28,CUST_0444,Calças,Jeans,348.9,G,Branco,True,1,Credit Card,139.56,4,28
+ORDER_0094,2022-01-28,CUST_0088,Vestidos,Casual,157.09,G,Rosa,False,4,Boleto,58.91,4,28
+ORDER_0095,2022-01-28,CUST_0244,Vestidos,Praia,127.15,P,Vermelho,False,3,PIX,52.98,4,28
+ORDER_0096,2022-01-28,CUST_0381,Blusas,Social,152.12,G,Branco,True,4,PIX,60.85,4,28
+ORDER_0097,2022-01-28,CUST_0329,Blusas,Moletom,225.77,GG,Branco,False,5,PIX,84.66,4,28
+ORDER_0098,2022-01-29,CUST_0479,Blusas,Social,357.06,P,Branco,True,2,Credit Card,119.02,5,29
+ORDER_0099,2022-01-29,CUST_0015,Calças,Jeans,199.41,P,Branco,True,3,Credit Card,66.47,5,29
+ORDER_0100,2022-01-29,CUST_0004,Acessórios,Bolsas,642.84,Único,Prata,False,4,Boleto,245.53,5,29
+ORDER_0101,2022-01-29,CUST_0191,Blusas,Moletom,199.09,M,Azul,False,4,PIX,62.22,5,29
+ORDER_0102,2022-01-29,CUST_0168,Saias,Midi,277.8,M,Azul,False,3,Credit Card,96.46,5,29
+ORDER_0103,2022-01-29,CUST_0009,Blusas,Moletom,170.74,P,Branco,False,5,Credit Card,53.36,5,29
+ORDER_0104,2022-01-31,CUST_0109,Calças,Moletom,175.73,M,Preto,False,4,PIX,65.9,0,31
+ORDER_0105,2022-02-01,CUST_0137,Acessórios,Bijuterias,77.98,Único,Dourado,False,5,PIX,38.99,1,1
+ORDER_0106,2022-02-02,CUST_0154,Blusas,Moletom,166.76,G,Rosa,False,4,PIX,62.54,2,2
+ORDER_0107,2022-02-02,CUST_0388,Saias,Midi,170.28,M,Preto,False,2,Debit Card,70.95,2,2
+ORDER_0108,2022-02-02,CUST_0209,Vestidos,Praia,97.4,M,Rosa,True,4,PIX,40.59,2,2
+ORDER_0109,2022-02-03,CUST_0272,Acessórios,Cintos,116.64,Único,Marrom,False,5,Boleto,48.6,3,3
+ORDER_0110,2022-02-03,CUST_0143,Blusas,Social,278.59,G,Azul,False,5,PIX,111.44,3,3
+ORDER_0111,2022-02-03,CUST_0099,Saias,Mini,128.84,P,Azul,False,5,PIX,50.46,3,3
+ORDER_0112,2022-02-04,CUST_0377,Acessórios,Bijuterias,70.61,Único,Dourado,False,2,Debit Card,35.3,4,4
+ORDER_0113,2022-02-04,CUST_0308,Blusas,T-shirt,68.48,GG,Branco,False,4,PIX,23.97,4,4
+ORDER_0114,2022-02-04,CUST_0069,Acessórios,Bijuterias,62.74,Único,Prata,False,4,PIX,31.37,4,4
+ORDER_0115,2022-02-04,CUST_0247,Saias,Midi,192.48,G,Vermelho,True,3,Credit Card,80.2,4,4
+ORDER_0116,2022-02-05,CUST_0261,Blusas,T-shirt,109.77,GG,Preto,False,5,Debit Card,32.02,5,5
+ORDER_0117,2022-02-05,CUST_0276,Blusas,Social,197.87,M,Azul,False,4,Debit Card,65.96,5,5
+ORDER_0118,2022-02-06,CUST_0079,Vestidos,Festa,471.14,P,Preto,False,3,Credit Card,215.94,6,6
+ORDER_0119,2022-02-06,CUST_0146,Calças,Jeans,220.22,G,Preto,True,1,PIX,88.09,6,6
+ORDER_0120,2022-02-06,CUST_0111,Blusas,Moletom,170.46,P,Azul,False,3,Debit Card,63.92,6,6
+ORDER_0121,2022-02-06,CUST_0258,Calças,Moletom,177.56,G,Preto,False,4,Credit Card,66.59,6,6
+ORDER_0122,2022-02-06,CUST_0093,Calças,Moletom,199.56,M,Azul,False,3,Credit Card,74.84,6,6
+ORDER_0123,2022-02-07,CUST_0013,Vestidos,Praia,147.13,G,Azul,False,5,Debit Card,73.56,0,7
+ORDER_0124,2022-02-07,CUST_0260,Calças,Jeans,169.49,P,Preto,False,4,PIX,81.36,0,7
+ORDER_0125,2022-02-08,CUST_0426,Calças,Moletom,112.56,P,Preto,False,4,Boleto,50.65,1,8
+ORDER_0126,2022-02-08,CUST_0109,Acessórios,Bijuterias,66.7,Único,Dourado,False,5,Boleto,40.02,1,8
+ORDER_0127,2022-02-08,CUST_0330,Acessórios,Bolsas,185.95,Único,Dourado,True,1,PIX,102.27,1,8
+ORDER_0128,2022-02-08,CUST_0189,Blusas,Moletom,199.08,G,Branco,False,4,PIX,89.59,1,8
+ORDER_0129,2022-02-08,CUST_0095,Saias,Mini,149.24,M,Vermelho,False,4,Debit Card,70.14,1,8
+ORDER_0130,2022-02-08,CUST_0105,Blusas,Social,177.15,GG,Preto,False,5,Credit Card,85.03,1,8
+ORDER_0131,2022-02-08,CUST_0008,Acessórios,Cintos,70.59,Único,Preto,False,2,Debit Card,35.3,1,8
+ORDER_0132,2022-02-08,CUST_0067,Acessórios,Bolsas,197.58,Único,Dourado,False,4,Boleto,108.67,1,8
+ORDER_0133,2022-02-08,CUST_0496,Saias,Midi,184.14,M,Azul,False,4,Credit Card,92.07,1,8
+ORDER_0134,2022-02-08,CUST_0191,Saias,Mini,93.31,M,Vermelho,False,5,Boleto,43.86,1,8
+ORDER_0135,2022-02-09,CUST_0366,Blusas,Social,192.98,P,Branco,False,5,PIX,92.63,2,9
+ORDER_0136,2022-02-09,CUST_0256,Saias,Longa,274.16,M,Azul,False,5,PIX,142.56,2,9
+ORDER_0137,2022-02-09,CUST_0009,Calças,Moletom,114.73,G,Branco,False,2,PIX,51.63,2,9
+ORDER_0138,2022-02-09,CUST_0478,Blusas,Social,199.91,M,Preto,False,5,PIX,95.96,2,9
+ORDER_0139,2022-02-09,CUST_0117,Acessórios,Bijuterias,39.28,Único,Prata,False,5,Debit Card,23.57,2,9
+ORDER_0140,2022-02-10,CUST_0267,Calças,Jeans,195.04,M,Preto,False,5,PIX,93.62,3,10
+ORDER_0141,2022-02-10,CUST_0099,Saias,Mini,111.0,P,Vermelho,False,4,PIX,52.17,3,10
+ORDER_0142,2022-02-10,CUST_0485,Saias,Longa,295.47,M,Vermelho,False,4,Debit Card,153.64,3,10
+ORDER_0143,2022-02-10,CUST_0298,Saias,Mini,109.79,G,Preto,False,4,Boleto,51.6,3,10
+ORDER_0144,2022-02-11,CUST_0397,Calças,Moletom,144.88,M,Preto,False,5,Boleto,65.2,4,11
+ORDER_0145,2022-02-11,CUST_0164,Vestidos,Praia,136.43,P,Preto,False,5,Credit Card,68.22,4,11
+ORDER_0146,2022-02-11,CUST_0376,Acessórios,Cintos,129.81,Único,Dourado,False,5,PIX,64.91,4,11
+ORDER_0147,2022-02-11,CUST_0141,Calças,Jeans,156.37,M,Branco,False,5,PIX,75.06,4,11
+ORDER_0148,2022-02-12,CUST_0268,Acessórios,Bolsas,200.82,Único,Dourado,False,4,Boleto,92.04,5,12
+ORDER_0149,2022-02-12,CUST_0037,Calças,Moletom,207.91,P,Preto,False,3,PIX,77.97,5,12
+ORDER_0150,2022-02-13,CUST_0074,Acessórios,Bijuterias,95.9,Único,Prata,False,5,Boleto,47.95,6,13
+ORDER_0151,2022-02-15,CUST_0073,Calças,Moletom,178.97,GG,Azul,False,3,Debit Card,80.54,1,15
+ORDER_0152,2022-02-15,CUST_0308,Calças,Jeans,212.13,P,Branco,False,5,Debit Card,101.82,1,15
+ORDER_0153,2022-02-15,CUST_0199,Vestidos,Casual,121.05,M,Preto,False,5,Debit Card,54.47,1,15
+ORDER_0154,2022-02-15,CUST_0130,Blusas,Social,165.21,P,Branco,False,5,PIX,79.3,1,15
+ORDER_0155,2022-02-16,CUST_0246,Blusas,T-shirt,55.35,GG,Preto,False,3,Debit Card,23.25,2,16
+ORDER_0156,2022-02-16,CUST_0312,Blusas,T-shirt,108.07,M,Rosa,False,4,Debit Card,45.39,2,16
+ORDER_0157,2022-02-16,CUST_0060,Calças,Jeans,219.08,M,Branco,False,3,PIX,105.16,2,16
+ORDER_0158,2022-02-16,CUST_0279,Blusas,T-shirt,76.11,GG,Rosa,True,1,Boleto,31.97,2,16
+ORDER_0159,2022-02-16,CUST_0103,Blusas,T-shirt,69.17,GG,Azul,False,4,Credit Card,29.05,2,16
+ORDER_0160,2022-02-16,CUST_0296,Vestidos,Festa,569.78,M,Rosa,False,5,Credit Card,313.38,2,16
+ORDER_0161,2022-02-16,CUST_0320,Vestidos,Festa,529.46,P,Azul,False,4,Credit Card,291.2,2,16
+ORDER_0162,2022-02-17,CUST_0487,Calças,Social,293.5,M,Branco,False,5,Credit Card,152.62,3,17
+ORDER_0163,2022-02-17,CUST_0341,Saias,Longa,201.75,M,Azul,False,3,PIX,104.91,3,17
+ORDER_0164,2022-02-18,CUST_0151,Blusas,Social,128.91,P,Azul,False,3,Debit Card,61.88,4,18
+ORDER_0165,2022-02-18,CUST_0157,Saias,Longa,209.46,G,Rosa,False,3,PIX,108.92,4,18
+ORDER_0166,2022-02-20,CUST_0206,Acessórios,Cintos,82.63,Único,Preto,False,2,Boleto,34.43,6,20
+ORDER_0167,2022-02-20,CUST_0474,Calças,Social,219.17,P,Preto,False,2,PIX,94.97,6,20
+ORDER_0168,2022-02-20,CUST_0179,Blusas,T-shirt,127.79,P,Azul,False,4,Credit Card,44.73,6,20
+ORDER_0169,2022-02-20,CUST_0197,Acessórios,Cintos,155.0,Único,Marrom,False,5,Credit Card,64.58,6,20
+ORDER_0170,2022-02-20,CUST_0223,Vestidos,Praia,119.88,P,Preto,False,4,PIX,49.95,6,20
+ORDER_0171,2022-02-22,CUST_0089,Saias,Mini,117.52,P,Preto,False,1,Debit Card,55.23,1,22
+ORDER_0172,2022-02-22,CUST_0287,Calças,Moletom,99.25,G,Preto,False,5,Boleto,44.66,1,22
+ORDER_0173,2022-02-22,CUST_0434,Blusas,Social,205.94,M,Preto,False,4,Credit Card,98.85,1,22
+ORDER_0174,2022-02-22,CUST_0276,Vestidos,Praia,90.5,M,Vermelho,False,5,PIX,45.25,1,22
+ORDER_0175,2022-02-22,CUST_0236,Blusas,T-shirt,53.35,M,Preto,False,3,Credit Card,22.41,1,22
+ORDER_0176,2022-02-23,CUST_0183,Vestidos,Festa,372.99,P,Azul,False,2,Boleto,205.14,2,23
+ORDER_0177,2022-02-23,CUST_0209,Blusas,T-shirt,90.15,M,Preto,True,2,Boleto,37.86,2,23
+ORDER_0178,2022-02-23,CUST_0493,Blusas,Social,185.62,P,Azul,False,4,Boleto,89.1,2,23
+ORDER_0179,2022-02-23,CUST_0130,Vestidos,Praia,95.37,P,Vermelho,False,4,Boleto,47.69,2,23
+ORDER_0180,2022-02-23,CUST_0153,Blusas,T-shirt,111.65,P,Rosa,False,4,Credit Card,46.89,2,23
+ORDER_0181,2022-02-24,CUST_0013,Blusas,T-shirt,105.46,M,Azul,False,5,PIX,44.29,3,24
+ORDER_0182,2022-02-24,CUST_0122,Acessórios,Bolsas,244.04,Único,Dourado,False,2,Boleto,134.22,3,24
+ORDER_0183,2022-02-24,CUST_0359,Blusas,Social,183.28,P,Rosa,False,4,PIX,87.97,3,24
+ORDER_0184,2022-02-25,CUST_0220,Acessórios,Cintos,96.08,Único,Dourado,False,5,PIX,40.03,4,25
+ORDER_0185,2022-02-25,CUST_0106,Acessórios,Cintos,76.48,Único,Preto,False,4,Debit Card,31.86,4,25
+ORDER_0186,2022-02-27,CUST_0375,Saias,Midi,318.36,M,Vermelho,False,4,Debit Card,110.54,6,27
+ORDER_0187,2022-02-27,CUST_0070,Calças,Jeans,213.13,P,Branco,False,5,Debit Card,71.04,6,27
+ORDER_0188,2022-02-27,CUST_0195,Vestidos,Casual,137.28,M,Rosa,False,4,PIX,42.9,6,27
+ORDER_0189,2022-02-27,CUST_0186,Acessórios,Bolsas,549.71,Único,Marrom,False,4,Credit Card,209.96,6,27
+ORDER_0190,2022-02-28,CUST_0099,Vestidos,Praia,96.42,P,Vermelho,False,3,Boleto,40.17,0,28
+ORDER_0191,2022-02-28,CUST_0082,Acessórios,Bolsas,483.28,Único,Prata,False,5,Boleto,221.5,0,28
+ORDER_0192,2022-02-28,CUST_0075,Calças,Social,205.55,GG,Preto,True,5,Credit Card,89.07,0,28
+ORDER_0193,2022-02-28,CUST_0374,Acessórios,Bijuterias,99.36,Único,Prata,False,4,Debit Card,49.68,0,28
+ORDER_0194,2022-03-01,CUST_0340,Vestidos,Praia,109.27,G,Preto,False,5,PIX,45.53,1,1
+ORDER_0195,2022-03-02,CUST_0192,Saias,Midi,174.08,P,Vermelho,False,4,Boleto,72.53,2,2
+ORDER_0196,2022-03-02,CUST_0325,Blusas,Moletom,228.89,P,Rosa,True,2,PIX,85.83,2,2
+ORDER_0197,2022-03-02,CUST_0467,Calças,Moletom,142.12,M,Preto,False,5,Debit Card,53.29,2,2
+ORDER_0198,2022-03-03,CUST_0214,Calças,Moletom,129.1,M,Preto,False,5,PIX,48.41,3,3
+ORDER_0199,2022-03-03,CUST_0315,Vestidos,Casual,152.27,P,Rosa,False,3,Credit Card,57.1,3,3
+ORDER_0200,2022-03-03,CUST_0444,Acessórios,Bolsas,468.08,Único,Preto,False,4,Boleto,214.54,3,3
+ORDER_0201,2022-03-04,CUST_0467,Vestidos,Festa,397.12,M,Azul,False,5,PIX,182.01,4,4
+ORDER_0202,2022-03-04,CUST_0382,Blusas,Moletom,165.23,G,Rosa,False,1,Debit Card,61.96,4,4
+ORDER_0203,2022-03-04,CUST_0367,Blusas,Moletom,160.72,G,Azul,False,4,Credit Card,60.27,4,4
+ORDER_0204,2022-03-04,CUST_0318,Calças,Jeans,319.32,P,Preto,False,2,Credit Card,127.73,4,4
+ORDER_0205,2022-03-05,CUST_0144,Acessórios,Bolsas,293.3,Único,Dourado,False,5,PIX,112.02,5,5
+ORDER_0206,2022-03-06,CUST_0384,Vestidos,Festa,528.07,P,Preto,False,5,PIX,242.03,6,6
+ORDER_0207,2022-03-06,CUST_0216,Saias,Mini,137.76,M,Rosa,False,4,Credit Card,53.96,6,6
+ORDER_0208,2022-03-07,CUST_0361,Vestidos,Casual,142.17,M,Azul,False,4,Debit Card,63.98,0,7
+ORDER_0209,2022-03-08,CUST_0324,Acessórios,Bolsas,240.55,Único,Prata,True,2,PIX,132.3,1,8
+ORDER_0210,2022-03-10,CUST_0015,Vestidos,Casual,129.0,G,Azul,False,3,Boleto,58.05,3,10
+ORDER_0211,2022-03-10,CUST_0217,Vestidos,Casual,189.97,M,Azul,False,3,Debit Card,85.49,3,10
+ORDER_0212,2022-03-10,CUST_0492,Blusas,Social,145.88,G,Azul,False,3,Credit Card,70.02,3,10
+ORDER_0213,2022-03-10,CUST_0439,Acessórios,Bolsas,437.46,Único,Dourado,False,3,PIX,240.6,3,10
+ORDER_0214,2022-03-10,CUST_0035,Vestidos,Casual,119.96,M,Rosa,False,4,Credit Card,53.98,3,10
+ORDER_0215,2022-03-11,CUST_0183,Saias,Midi,189.66,G,Rosa,False,4,Boleto,94.83,4,11
+ORDER_0216,2022-03-13,CUST_0270,Vestidos,Festa,545.47,P,Rosa,False,5,Credit Card,250.01,6,13
+ORDER_0217,2022-03-13,CUST_0433,Acessórios,Bijuterias,91.91,Único,Dourado,False,5,Credit Card,45.95,6,13
+ORDER_0218,2022-03-13,CUST_0467,Saias,Longa,254.69,G,Azul,False,3,PIX,110.36,6,13
+ORDER_0219,2022-03-14,CUST_0358,Vestidos,Festa,362.37,G,Preto,False,3,Credit Card,199.3,0,14
+ORDER_0220,2022-03-14,CUST_0100,Blusas,T-shirt,51.17,GG,Rosa,False,5,PIX,21.49,0,14
+ORDER_0221,2022-03-14,CUST_0007,Acessórios,Bijuterias,59.96,Único,Preto,False,4,Credit Card,35.98,0,14
+ORDER_0222,2022-03-15,CUST_0030,Acessórios,Bolsas,160.77,Único,Dourado,False,3,PIX,88.42,1,15
+ORDER_0223,2022-03-16,CUST_0467,Blusas,Moletom,141.71,M,Preto,False,4,PIX,63.77,2,16
+ORDER_0224,2022-03-16,CUST_0305,Acessórios,Bolsas,311.63,Único,Preto,False,5,Credit Card,171.4,2,16
+ORDER_0225,2022-03-16,CUST_0473,Saias,Mini,169.66,P,Preto,False,5,Debit Card,79.74,2,16
+ORDER_0226,2022-03-16,CUST_0144,Blusas,T-shirt,67.07,M,Azul,False,3,Boleto,28.17,2,16
+ORDER_0227,2022-03-16,CUST_0111,Acessórios,Bijuterias,66.32,Único,Prata,False,5,Debit Card,39.79,2,16
+ORDER_0228,2022-03-16,CUST_0232,Calças,Social,182.92,M,Branco,False,1,Credit Card,95.12,2,16
+ORDER_0229,2022-03-17,CUST_0179,Acessórios,Bolsas,311.01,Único,Preto,True,4,Boleto,171.06,3,17
+ORDER_0230,2022-03-17,CUST_0072,Blusas,Moletom,116.68,GG,Rosa,False,4,Credit Card,52.51,3,17
+ORDER_0231,2022-03-19,CUST_0210,Blusas,Moletom,194.11,G,Preto,False,2,Boleto,72.79,5,19
+ORDER_0232,2022-03-19,CUST_0220,Saias,Mini,98.47,M,Azul,False,5,PIX,38.57,5,19
+ORDER_0233,2022-03-19,CUST_0080,Calças,Social,193.97,P,Preto,False,5,Credit Card,84.05,5,19
+ORDER_0234,2022-03-19,CUST_0500,Vestidos,Festa,598.96,M,Azul,False,5,Credit Card,274.52,5,19
+ORDER_0235,2022-03-19,CUST_0083,Vestidos,Praia,103.91,P,Azul,False,4,Credit Card,43.3,5,19
+ORDER_0236,2022-03-20,CUST_0042,Saias,Longa,343.22,P,Vermelho,False,5,Debit Card,148.73,6,20
+ORDER_0237,2022-03-21,CUST_0273,Blusas,Social,137.98,G,Rosa,False,5,PIX,66.23,0,21
+ORDER_0238,2022-03-22,CUST_0191,Blusas,Moletom,124.22,M,Rosa,False,5,PIX,55.9,1,22
+ORDER_0239,2022-03-22,CUST_0173,Vestidos,Praia,125.83,P,Rosa,False,5,PIX,62.91,1,22
+ORDER_0240,2022-03-22,CUST_0461,Saias,Midi,185.64,P,Vermelho,False,3,Boleto,92.82,1,22
+ORDER_0241,2022-03-22,CUST_0007,Acessórios,Bijuterias,58.7,Único,Dourado,False,5,Debit Card,35.22,1,22
+ORDER_0242,2022-03-23,CUST_0155,Saias,Midi,173.32,P,Azul,False,5,PIX,86.66,2,23
+ORDER_0243,2022-03-23,CUST_0010,Vestidos,Festa,378.62,P,Preto,False,4,Boleto,208.24,2,23
+ORDER_0244,2022-03-24,CUST_0034,Blusas,Social,182.42,M,Azul,False,4,Debit Card,87.56,3,24
+ORDER_0245,2022-03-25,CUST_0036,Acessórios,Bolsas,332.29,Único,Preto,False,4,PIX,152.3,4,25
+ORDER_0246,2022-03-25,CUST_0409,Calças,Jeans,258.28,M,Branco,False,5,PIX,103.31,4,25
+ORDER_0247,2022-03-25,CUST_0006,Saias,Longa,277.39,P,Preto,False,5,Boleto,120.2,4,25
+ORDER_0248,2022-03-25,CUST_0408,Calças,Social,291.62,P,Azul,False,3,Debit Card,126.37,4,25
+ORDER_0249,2022-03-25,CUST_0402,Calças,Moletom,153.28,GG,Preto,False,4,PIX,57.48,4,25
+ORDER_0250,2022-03-25,CUST_0215,Vestidos,Praia,161.64,G,Azul,True,2,Boleto,67.35,4,25
+ORDER_0251,2022-03-26,CUST_0134,Blusas,T-shirt,120.64,G,Branco,False,3,Boleto,35.19,5,26
+ORDER_0252,2022-03-26,CUST_0285,Blusas,T-shirt,144.55,GG,Preto,False,4,Debit Card,42.16,5,26
+ORDER_0253,2022-03-27,CUST_0126,Saias,Longa,233.63,P,Rosa,False,5,Credit Card,84.36,6,27
+ORDER_0254,2022-03-27,CUST_0409,Saias,Longa,394.16,M,Azul,False,4,Credit Card,142.33,6,27
+ORDER_0255,2022-03-27,CUST_0439,Calças,Jeans,421.37,M,Preto,False,4,PIX,140.46,6,27
+ORDER_0256,2022-03-27,CUST_0337,Vestidos,Praia,214.14,P,Preto,False,4,Boleto,74.36,6,27
+ORDER_0257,2022-03-27,CUST_0174,Blusas,Social,248.08,M,Branco,False,4,PIX,82.69,6,27
+ORDER_0258,2022-03-28,CUST_0152,Blusas,T-shirt,65.18,M,Azul,True,2,Boleto,22.81,0,28
+ORDER_0259,2022-03-28,CUST_0331,Calças,Jeans,233.23,G,Azul,False,2,Credit Card,93.29,0,28
+ORDER_0260,2022-03-29,CUST_0026,Saias,Longa,344.11,M,Vermelho,False,5,Boleto,149.12,1,29
+ORDER_0261,2022-03-29,CUST_0383,Saias,Midi,160.44,P,Preto,False,5,Credit Card,66.85,1,29
+ORDER_0262,2022-03-29,CUST_0115,Blusas,T-shirt,100.46,P,Azul,False,3,Debit Card,35.16,1,29
+ORDER_0263,2022-03-30,CUST_0382,Saias,Midi,208.85,P,Rosa,False,1,Boleto,87.02,2,30
+ORDER_0264,2022-03-30,CUST_0482,Blusas,Moletom,141.64,M,Azul,False,1,PIX,53.11,2,30
+ORDER_0265,2022-03-30,CUST_0284,Blusas,T-shirt,70.21,P,Preto,False,5,Credit Card,24.57,2,30
+ORDER_0266,2022-03-31,CUST_0387,Calças,Social,381.3,G,Branco,False,4,Debit Card,165.23,3,31
+ORDER_0267,2022-03-31,CUST_0075,Vestidos,Praia,139.43,G,Vermelho,False,5,Credit Card,58.09,3,31
+ORDER_0268,2022-03-31,CUST_0166,Acessórios,Bijuterias,115.18,Único,Prata,False,4,Debit Card,57.59,3,31
+ORDER_0269,2022-03-31,CUST_0189,Vestidos,Praia,134.1,M,Preto,False,5,Debit Card,55.88,3,31
+ORDER_0270,2022-04-01,CUST_0078,Vestidos,Casual,184.99,G,Vermelho,False,5,PIX,69.37,4,1
+ORDER_0271,2022-04-02,CUST_0435,Calças,Jeans,389.61,G,Preto,False,4,Debit Card,129.87,5,2
+ORDER_0272,2022-04-02,CUST_0090,Blusas,T-shirt,82.51,G,Preto,False,3,Debit Card,24.07,5,2
+ORDER_0273,2022-04-02,CUST_0176,Calças,Jeans,319.09,G,Preto,False,4,Credit Card,106.36,5,2
+ORDER_0274,2022-04-02,CUST_0021,Blusas,Social,265.05,M,Preto,False,4,Boleto,88.35,5,2
+ORDER_0275,2022-04-03,CUST_0054,Vestidos,Festa,614.94,G,Preto,False,4,Debit Card,234.87,6,3
+ORDER_0276,2022-04-03,CUST_0184,Acessórios,Bijuterias,99.94,Único,Marrom,False,3,Credit Card,41.64,6,3
+ORDER_0277,2022-04-04,CUST_0359,Saias,Longa,222.1,P,Azul,False,5,Boleto,96.24,0,4
+ORDER_0278,2022-04-05,CUST_0222,Vestidos,Casual,119.7,M,Preto,False,5,Debit Card,44.89,1,5
+ORDER_0279,2022-04-05,CUST_0315,Blusas,Moletom,141.7,GG,Azul,False,3,PIX,53.14,1,5
+ORDER_0280,2022-04-05,CUST_0328,Blusas,T-shirt,66.12,G,Rosa,False,4,PIX,23.14,1,5
+ORDER_0281,2022-04-05,CUST_0179,Saias,Midi,177.6,P,Rosa,False,1,Boleto,74.0,1,5
+ORDER_0282,2022-04-06,CUST_0276,Calças,Jeans,130.36,P,Azul,False,2,Credit Card,62.57,2,6
+ORDER_0283,2022-04-06,CUST_0112,Saias,Midi,220.27,M,Preto,False,5,Credit Card,110.14,2,6
+ORDER_0284,2022-04-06,CUST_0224,Blusas,T-shirt,82.01,GG,Rosa,False,5,PIX,34.44,2,6
+ORDER_0285,2022-04-06,CUST_0214,Blusas,T-shirt,61.12,GG,Preto,False,5,Debit Card,25.67,2,6
+ORDER_0286,2022-04-07,CUST_0059,Blusas,T-shirt,110.69,GG,Rosa,False,5,Credit Card,46.49,3,7
+ORDER_0287,2022-04-08,CUST_0327,Blusas,Moletom,193.44,GG,Preto,False,5,Credit Card,87.05,4,8
+ORDER_0288,2022-04-08,CUST_0393,Saias,Mini,102.24,M,Vermelho,False,4,PIX,48.05,4,8
+ORDER_0289,2022-04-08,CUST_0109,Blusas,T-shirt,111.34,GG,Branco,False,5,Boleto,46.76,4,8
+ORDER_0290,2022-04-09,CUST_0385,Acessórios,Bolsas,313.14,Único,Marrom,False,3,PIX,143.52,5,9
+ORDER_0291,2022-04-09,CUST_0157,Blusas,T-shirt,68.82,G,Azul,False,5,Debit Card,24.09,5,9
+ORDER_0292,2022-04-09,CUST_0191,Acessórios,Cintos,116.66,Único,Prata,False,5,PIX,48.61,5,9
+ORDER_0293,2022-04-09,CUST_0200,Vestidos,Casual,206.47,G,Vermelho,False,5,Credit Card,77.43,5,9
+ORDER_0294,2022-04-09,CUST_0312,Calças,Social,395.24,G,Preto,False,4,PIX,171.27,5,9
+ORDER_0295,2022-04-09,CUST_0196,Blusas,Moletom,206.69,M,Azul,False,4,Credit Card,77.51,5,9
+ORDER_0296,2022-04-09,CUST_0035,Blusas,T-shirt,69.31,M,Azul,False,2,Credit Card,24.26,5,9
+ORDER_0297,2022-04-09,CUST_0379,Acessórios,Bolsas,262.74,Único,Preto,False,5,PIX,120.42,5,9
+ORDER_0298,2022-04-09,CUST_0387,Saias,Mini,158.68,M,Rosa,False,5,Credit Card,62.15,5,9
+ORDER_0299,2022-04-09,CUST_0246,Saias,Mini,171.55,M,Preto,False,3,PIX,67.19,5,9
+ORDER_0300,2022-04-10,CUST_0237,Acessórios,Cintos,99.71,Único,Prata,False,4,Debit Card,41.55,6,10
+ORDER_0301,2022-04-10,CUST_0104,Calças,Jeans,239.58,P,Branco,False,5,PIX,95.83,6,10
+ORDER_0302,2022-04-10,CUST_0007,Blusas,Social,161.34,GG,Branco,False,5,PIX,64.54,6,10
+ORDER_0303,2022-04-12,CUST_0283,Calças,Social,160.14,M,Azul,False,4,Credit Card,83.27,1,12
+ORDER_0304,2022-04-12,CUST_0001,Acessórios,Bolsas,321.03,Único,Marrom,False,1,Boleto,176.57,1,12
+ORDER_0305,2022-04-13,CUST_0219,Acessórios,Bolsas,456.97,Único,Preto,False,3,PIX,251.33,2,13
+ORDER_0306,2022-04-13,CUST_0464,Blusas,Moletom,117.57,M,Branco,False,5,Boleto,52.91,2,13
+ORDER_0307,2022-04-13,CUST_0230,Acessórios,Bijuterias,41.68,Único,Dourado,False,4,Boleto,25.01,2,13
+ORDER_0308,2022-04-13,CUST_0455,Acessórios,Cintos,112.16,Único,Prata,False,2,Boleto,56.08,2,13
+ORDER_0309,2022-04-14,CUST_0172,Acessórios,Bolsas,418.21,Único,Preto,True,3,Credit Card,230.02,3,14
+ORDER_0310,2022-04-14,CUST_0087,Saias,Mini,123.94,M,Preto,False,4,PIX,58.25,3,14
+ORDER_0311,2022-04-14,CUST_0041,Calças,Moletom,165.31,G,Branco,False,2,Credit Card,74.39,3,14
+ORDER_0312,2022-04-15,CUST_0123,Saias,Midi,178.4,P,Rosa,False,3,PIX,89.2,4,15
+ORDER_0313,2022-04-16,CUST_0331,Saias,Midi,159.49,P,Vermelho,False,2,Credit Card,66.45,5,16
+ORDER_0314,2022-04-16,CUST_0298,Vestidos,Casual,215.05,P,Preto,True,1,PIX,80.64,5,16
+ORDER_0315,2022-04-16,CUST_0373,Vestidos,Festa,366.78,G,Preto,True,1,PIX,168.11,5,16
+ORDER_0316,2022-04-16,CUST_0417,Vestidos,Casual,199.33,M,Rosa,False,3,Debit Card,74.75,5,16
+ORDER_0317,2022-04-16,CUST_0178,Acessórios,Cintos,150.94,Único,Marrom,False,4,Credit Card,62.89,5,16
+ORDER_0318,2022-04-17,CUST_0063,Calças,Moletom,126.5,GG,Branco,False,5,Debit Card,47.44,6,17
+ORDER_0319,2022-04-17,CUST_0484,Calças,Moletom,124.72,M,Azul,False,5,Credit Card,46.77,6,17
+ORDER_0320,2022-04-17,CUST_0165,Acessórios,Bijuterias,117.19,Único,Preto,False,5,Boleto,58.6,6,17
+ORDER_0321,2022-04-17,CUST_0489,Calças,Jeans,359.54,GG,Branco,False,5,PIX,143.82,6,17
+ORDER_0322,2022-04-18,CUST_0187,Calças,Social,304.69,G,Branco,False,4,Credit Card,158.44,0,18
+ORDER_0323,2022-04-18,CUST_0383,Calças,Social,173.65,GG,Branco,False,3,PIX,90.3,0,18
+ORDER_0324,2022-04-19,CUST_0209,Vestidos,Praia,92.32,P,Azul,False,3,Credit Card,46.16,1,19
+ORDER_0325,2022-04-19,CUST_0227,Blusas,Moletom,146.17,GG,Azul,False,5,Debit Card,65.78,1,19
+ORDER_0326,2022-04-19,CUST_0432,Calças,Moletom,163.42,GG,Branco,False,4,Credit Card,73.54,1,19
+ORDER_0327,2022-04-21,CUST_0389,Saias,Midi,172.28,G,Vermelho,False,4,Credit Card,86.14,3,21
+ORDER_0328,2022-04-21,CUST_0048,Vestidos,Festa,399.26,P,Azul,False,2,PIX,219.59,3,21
+ORDER_0329,2022-04-21,CUST_0224,Vestidos,Casual,163.57,G,Vermelho,False,3,PIX,73.61,3,21
+ORDER_0330,2022-04-21,CUST_0003,Vestidos,Praia,145.44,G,Rosa,False,4,Debit Card,72.72,3,21
+ORDER_0331,2022-04-22,CUST_0372,Vestidos,Praia,103.61,M,Vermelho,False,4,Debit Card,51.8,4,22
+ORDER_0332,2022-04-23,CUST_0175,Vestidos,Praia,122.36,M,Preto,False,4,Credit Card,50.98,5,23
+ORDER_0333,2022-04-23,CUST_0446,Acessórios,Bijuterias,117.56,Único,Marrom,False,5,PIX,58.78,5,23
+ORDER_0334,2022-04-23,CUST_0099,Saias,Longa,229.28,P,Vermelho,False,5,Debit Card,99.36,5,23
+ORDER_0335,2022-04-23,CUST_0116,Vestidos,Festa,419.11,P,Vermelho,False,5,Credit Card,192.09,5,23
+ORDER_0336,2022-04-23,CUST_0270,Acessórios,Bijuterias,82.73,Único,Preto,False,3,PIX,41.36,5,23
+ORDER_0337,2022-04-23,CUST_0447,Acessórios,Cintos,86.65,Único,Preto,False,4,Debit Card,36.1,5,23
+ORDER_0338,2022-04-23,CUST_0368,Calças,Moletom,175.57,P,Branco,False,4,Debit Card,65.84,5,23
+ORDER_0339,2022-04-24,CUST_0253,Calças,Moletom,185.12,G,Branco,False,5,Debit Card,69.42,6,24
+ORDER_0340,2022-04-24,CUST_0317,Saias,Mini,144.5,M,Azul,False,5,Credit Card,56.6,6,24
+ORDER_0341,2022-04-25,CUST_0415,Blusas,T-shirt,135.97,GG,Branco,False,4,Credit Card,47.59,0,25
+ORDER_0342,2022-04-25,CUST_0095,Acessórios,Bijuterias,74.92,Único,Dourado,False,3,Boleto,37.46,0,25
+ORDER_0343,2022-04-25,CUST_0273,Vestidos,Casual,108.78,M,Vermelho,False,5,Debit Card,40.79,0,25
+ORDER_0344,2022-04-26,CUST_0380,Blusas,Social,188.41,G,Branco,False,5,PIX,75.36,1,26
+ORDER_0345,2022-04-26,CUST_0024,Calças,Social,306.92,M,Preto,False,3,Debit Card,133.0,1,26
+ORDER_0346,2022-04-27,CUST_0116,Acessórios,Bolsas,194.93,Único,Prata,False,5,Debit Card,89.34,2,27
+ORDER_0347,2022-04-27,CUST_0151,Saias,Longa,277.73,M,Vermelho,False,5,Credit Card,120.35,2,27
+ORDER_0348,2022-04-27,CUST_0338,Vestidos,Praia,103.76,G,Rosa,False,5,Credit Card,43.23,2,27
+ORDER_0349,2022-04-27,CUST_0050,Blusas,Moletom,177.7,M,Azul,False,3,Credit Card,66.64,2,27
+ORDER_0350,2022-04-27,CUST_0206,Saias,Longa,332.66,M,Preto,False,4,Debit Card,144.15,2,27
+ORDER_0351,2022-04-28,CUST_0498,Calças,Moletom,136.94,G,Azul,False,3,PIX,51.35,3,28
+ORDER_0352,2022-04-28,CUST_0335,Blusas,Moletom,216.56,GG,Preto,False,4,PIX,81.21,3,28
+ORDER_0353,2022-04-28,CUST_0079,Saias,Mini,136.72,M,Azul,False,3,PIX,53.55,3,28
+ORDER_0354,2022-04-28,CUST_0070,Acessórios,Cintos,69.43,Único,Dourado,False,5,Credit Card,28.93,3,28
+ORDER_0355,2022-04-28,CUST_0027,Saias,Mini,101.58,P,Azul,False,4,Debit Card,39.79,3,28
+ORDER_0356,2022-04-29,CUST_0271,Vestidos,Praia,110.64,G,Rosa,False,4,PIX,46.1,4,29
+ORDER_0357,2022-04-29,CUST_0050,Acessórios,Bolsas,244.12,Único,Prata,False,5,PIX,111.89,4,29
+ORDER_0358,2022-04-29,CUST_0292,Acessórios,Bolsas,316.34,Único,Dourado,False,5,Credit Card,144.99,4,29
+ORDER_0359,2022-04-30,CUST_0247,Acessórios,Bijuterias,135.16,Único,Dourado,False,3,Credit Card,56.32,5,30
+ORDER_0360,2022-04-30,CUST_0264,Acessórios,Bolsas,286.69,Único,Dourado,False,4,Credit Card,109.5,5,30
+ORDER_0361,2022-04-30,CUST_0079,Calças,Social,312.9,GG,Azul,False,4,Credit Card,112.99,5,30
+ORDER_0362,2022-04-30,CUST_0387,Acessórios,Bijuterias,139.56,Único,Preto,False,5,PIX,58.15,5,30
+ORDER_0363,2022-04-30,CUST_0190,Saias,Longa,390.33,G,Azul,False,4,Debit Card,140.95,5,30
+ORDER_0364,2022-05-01,CUST_0047,Blusas,T-shirt,94.69,M,Azul,False,5,Debit Card,27.62,6,1
+ORDER_0365,2022-05-01,CUST_0461,Calças,Social,383.43,M,Preto,False,3,Credit Card,138.46,6,1
+ORDER_0366,2022-05-02,CUST_0361,Saias,Mini,182.32,M,Azul,False,5,PIX,71.41,0,2
+ORDER_0367,2022-05-02,CUST_0354,Blusas,T-shirt,63.76,P,Preto,False,4,PIX,22.31,0,2
+ORDER_0368,2022-05-02,CUST_0472,Calças,Social,237.66,GG,Preto,False,3,PIX,102.99,0,2
+ORDER_0369,2022-05-02,CUST_0488,Calças,Moletom,207.34,G,Azul,False,5,Credit Card,77.75,0,2
+ORDER_0370,2022-05-03,CUST_0352,Vestidos,Casual,177.11,M,Azul,False,4,PIX,66.42,1,3
+ORDER_0371,2022-05-04,CUST_0189,Acessórios,Bolsas,227.51,Único,Marrom,False,5,PIX,104.27,2,4
+ORDER_0372,2022-05-04,CUST_0416,Vestidos,Casual,143.29,P,Rosa,False,5,Boleto,53.73,2,4
+ORDER_0373,2022-05-05,CUST_0256,Vestidos,Casual,231.31,M,Preto,False,5,Boleto,86.74,3,5
+ORDER_0374,2022-05-06,CUST_0222,Saias,Mini,115.74,P,Preto,False,5,Credit Card,54.4,4,6
+ORDER_0375,2022-05-06,CUST_0372,Blusas,Moletom,116.88,P,Azul,True,2,Debit Card,52.6,4,6
+ORDER_0376,2022-05-06,CUST_0241,Blusas,Social,151.21,M,Branco,False,5,Boleto,72.58,4,6
+ORDER_0377,2022-05-06,CUST_0269,Vestidos,Festa,409.46,G,Vermelho,False,3,Credit Card,225.2,4,6
+ORDER_0378,2022-05-07,CUST_0001,Vestidos,Casual,218.96,P,Preto,False,5,Credit Card,82.11,5,7
+ORDER_0379,2022-05-07,CUST_0034,Calças,Jeans,201.1,M,Azul,False,4,Boleto,80.44,5,7
+ORDER_0380,2022-05-07,CUST_0446,Vestidos,Casual,223.26,G,Preto,False,5,PIX,83.72,5,7
+ORDER_0381,2022-05-08,CUST_0079,Blusas,Moletom,167.95,G,Preto,False,4,PIX,62.98,6,8
+ORDER_0382,2022-05-08,CUST_0236,Saias,Midi,153.66,M,Azul,True,2,Debit Card,64.03,6,8
+ORDER_0383,2022-05-08,CUST_0334,Acessórios,Bolsas,235.48,Único,Prata,False,5,Boleto,107.93,6,8
+ORDER_0384,2022-05-09,CUST_0377,Saias,Longa,199.02,M,Vermelho,False,4,Boleto,103.49,0,9
+ORDER_0385,2022-05-10,CUST_0349,Vestidos,Festa,416.66,M,Vermelho,False,3,PIX,229.16,1,10
+ORDER_0386,2022-05-10,CUST_0098,Vestidos,Casual,142.91,M,Vermelho,False,4,PIX,64.31,1,10
+ORDER_0387,2022-05-10,CUST_0082,Vestidos,Festa,585.18,M,Vermelho,False,5,Credit Card,321.85,1,10
+ORDER_0388,2022-05-10,CUST_0455,Vestidos,Praia,138.43,M,Rosa,False,5,Credit Card,69.22,1,10
+ORDER_0389,2022-05-10,CUST_0477,Acessórios,Cintos,90.13,Único,Prata,False,4,Debit Card,45.06,1,10
+ORDER_0390,2022-05-11,CUST_0415,Acessórios,Bolsas,272.79,Único,Dourado,True,4,Credit Card,150.03,2,11
+ORDER_0391,2022-05-11,CUST_0192,Acessórios,Bolsas,404.71,Único,Marrom,False,3,PIX,222.59,2,11
+ORDER_0392,2022-05-11,CUST_0253,Acessórios,Bolsas,230.7,Único,Dourado,True,1,Boleto,126.89,2,11
+ORDER_0393,2022-05-11,CUST_0409,Calças,Moletom,96.11,P,Preto,False,2,Credit Card,43.25,2,11
+ORDER_0394,2022-05-11,CUST_0038,Acessórios,Cintos,82.93,Único,Dourado,False,4,Debit Card,41.47,2,11
+ORDER_0395,2022-05-12,CUST_0014,Calças,Jeans,159.71,G,Azul,False,4,Credit Card,76.66,3,12
+ORDER_0396,2022-05-12,CUST_0392,Vestidos,Praia,147.48,P,Preto,False,5,Debit Card,73.74,3,12
+ORDER_0397,2022-05-13,CUST_0347,Acessórios,Bolsas,205.71,Único,Marrom,False,5,Boleto,113.14,4,13
+ORDER_0398,2022-05-13,CUST_0310,Acessórios,Bolsas,270.0,Único,Marrom,False,4,Credit Card,148.5,4,13
+ORDER_0399,2022-05-13,CUST_0386,Acessórios,Cintos,90.12,Único,Marrom,False,5,Debit Card,45.06,4,13
+ORDER_0400,2022-05-13,CUST_0209,Saias,Midi,246.71,M,Azul,False,3,Debit Card,123.36,4,13
+ORDER_0401,2022-05-13,CUST_0357,Acessórios,Bolsas,193.21,Único,Prata,False,5,PIX,106.27,4,13
+ORDER_0402,2022-05-14,CUST_0462,Saias,Midi,144.71,M,Rosa,False,5,Debit Card,60.3,5,14
+ORDER_0403,2022-05-14,CUST_0089,Saias,Longa,199.33,P,Azul,False,5,Boleto,86.38,5,14
+ORDER_0404,2022-05-15,CUST_0056,Saias,Midi,241.03,G,Rosa,False,3,Credit Card,100.43,6,15
+ORDER_0405,2022-05-15,CUST_0094,Calças,Jeans,173.34,P,Preto,False,2,Debit Card,69.34,6,15
+ORDER_0406,2022-05-17,CUST_0093,Saias,Mini,160.47,G,Vermelho,False,2,Credit Card,75.42,1,17
+ORDER_0407,2022-05-17,CUST_0340,Saias,Mini,144.82,M,Azul,True,1,PIX,68.07,1,17
+ORDER_0408,2022-05-17,CUST_0085,Vestidos,Casual,91.28,G,Rosa,False,5,Credit Card,41.08,1,17
+ORDER_0409,2022-05-17,CUST_0445,Acessórios,Cintos,53.63,Único,Dourado,False,4,PIX,26.82,1,17
+ORDER_0410,2022-05-18,CUST_0245,Vestidos,Casual,187.32,M,Rosa,False,5,Credit Card,84.29,2,18
+ORDER_0411,2022-05-19,CUST_0022,Vestidos,Festa,338.76,M,Rosa,True,2,PIX,186.32,3,19
+ORDER_0412,2022-05-19,CUST_0291,Acessórios,Bijuterias,85.45,Único,Dourado,False,3,Credit Card,51.27,3,19
+ORDER_0413,2022-05-20,CUST_0485,Saias,Midi,240.78,M,Preto,False,5,Debit Card,120.39,4,20
+ORDER_0414,2022-05-20,CUST_0272,Vestidos,Festa,402.23,P,Vermelho,False,3,PIX,221.23,4,20
+ORDER_0415,2022-05-21,CUST_0306,Saias,Mini,199.58,G,Azul,False,5,Boleto,78.17,5,21
+ORDER_0416,2022-05-21,CUST_0122,Blusas,Social,206.03,GG,Azul,False,4,PIX,82.41,5,21
+ORDER_0417,2022-05-21,CUST_0128,Saias,Mini,166.67,M,Preto,False,2,PIX,65.28,5,21
+ORDER_0418,2022-05-22,CUST_0113,Acessórios,Cintos,158.68,Único,Marrom,False,5,Debit Card,66.11,6,22
+ORDER_0419,2022-05-23,CUST_0427,Saias,Midi,142.52,P,Preto,False,4,Boleto,71.26,0,23
+ORDER_0420,2022-05-23,CUST_0273,Acessórios,Cintos,81.21,Único,Prata,False,4,PIX,40.6,0,23
+ORDER_0421,2022-05-23,CUST_0336,Saias,Midi,128.07,P,Vermelho,False,5,PIX,64.03,0,23
+ORDER_0422,2022-05-23,CUST_0442,Blusas,Social,142.1,M,Rosa,False,4,Debit Card,68.21,0,23
+ORDER_0423,2022-05-24,CUST_0130,Saias,Longa,213.84,M,Azul,False,5,Debit Card,111.2,1,24
+ORDER_0424,2022-05-24,CUST_0132,Saias,Longa,221.62,P,Vermelho,False,5,PIX,115.24,1,24
+ORDER_0425,2022-05-24,CUST_0085,Acessórios,Cintos,67.79,Único,Preto,False,5,PIX,33.9,1,24
+ORDER_0426,2022-05-24,CUST_0423,Acessórios,Bolsas,436.84,Único,Marrom,False,3,Credit Card,240.26,1,24
+ORDER_0427,2022-05-24,CUST_0482,Vestidos,Praia,79.96,M,Azul,False,4,PIX,39.98,1,24
+ORDER_0428,2022-05-25,CUST_0350,Vestidos,Praia,161.02,G,Azul,False,4,Debit Card,67.09,2,25
+ORDER_0429,2022-05-25,CUST_0390,Saias,Midi,145.68,G,Rosa,False,2,Boleto,60.7,2,25
+ORDER_0430,2022-05-25,CUST_0081,Calças,Jeans,162.07,M,Azul,True,4,Boleto,64.83,2,25
+ORDER_0431,2022-05-25,CUST_0487,Vestidos,Praia,151.9,M,Azul,False,4,Credit Card,63.29,2,25
+ORDER_0432,2022-05-25,CUST_0473,Saias,Mini,171.48,M,Preto,False,5,Credit Card,67.16,2,25
+ORDER_0433,2022-05-25,CUST_0325,Acessórios,Bijuterias,111.18,Único,Preto,False,4,Boleto,55.59,2,25
+ORDER_0434,2022-05-26,CUST_0069,Vestidos,Casual,133.99,P,Azul,False,5,Boleto,50.25,3,26
+ORDER_0435,2022-05-26,CUST_0148,Vestidos,Praia,122.71,G,Preto,False,4,Debit Card,51.13,3,26
+ORDER_0436,2022-05-26,CUST_0448,Vestidos,Casual,110.86,P,Azul,False,5,PIX,41.57,3,26
+ORDER_0437,2022-05-26,CUST_0016,Vestidos,Casual,159.49,G,Rosa,False,4,Credit Card,59.81,3,26
+ORDER_0438,2022-05-27,CUST_0307,Calças,Jeans,163.14,M,Azul,True,4,Credit Card,65.26,4,27
+ORDER_0439,2022-05-27,CUST_0105,Acessórios,Bolsas,360.6,Único,Preto,False,4,Credit Card,165.28,4,27
+ORDER_0440,2022-05-27,CUST_0165,Blusas,T-shirt,109.02,GG,Azul,False,5,Boleto,38.16,4,27
+ORDER_0441,2022-05-27,CUST_0488,Saias,Longa,335.88,P,Preto,False,5,Credit Card,145.55,4,27
+ORDER_0442,2022-05-28,CUST_0201,Vestidos,Festa,529.5,G,Vermelho,True,1,PIX,202.24,5,28
+ORDER_0443,2022-05-28,CUST_0197,Saias,Longa,314.64,M,Azul,False,5,PIX,113.62,5,28
+ORDER_0444,2022-05-28,CUST_0426,Vestidos,Festa,436.72,P,Azul,False,4,Boleto,166.8,5,28
+ORDER_0445,2022-05-29,CUST_0185,Vestidos,Praia,171.2,P,Preto,False,4,Credit Card,59.45,6,29
+ORDER_0446,2022-05-29,CUST_0322,Acessórios,Cintos,198.3,Único,Prata,False,2,Boleto,68.86,6,29
+ORDER_0447,2022-05-30,CUST_0265,Saias,Midi,271.15,M,Azul,False,2,Boleto,112.98,0,30
+ORDER_0448,2022-05-31,CUST_0363,Vestidos,Festa,371.74,G,Vermelho,False,4,Debit Card,170.38,1,31
+ORDER_0449,2022-05-31,CUST_0100,Calças,Moletom,152.6,P,Branco,False,5,PIX,57.23,1,31
+ORDER_0450,2022-05-31,CUST_0342,Calças,Jeans,249.62,P,Azul,False,3,Debit Card,99.85,1,31
+ORDER_0451,2022-06-01,CUST_0320,Calças,Moletom,176.39,G,Azul,False,4,PIX,66.15,2,1
+ORDER_0452,2022-06-01,CUST_0214,Calças,Social,209.96,G,Azul,False,1,Boleto,90.98,2,1
+ORDER_0453,2022-06-01,CUST_0278,Vestidos,Festa,634.49,M,Rosa,False,3,PIX,290.81,2,1
+ORDER_0454,2022-06-02,CUST_0162,Saias,Mini,140.3,M,Preto,False,4,PIX,54.95,3,2
+ORDER_0455,2022-06-02,CUST_0439,Vestidos,Casual,221.02,M,Vermelho,False,4,PIX,82.88,3,2
+ORDER_0456,2022-06-02,CUST_0157,Vestidos,Casual,118.09,G,Rosa,False,5,Credit Card,44.28,3,2
+ORDER_0457,2022-06-02,CUST_0422,Calças,Social,410.38,G,Azul,True,1,Boleto,177.83,3,2
+ORDER_0458,2022-06-03,CUST_0251,Calças,Jeans,357.04,M,Preto,False,4,Credit Card,142.81,4,3
+ORDER_0459,2022-06-03,CUST_0366,Blusas,Social,249.06,P,Branco,False,5,Boleto,99.62,4,3
+ORDER_0460,2022-06-03,CUST_0097,Saias,Longa,262.14,G,Azul,False,5,Debit Card,113.59,4,3
+ORDER_0461,2022-06-04,CUST_0018,Calças,Jeans,322.55,P,Preto,False,5,PIX,107.52,5,4
+ORDER_0462,2022-06-05,CUST_0327,Blusas,T-shirt,132.18,GG,Azul,False,3,Debit Card,38.55,6,5
+ORDER_0463,2022-06-05,CUST_0449,Blusas,Moletom,200.71,GG,Preto,False,4,Credit Card,62.72,6,5
+ORDER_0464,2022-06-06,CUST_0383,Blusas,Social,192.55,M,Rosa,False,2,Credit Card,92.42,0,6
+ORDER_0465,2022-06-06,CUST_0097,Calças,Moletom,134.69,M,Branco,False,4,Credit Card,60.61,0,6
+ORDER_0466,2022-06-06,CUST_0001,Saias,Longa,235.69,P,Preto,False,5,Debit Card,122.56,0,6
+ORDER_0467,2022-06-06,CUST_0216,Acessórios,Bijuterias,40.95,Único,Marrom,False,5,PIX,24.57,0,6
+ORDER_0468,2022-06-06,CUST_0132,Vestidos,Casual,104.41,G,Azul,False,5,Boleto,46.98,0,6
+ORDER_0469,2022-06-07,CUST_0260,Saias,Longa,184.36,M,Rosa,False,3,Debit Card,95.87,1,7
+ORDER_0470,2022-06-07,CUST_0125,Blusas,Moletom,143.08,G,Rosa,False,5,Debit Card,64.39,1,7
+ORDER_0471,2022-06-08,CUST_0082,Saias,Mini,154.17,G,Vermelho,True,1,Credit Card,72.46,2,8
+ORDER_0472,2022-06-08,CUST_0283,Acessórios,Bolsas,364.72,Único,Marrom,False,4,Boleto,200.6,2,8
+ORDER_0473,2022-06-08,CUST_0171,Saias,Mini,146.47,M,Rosa,False,3,PIX,68.84,2,8
+ORDER_0474,2022-06-09,CUST_0059,Calças,Jeans,296.85,GG,Preto,True,1,PIX,142.49,3,9
+ORDER_0475,2022-06-09,CUST_0032,Saias,Longa,192.22,G,Rosa,False,1,PIX,99.95,3,9
+ORDER_0476,2022-06-09,CUST_0161,Acessórios,Bolsas,196.97,Único,Dourado,False,5,Credit Card,108.33,3,9
+ORDER_0477,2022-06-09,CUST_0284,Acessórios,Bijuterias,42.54,Único,Dourado,False,4,Debit Card,25.52,3,9
+ORDER_0478,2022-06-10,CUST_0106,Blusas,Moletom,111.26,M,Azul,False,3,PIX,50.07,4,10
+ORDER_0479,2022-06-10,CUST_0105,Vestidos,Casual,103.89,M,Preto,False,3,Credit Card,46.75,4,10
+ORDER_0480,2022-06-10,CUST_0439,Blusas,Moletom,185.14,P,Branco,False,5,Debit Card,83.31,4,10
+ORDER_0481,2022-06-10,CUST_0228,Vestidos,Festa,348.97,P,Rosa,False,1,Credit Card,191.93,4,10
+ORDER_0482,2022-06-10,CUST_0188,Vestidos,Praia,103.29,G,Preto,False,5,Debit Card,51.65,4,10
+ORDER_0483,2022-06-10,CUST_0070,Blusas,Social,184.94,G,Preto,False,5,Credit Card,88.77,4,10
+ORDER_0484,2022-06-11,CUST_0318,Saias,Midi,230.02,M,Vermelho,False,5,Credit Card,95.84,5,11
+ORDER_0485,2022-06-11,CUST_0464,Vestidos,Casual,187.79,G,Rosa,True,3,Credit Card,70.42,5,11
+ORDER_0486,2022-06-11,CUST_0290,Vestidos,Praia,125.89,G,Rosa,False,5,Credit Card,52.45,5,11
+ORDER_0487,2022-06-12,CUST_0087,Vestidos,Festa,409.1,P,Azul,False,4,Credit Card,187.51,6,12
+ORDER_0488,2022-06-12,CUST_0370,Calças,Moletom,108.32,M,Azul,True,2,PIX,40.62,6,12
+ORDER_0489,2022-06-12,CUST_0362,Acessórios,Bolsas,318.71,Único,Preto,False,3,Boleto,146.07,6,12
+ORDER_0490,2022-06-12,CUST_0472,Vestidos,Festa,393.25,M,Vermelho,False,5,Credit Card,180.24,6,12
+ORDER_0491,2022-06-14,CUST_0056,Saias,Mini,82.8,G,Vermelho,False,5,Debit Card,38.92,1,14
+ORDER_0492,2022-06-14,CUST_0113,Saias,Midi,225.33,G,Azul,False,5,PIX,112.67,1,14
+ORDER_0493,2022-06-14,CUST_0013,Vestidos,Festa,574.8,M,Azul,False,4,Boleto,316.14,1,14
+ORDER_0494,2022-06-14,CUST_0440,Vestidos,Praia,83.35,G,Rosa,False,3,PIX,41.67,1,14
+ORDER_0495,2022-06-15,CUST_0018,Acessórios,Bijuterias,44.9,Único,Preto,False,5,Boleto,26.94,2,15
+ORDER_0496,2022-06-15,CUST_0182,Saias,Midi,120.37,M,Vermelho,False,4,Credit Card,60.19,2,15
+ORDER_0497,2022-06-15,CUST_0461,Blusas,Moletom,197.95,GG,Azul,True,1,Debit Card,89.08,2,15
+ORDER_0498,2022-06-16,CUST_0113,Blusas,Moletom,176.26,M,Preto,False,5,PIX,79.32,3,16
+ORDER_0499,2022-06-16,CUST_0229,Saias,Longa,215.29,P,Vermelho,False,2,PIX,111.95,3,16
+ORDER_0500,2022-06-17,CUST_0171,Vestidos,Festa,541.4,P,Vermelho,False,4,Boleto,297.77,4,17
+ORDER_0501,2022-06-17,CUST_0295,Blusas,Moletom,105.42,P,Rosa,False,5,PIX,47.44,4,17
+ORDER_0502,2022-06-17,CUST_0189,Acessórios,Cintos,109.26,Único,Marrom,False,4,Credit Card,54.63,4,17
+ORDER_0503,2022-06-17,CUST_0426,Blusas,Moletom,108.47,G,Preto,False,5,Credit Card,48.81,4,17
+ORDER_0504,2022-06-17,CUST_0465,Acessórios,Bolsas,253.91,Único,Dourado,False,3,Debit Card,139.65,4,17
+ORDER_0505,2022-06-19,CUST_0079,Acessórios,Bolsas,347.39,Único,Marrom,False,5,PIX,159.22,6,19
+ORDER_0506,2022-06-19,CUST_0146,Calças,Social,379.78,GG,Preto,False,4,Credit Card,164.57,6,19
+ORDER_0507,2022-06-19,CUST_0407,Saias,Mini,108.73,M,Rosa,False,4,PIX,42.59,6,19
+ORDER_0508,2022-06-19,CUST_0182,Vestidos,Casual,159.04,P,Preto,False,3,PIX,59.64,6,19
+ORDER_0509,2022-06-20,CUST_0499,Saias,Mini,140.67,P,Preto,False,4,Debit Card,66.11,0,20
+ORDER_0510,2022-06-20,CUST_0286,Saias,Longa,177.84,P,Preto,False,5,PIX,92.48,0,20
+ORDER_0511,2022-06-21,CUST_0250,Vestidos,Praia,106.22,M,Preto,False,3,Credit Card,53.11,1,21
+ORDER_0512,2022-06-21,CUST_0354,Blusas,Moletom,131.15,P,Branco,False,5,Credit Card,59.02,1,21
+ORDER_0513,2022-06-21,CUST_0314,Acessórios,Bolsas,172.27,Único,Prata,False,4,PIX,94.75,1,21
+ORDER_0514,2022-06-22,CUST_0196,Calças,Jeans,198.29,M,Azul,False,4,Debit Card,95.18,2,22
+ORDER_0515,2022-06-22,CUST_0323,Vestidos,Casual,140.2,M,Rosa,False,5,PIX,63.09,2,22
+ORDER_0516,2022-06-22,CUST_0071,Calças,Social,185.79,G,Branco,False,3,Boleto,96.61,2,22
+ORDER_0517,2022-06-23,CUST_0248,Saias,Midi,208.83,P,Azul,False,5,Debit Card,104.42,3,23
+ORDER_0518,2022-06-24,CUST_0146,Acessórios,Cintos,121.86,Único,Prata,False,5,PIX,60.93,4,24
+ORDER_0519,2022-06-25,CUST_0106,Acessórios,Cintos,117.4,Único,Marrom,False,4,PIX,40.77,5,25
+ORDER_0520,2022-06-25,CUST_0263,Saias,Mini,156.2,G,Rosa,False,4,Credit Card,50.98,5,25
+ORDER_0521,2022-06-26,CUST_0296,Acessórios,Bijuterias,72.55,Único,Preto,False,3,Credit Card,30.23,6,26
+ORDER_0522,2022-06-26,CUST_0070,Calças,Moletom,251.83,GG,Branco,False,4,Debit Card,78.7,6,26
+ORDER_0523,2022-06-26,CUST_0470,Calças,Jeans,414.81,G,Azul,False,3,PIX,138.27,6,26
+ORDER_0524,2022-06-27,CUST_0193,Vestidos,Praia,126.96,G,Vermelho,False,5,PIX,52.9,0,27
+ORDER_0525,2022-06-27,CUST_0068,Vestidos,Praia,158.53,M,Rosa,False,4,Credit Card,66.06,0,27
+ORDER_0526,2022-06-27,CUST_0494,Calças,Jeans,237.73,G,Azul,False,1,Credit Card,95.09,0,27
+ORDER_0527,2022-06-28,CUST_0305,Saias,Longa,201.44,P,Azul,False,4,PIX,87.29,1,28
+ORDER_0528,2022-06-28,CUST_0052,Saias,Longa,209.06,P,Rosa,False,5,PIX,90.59,1,28
+ORDER_0529,2022-06-29,CUST_0370,Blusas,T-shirt,90.01,G,Preto,False,4,PIX,31.5,2,29
+ORDER_0530,2022-06-29,CUST_0363,Blusas,Social,175.25,G,Azul,False,3,Debit Card,70.1,2,29
+ORDER_0531,2022-06-30,CUST_0285,Blusas,Moletom,233.58,P,Preto,False,4,PIX,87.59,3,30
+ORDER_0532,2022-07-01,CUST_0405,Saias,Mini,125.23,M,Azul,False,4,PIX,49.05,4,1
+ORDER_0533,2022-07-01,CUST_0474,Acessórios,Bijuterias,49.44,Único,Preto,False,5,PIX,24.72,4,1
+ORDER_0534,2022-07-01,CUST_0334,Saias,Midi,183.78,M,Azul,False,4,Credit Card,76.58,4,1
+ORDER_0535,2022-07-01,CUST_0009,Acessórios,Bijuterias,58.7,Único,Prata,False,5,PIX,29.35,4,1
+ORDER_0536,2022-07-02,CUST_0251,Blusas,T-shirt,165.87,P,Branco,False,4,Boleto,48.38,5,2
+ORDER_0537,2022-07-02,CUST_0431,Saias,Longa,287.9,M,Azul,False,5,Credit Card,103.96,5,2
+ORDER_0538,2022-07-03,CUST_0332,Calças,Jeans,252.14,G,Preto,False,4,Credit Card,84.05,6,3
+ORDER_0539,2022-07-03,CUST_0298,Calças,Moletom,250.59,P,Branco,False,4,Credit Card,78.31,6,3
+ORDER_0540,2022-07-03,CUST_0435,Saias,Midi,309.27,G,Preto,True,5,Boleto,107.39,6,3
+ORDER_0541,2022-07-04,CUST_0184,Acessórios,Bijuterias,117.11,Único,Prata,False,3,Boleto,58.55,0,4
+ORDER_0542,2022-07-05,CUST_0179,Saias,Longa,270.89,M,Azul,False,2,Boleto,117.38,1,5
+ORDER_0543,2022-07-05,CUST_0198,Blusas,T-shirt,66.28,M,Rosa,False,5,PIX,23.2,1,5
+ORDER_0544,2022-07-06,CUST_0128,Acessórios,Bolsas,429.33,Único,Prata,False,2,Credit Card,236.13,2,6
+ORDER_0545,2022-07-06,CUST_0020,Saias,Longa,186.94,M,Vermelho,True,2,PIX,97.21,2,6
+ORDER_0546,2022-07-06,CUST_0472,Calças,Social,202.78,G,Branco,False,3,PIX,105.45,2,6
+ORDER_0547,2022-07-07,CUST_0411,Saias,Longa,281.71,M,Azul,False,4,Credit Card,146.49,3,7
+ORDER_0548,2022-07-07,CUST_0422,Vestidos,Praia,128.2,M,Preto,False,4,Credit Card,64.1,3,7
+ORDER_0549,2022-07-08,CUST_0328,Calças,Moletom,111.91,M,Azul,False,4,Credit Card,50.36,4,8
+ORDER_0550,2022-07-09,CUST_0065,Saias,Longa,337.68,P,Azul,False,5,Debit Card,146.33,5,9
+ORDER_0551,2022-07-09,CUST_0182,Acessórios,Cintos,75.17,Único,Preto,False,5,PIX,31.32,5,9
+ORDER_0552,2022-07-09,CUST_0241,Acessórios,Bijuterias,60.78,Único,Preto,False,4,Credit Card,30.39,5,9
+ORDER_0553,2022-07-09,CUST_0369,Acessórios,Bijuterias,91.63,Único,Dourado,True,4,Boleto,45.82,5,9
+ORDER_0554,2022-07-09,CUST_0024,Saias,Mini,157.31,P,Preto,False,5,Boleto,61.61,5,9
+ORDER_0555,2022-07-10,CUST_0384,Acessórios,Bolsas,323.7,Único,Marrom,False,4,PIX,148.36,6,10
+ORDER_0556,2022-07-10,CUST_0431,Acessórios,Bolsas,389.46,Único,Marrom,False,4,PIX,178.5,6,10
+ORDER_0557,2022-07-10,CUST_0455,Saias,Midi,284.39,G,Vermelho,True,3,Credit Card,118.5,6,10
+ORDER_0558,2022-07-11,CUST_0083,Calças,Jeans,145.16,GG,Preto,False,5,Debit Card,69.68,0,11
+ORDER_0559,2022-07-11,CUST_0470,Calças,Jeans,189.38,G,Azul,False,4,Credit Card,90.9,0,11
+ORDER_0560,2022-07-11,CUST_0319,Acessórios,Bolsas,444.16,Único,Preto,False,3,Boleto,244.29,0,11
+ORDER_0561,2022-07-11,CUST_0185,Saias,Midi,180.01,P,Vermelho,False,3,Debit Card,90.0,0,11
+ORDER_0562,2022-07-11,CUST_0439,Acessórios,Bijuterias,78.1,Único,Preto,False,5,Debit Card,46.86,0,11
+ORDER_0563,2022-07-13,CUST_0316,Vestidos,Casual,154.83,P,Rosa,False,4,Boleto,69.67,2,13
+ORDER_0564,2022-07-13,CUST_0099,Acessórios,Cintos,62.46,Único,Dourado,False,5,PIX,31.23,2,13
+ORDER_0565,2022-07-13,CUST_0062,Acessórios,Bijuterias,54.24,Único,Dourado,False,3,PIX,32.54,2,13
+ORDER_0566,2022-07-13,CUST_0286,Saias,Longa,162.1,M,Preto,False,3,PIX,84.29,2,13
+ORDER_0567,2022-07-14,CUST_0477,Acessórios,Bijuterias,86.09,Único,Marrom,False,5,PIX,51.65,3,14
+ORDER_0568,2022-07-14,CUST_0022,Acessórios,Cintos,52.4,Único,Preto,False,4,PIX,26.2,3,14
+ORDER_0569,2022-07-14,CUST_0459,Saias,Longa,215.62,G,Preto,False,5,PIX,112.12,3,14
+ORDER_0570,2022-07-14,CUST_0212,Saias,Longa,281.39,G,Preto,False,4,Boleto,146.32,3,14
+ORDER_0571,2022-07-15,CUST_0126,Acessórios,Bijuterias,33.2,Único,Prata,False,1,Credit Card,19.92,4,15
+ORDER_0572,2022-07-15,CUST_0413,Saias,Longa,226.59,M,Azul,False,1,Debit Card,117.83,4,15
+ORDER_0573,2022-07-15,CUST_0499,Vestidos,Festa,369.58,P,Preto,False,2,PIX,203.27,4,15
+ORDER_0574,2022-07-15,CUST_0425,Vestidos,Casual,102.04,P,Azul,False,4,Credit Card,45.92,4,15
+ORDER_0575,2022-07-17,CUST_0042,Blusas,T-shirt,60.56,G,Preto,False,4,Boleto,21.2,6,17
+ORDER_0576,2022-07-17,CUST_0098,Acessórios,Bijuterias,62.08,Único,Prata,False,5,Boleto,31.04,6,17
+ORDER_0577,2022-07-17,CUST_0449,Vestidos,Casual,195.22,G,Azul,False,5,Credit Card,73.21,6,17
+ORDER_0578,2022-07-18,CUST_0031,Vestidos,Festa,415.64,G,Azul,False,4,Credit Card,228.6,0,18
+ORDER_0579,2022-07-19,CUST_0158,Acessórios,Cintos,56.64,Único,Marrom,False,4,PIX,28.32,1,19
+ORDER_0580,2022-07-20,CUST_0112,Vestidos,Praia,104.75,P,Vermelho,False,5,PIX,52.38,2,20
+ORDER_0581,2022-07-20,CUST_0402,Calças,Social,285.64,G,Preto,False,5,Boleto,148.53,2,20
+ORDER_0582,2022-07-20,CUST_0247,Acessórios,Bolsas,410.49,Único,Prata,False,5,Boleto,225.77,2,20
+ORDER_0583,2022-07-20,CUST_0122,Vestidos,Festa,478.06,P,Rosa,False,4,Credit Card,262.93,2,20
+ORDER_0584,2022-07-20,CUST_0273,Vestidos,Festa,301.07,G,Vermelho,False,1,Credit Card,165.59,2,20
+ORDER_0585,2022-07-21,CUST_0294,Vestidos,Praia,100.62,G,Preto,False,5,PIX,50.31,3,21
+ORDER_0586,2022-07-21,CUST_0398,Saias,Midi,212.7,G,Rosa,False,4,PIX,106.35,3,21
+ORDER_0587,2022-07-22,CUST_0471,Saias,Mini,117.7,M,Azul,False,5,Credit Card,55.32,4,22
+ORDER_0588,2022-07-22,CUST_0473,Vestidos,Praia,148.45,M,Vermelho,False,5,Credit Card,74.22,4,22
+ORDER_0589,2022-07-23,CUST_0207,Blusas,Social,185.17,M,Preto,False,5,Boleto,74.07,5,23
+ORDER_0590,2022-07-23,CUST_0110,Calças,Social,296.92,GG,Preto,False,5,Credit Card,128.66,5,23
+ORDER_0591,2022-07-24,CUST_0440,Acessórios,Bolsas,232.81,Único,Dourado,False,4,PIX,106.71,6,24
+ORDER_0592,2022-07-25,CUST_0278,Acessórios,Bijuterias,41.87,Único,Preto,True,2,Debit Card,20.93,0,25
+ORDER_0593,2022-07-25,CUST_0451,Blusas,Social,147.32,P,Rosa,False,4,Boleto,58.93,0,25
+ORDER_0594,2022-07-25,CUST_0056,Vestidos,Casual,232.79,M,Vermelho,False,5,Boleto,87.3,0,25
+ORDER_0595,2022-07-26,CUST_0375,Vestidos,Festa,542.45,M,Preto,False,5,Debit Card,248.62,1,26
+ORDER_0596,2022-07-26,CUST_0403,Calças,Social,278.33,GG,Preto,False,5,Debit Card,120.61,1,26
+ORDER_0597,2022-07-26,CUST_0057,Acessórios,Cintos,112.19,Único,Dourado,False,2,Debit Card,46.74,1,26
+ORDER_0598,2022-07-27,CUST_0428,Blusas,Social,156.18,M,Rosa,False,4,PIX,62.47,2,27
+ORDER_0599,2022-07-27,CUST_0482,Vestidos,Casual,118.01,M,Azul,False,4,Debit Card,44.25,2,27
+ORDER_0600,2022-07-27,CUST_0291,Acessórios,Cintos,113.39,Único,Marrom,False,4,Credit Card,47.24,2,27
+ORDER_0601,2022-07-28,CUST_0114,Blusas,Social,148.91,M,Azul,False,5,PIX,59.56,3,28
+ORDER_0602,2022-07-29,CUST_0381,Acessórios,Cintos,65.15,Único,Preto,False,5,Credit Card,27.14,4,29
+ORDER_0603,2022-07-29,CUST_0385,Calças,Moletom,187.5,P,Azul,False,5,Credit Card,70.31,4,29
+ORDER_0604,2022-07-29,CUST_0308,Acessórios,Bolsas,446.17,Único,Marrom,False,5,Credit Card,204.5,4,29
+ORDER_0605,2022-07-31,CUST_0341,Blusas,Moletom,211.67,P,Branco,False,4,Boleto,66.15,6,31
+ORDER_0606,2022-08-01,CUST_0477,Blusas,T-shirt,63.88,P,Azul,False,5,Credit Card,22.36,0,1
+ORDER_0607,2022-08-02,CUST_0198,Saias,Longa,229.48,P,Azul,False,5,Boleto,99.44,1,2
+ORDER_0608,2022-08-02,CUST_0421,Acessórios,Bolsas,432.34,Único,Marrom,False,4,PIX,198.15,1,2
+ORDER_0609,2022-08-03,CUST_0321,Saias,Mini,215.11,P,Preto,False,4,Boleto,84.25,2,3
+ORDER_0610,2022-08-03,CUST_0179,Saias,Longa,273.38,M,Azul,False,3,PIX,118.47,2,3
+ORDER_0611,2022-08-03,CUST_0385,Acessórios,Bolsas,336.01,Único,Prata,False,1,Debit Card,154.01,2,3
+ORDER_0612,2022-08-04,CUST_0219,Acessórios,Bolsas,340.2,Único,Preto,False,5,Debit Card,155.93,3,4
+ORDER_0613,2022-08-04,CUST_0277,Saias,Mini,194.86,M,Preto,False,2,PIX,76.32,3,4
+ORDER_0614,2022-08-04,CUST_0437,Saias,Midi,194.69,P,Vermelho,False,5,PIX,81.12,3,4
+ORDER_0615,2022-08-04,CUST_0016,Blusas,Social,176.06,M,Branco,False,5,PIX,70.43,3,4
+ORDER_0616,2022-08-04,CUST_0492,Blusas,Social,203.72,M,Rosa,False,4,Credit Card,81.49,3,4
+ORDER_0617,2022-08-04,CUST_0379,Blusas,Moletom,166.73,P,Azul,False,5,Debit Card,62.52,3,4
+ORDER_0618,2022-08-05,CUST_0061,Vestidos,Festa,529.38,M,Vermelho,False,2,Debit Card,242.63,4,5
+ORDER_0619,2022-08-05,CUST_0054,Saias,Midi,218.87,P,Rosa,False,3,Credit Card,91.19,4,5
+ORDER_0620,2022-08-05,CUST_0168,Saias,Midi,232.22,M,Vermelho,False,3,Boleto,96.76,4,5
+ORDER_0621,2022-08-05,CUST_0026,Acessórios,Bolsas,475.43,Único,Prata,False,2,PIX,217.9,4,5
+ORDER_0622,2022-08-05,CUST_0336,Blusas,Social,274.72,G,Azul,False,1,Debit Card,109.89,4,5
+ORDER_0623,2022-08-05,CUST_0476,Saias,Midi,146.45,G,Preto,False,5,Debit Card,61.02,4,5
+ORDER_0624,2022-08-06,CUST_0065,Saias,Longa,186.37,G,Vermelho,False,2,Debit Card,80.76,5,6
+ORDER_0625,2022-08-06,CUST_0100,Acessórios,Cintos,76.04,Único,Marrom,False,2,PIX,31.68,5,6
+ORDER_0626,2022-08-06,CUST_0074,Acessórios,Bijuterias,48.22,Único,Prata,False,5,Debit Card,24.11,5,6
+ORDER_0627,2022-08-06,CUST_0192,Acessórios,Cintos,150.53,Único,Dourado,False,5,Debit Card,62.72,5,6
+ORDER_0628,2022-08-08,CUST_0171,Vestidos,Praia,127.59,M,Vermelho,False,5,Debit Card,63.8,0,8
+ORDER_0629,2022-08-08,CUST_0273,Saias,Mini,125.2,P,Rosa,False,2,Credit Card,58.84,0,8
+ORDER_0630,2022-08-08,CUST_0377,Saias,Mini,90.46,M,Preto,False,5,PIX,42.52,0,8
+ORDER_0631,2022-08-08,CUST_0187,Vestidos,Casual,146.44,M,Azul,False,5,Debit Card,65.9,0,8
+ORDER_0632,2022-08-10,CUST_0023,Acessórios,Cintos,127.52,Único,Prata,False,5,PIX,63.76,2,10
+ORDER_0633,2022-08-10,CUST_0391,Saias,Longa,188.37,M,Rosa,False,3,Boleto,97.95,2,10
+ORDER_0634,2022-08-11,CUST_0428,Calças,Moletom,103.1,P,Branco,False,1,PIX,46.39,3,11
+ORDER_0635,2022-08-11,CUST_0181,Calças,Moletom,118.54,M,Azul,False,3,PIX,53.34,3,11
+ORDER_0636,2022-08-11,CUST_0327,Acessórios,Cintos,128.64,Único,Preto,False,5,Debit Card,64.32,3,11
+ORDER_0637,2022-08-11,CUST_0108,Acessórios,Bolsas,400.44,Único,Marrom,False,1,Boleto,220.24,3,11
+ORDER_0638,2022-08-11,CUST_0335,Vestidos,Festa,335.4,G,Rosa,False,4,PIX,184.47,3,11
+ORDER_0639,2022-08-11,CUST_0162,Vestidos,Casual,134.74,P,Rosa,False,4,PIX,60.63,3,11
+ORDER_0640,2022-08-11,CUST_0302,Acessórios,Bolsas,380.67,Único,Marrom,False,4,Credit Card,209.37,3,11
+ORDER_0641,2022-08-12,CUST_0493,Blusas,T-shirt,90.31,P,Branco,False,5,Boleto,37.93,4,12
+ORDER_0642,2022-08-12,CUST_0452,Saias,Mini,112.09,M,Azul,False,3,Debit Card,52.68,4,12
+ORDER_0643,2022-08-12,CUST_0206,Saias,Longa,236.87,M,Vermelho,False,2,Debit Card,123.17,4,12
+ORDER_0644,2022-08-12,CUST_0078,Acessórios,Cintos,128.63,Único,Prata,False,4,Boleto,64.31,4,12
+ORDER_0645,2022-08-13,CUST_0016,Vestidos,Casual,166.7,G,Rosa,False,3,Debit Card,62.51,5,13
+ORDER_0646,2022-08-13,CUST_0327,Acessórios,Bijuterias,108.07,Único,Prata,False,5,PIX,54.04,5,13
+ORDER_0647,2022-08-13,CUST_0096,Calças,Jeans,164.36,GG,Azul,False,2,PIX,65.75,5,13
+ORDER_0648,2022-08-13,CUST_0147,Acessórios,Cintos,117.68,Único,Preto,True,1,Credit Card,49.03,5,13
+ORDER_0649,2022-08-13,CUST_0002,Calças,Jeans,270.9,M,Preto,False,5,Credit Card,108.36,5,13
+ORDER_0650,2022-08-13,CUST_0010,Vestidos,Praia,172.13,P,Preto,True,2,PIX,71.72,5,13
+ORDER_0651,2022-08-14,CUST_0434,Calças,Social,419.77,P,Branco,False,4,Boleto,181.9,6,14
+ORDER_0652,2022-08-14,CUST_0125,Acessórios,Bijuterias,52.09,Único,Marrom,False,5,Boleto,26.05,6,14
+ORDER_0653,2022-08-14,CUST_0081,Saias,Mini,119.75,P,Vermelho,False,4,Credit Card,46.9,6,14
+ORDER_0654,2022-08-14,CUST_0485,Acessórios,Cintos,112.69,Único,Dourado,False,4,Debit Card,46.95,6,14
+ORDER_0655,2022-08-14,CUST_0140,Acessórios,Bijuterias,98.2,Único,Preto,False,5,Boleto,49.1,6,14
+ORDER_0656,2022-08-15,CUST_0326,Acessórios,Bijuterias,63.8,Único,Marrom,True,2,PIX,38.28,0,15
+ORDER_0657,2022-08-15,CUST_0150,Saias,Midi,168.63,M,Azul,False,5,Boleto,84.31,0,15
+ORDER_0658,2022-08-15,CUST_0288,Saias,Longa,177.84,M,Preto,False,5,Credit Card,92.48,0,15
+ORDER_0659,2022-08-15,CUST_0361,Saias,Longa,196.7,G,Preto,False,4,Debit Card,102.28,0,15
+ORDER_0660,2022-08-16,CUST_0340,Vestidos,Festa,323.79,G,Preto,False,5,Credit Card,178.08,1,16
+ORDER_0661,2022-08-16,CUST_0129,Acessórios,Bolsas,443.91,Único,Preto,False,5,PIX,244.15,1,16
+ORDER_0662,2022-08-17,CUST_0438,Vestidos,Festa,412.57,G,Rosa,False,5,Debit Card,226.91,2,17
+ORDER_0663,2022-08-17,CUST_0239,Vestidos,Casual,187.37,P,Azul,False,1,PIX,84.32,2,17
+ORDER_0664,2022-08-17,CUST_0058,Blusas,Social,175.71,GG,Preto,False,2,Boleto,84.34,2,17
+ORDER_0665,2022-08-17,CUST_0198,Vestidos,Festa,310.19,G,Preto,False,5,PIX,170.6,2,17
+ORDER_0666,2022-08-17,CUST_0211,Vestidos,Casual,143.56,M,Preto,False,5,Debit Card,64.6,2,17
+ORDER_0667,2022-08-17,CUST_0402,Calças,Social,324.59,G,Azul,False,3,Debit Card,168.79,2,17
+ORDER_0668,2022-08-17,CUST_0390,Acessórios,Bijuterias,38.06,Único,Preto,True,3,Boleto,22.84,2,17
+ORDER_0669,2022-08-18,CUST_0045,Acessórios,Bijuterias,93.16,Único,Preto,False,2,Debit Card,55.9,3,18
+ORDER_0670,2022-08-18,CUST_0097,Vestidos,Festa,457.93,M,Preto,False,3,PIX,251.86,3,18
+ORDER_0671,2022-08-19,CUST_0279,Acessórios,Bolsas,257.97,Único,Marrom,False,5,Boleto,141.88,4,19
+ORDER_0672,2022-08-19,CUST_0023,Acessórios,Bolsas,402.11,Único,Marrom,False,4,Credit Card,221.16,4,19
+ORDER_0673,2022-08-19,CUST_0410,Blusas,Social,213.64,G,Rosa,False,4,PIX,102.55,4,19
+ORDER_0674,2022-08-19,CUST_0461,Saias,Longa,264.94,G,Rosa,False,4,PIX,137.77,4,19
+ORDER_0675,2022-08-19,CUST_0391,Vestidos,Praia,91.2,M,Preto,False,5,Debit Card,45.6,4,19
+ORDER_0676,2022-08-19,CUST_0335,Vestidos,Casual,116.43,M,Azul,False,4,Debit Card,52.39,4,19
+ORDER_0677,2022-08-21,CUST_0044,Calças,Social,344.76,G,Azul,False,5,Debit Card,149.4,6,21
+ORDER_0678,2022-08-21,CUST_0027,Saias,Midi,198.83,G,Preto,True,1,Credit Card,82.84,6,21
+ORDER_0679,2022-08-21,CUST_0282,Saias,Mini,201.13,P,Preto,False,5,Credit Card,78.78,6,21
+ORDER_0680,2022-08-21,CUST_0097,Acessórios,Cintos,119.04,Único,Marrom,True,3,Debit Card,49.6,6,21
+ORDER_0681,2022-08-21,CUST_0463,Vestidos,Casual,136.93,P,Azul,True,1,PIX,51.35,6,21
+ORDER_0682,2022-08-21,CUST_0036,Saias,Longa,182.75,M,Vermelho,False,4,PIX,79.19,6,21
+ORDER_0683,2022-08-21,CUST_0109,Acessórios,Cintos,122.2,Único,Preto,False,4,Credit Card,50.91,6,21
+ORDER_0684,2022-08-21,CUST_0055,Blusas,T-shirt,81.53,M,Rosa,False,5,PIX,28.53,6,21
+ORDER_0685,2022-08-22,CUST_0192,Saias,Longa,208.65,G,Azul,False,4,Debit Card,108.5,0,22
+ORDER_0686,2022-08-23,CUST_0219,Acessórios,Bolsas,315.57,Único,Dourado,False,4,Credit Card,173.56,1,23
+ORDER_0687,2022-08-23,CUST_0185,Acessórios,Bijuterias,83.29,Único,Marrom,False,4,Debit Card,49.97,1,23
+ORDER_0688,2022-08-24,CUST_0069,Blusas,Social,170.33,P,Azul,False,3,Credit Card,81.76,2,24
+ORDER_0689,2022-08-24,CUST_0317,Vestidos,Casual,104.89,M,Preto,False,1,Boleto,47.2,2,24
+ORDER_0690,2022-08-24,CUST_0130,Calças,Moletom,123.36,GG,Branco,False,3,PIX,55.51,2,24
+ORDER_0691,2022-08-25,CUST_0055,Vestidos,Praia,122.88,M,Preto,False,5,PIX,51.2,3,25
+ORDER_0692,2022-08-25,CUST_0378,Blusas,Moletom,230.95,P,Rosa,False,5,PIX,86.61,3,25
+ORDER_0693,2022-08-25,CUST_0097,Saias,Mini,115.84,P,Rosa,False,3,Credit Card,45.37,3,25
+ORDER_0694,2022-08-27,CUST_0336,Acessórios,Cintos,162.72,Único,Marrom,False,5,Credit Card,56.5,5,27
+ORDER_0695,2022-08-27,CUST_0087,Vestidos,Casual,181.83,M,Rosa,False,5,Credit Card,56.82,5,27
+ORDER_0696,2022-08-27,CUST_0294,Blusas,T-shirt,73.56,G,Preto,False,4,Debit Card,21.45,5,27
+ORDER_0697,2022-08-27,CUST_0119,Calças,Moletom,137.87,M,Azul,True,4,Boleto,43.08,5,27
+ORDER_0698,2022-08-29,CUST_0208,Blusas,T-shirt,135.19,GG,Branco,True,2,PIX,47.32,0,29
+ORDER_0699,2022-08-30,CUST_0334,Acessórios,Bijuterias,47.27,Único,Preto,False,5,Boleto,23.63,1,30
+ORDER_0700,2022-08-30,CUST_0413,Acessórios,Bijuterias,117.96,Único,Preto,False,4,Debit Card,58.98,1,30
+ORDER_0701,2022-08-30,CUST_0154,Blusas,Social,265.42,G,Branco,False,4,PIX,106.17,1,30
+ORDER_0702,2022-08-30,CUST_0035,Acessórios,Bolsas,335.95,Único,Prata,False,3,Boleto,153.98,1,30
+ORDER_0703,2022-08-30,CUST_0079,Acessórios,Bolsas,370.33,Único,Prata,False,2,PIX,169.74,1,30
+ORDER_0704,2022-08-31,CUST_0067,Vestidos,Praia,151.12,G,Rosa,False,4,Boleto,62.97,2,31
+ORDER_0705,2022-08-31,CUST_0343,Acessórios,Cintos,134.94,Único,Dourado,False,5,Credit Card,56.23,2,31
+ORDER_0706,2022-08-31,CUST_0413,Acessórios,Cintos,162.68,Único,Preto,False,3,Boleto,67.78,2,31
+ORDER_0707,2022-08-31,CUST_0034,Blusas,Social,165.82,P,Azul,True,3,PIX,66.33,2,31
+ORDER_0708,2022-09-01,CUST_0097,Blusas,T-shirt,119.15,M,Preto,False,4,Debit Card,41.7,3,1
+ORDER_0709,2022-09-01,CUST_0169,Acessórios,Bijuterias,40.88,Único,Preto,False,4,Boleto,20.44,3,1
+ORDER_0710,2022-09-01,CUST_0169,Acessórios,Cintos,102.34,Único,Marrom,False,3,PIX,42.64,3,1
+ORDER_0711,2022-09-02,CUST_0151,Calças,Social,369.84,G,Preto,False,5,Boleto,160.26,4,2
+ORDER_0712,2022-09-03,CUST_0071,Blusas,T-shirt,93.76,G,Preto,True,2,PIX,27.35,5,3
+ORDER_0713,2022-09-03,CUST_0003,Vestidos,Praia,192.18,G,Preto,False,5,Debit Card,66.73,5,3
+ORDER_0714,2022-09-04,CUST_0314,Vestidos,Praia,203.77,G,Rosa,False,4,Debit Card,70.75,6,4
+ORDER_0715,2022-09-04,CUST_0032,Blusas,Social,235.99,G,Branco,False,5,PIX,78.66,6,4
+ORDER_0716,2022-09-06,CUST_0287,Blusas,Moletom,129.48,G,Preto,False,3,PIX,58.27,1,6
+ORDER_0717,2022-09-06,CUST_0082,Vestidos,Praia,129.46,M,Preto,False,1,Boleto,64.73,1,6
+ORDER_0718,2022-09-07,CUST_0043,Vestidos,Casual,192.66,G,Preto,False,5,Debit Card,86.7,2,7
+ORDER_0719,2022-09-07,CUST_0391,Acessórios,Cintos,124.45,Único,Preto,False,4,PIX,62.23,2,7
+ORDER_0720,2022-09-07,CUST_0105,Calças,Social,212.86,M,Branco,False,4,Boleto,110.69,2,7
+ORDER_0721,2022-09-08,CUST_0001,Blusas,Moletom,180.41,G,Branco,False,5,Credit Card,81.18,3,8
+ORDER_0722,2022-09-08,CUST_0061,Calças,Jeans,189.21,P,Branco,False,4,Debit Card,90.82,3,8
+ORDER_0723,2022-09-08,CUST_0270,Blusas,Social,206.18,P,Preto,False,4,Boleto,98.97,3,8
+ORDER_0724,2022-09-08,CUST_0180,Vestidos,Casual,106.21,G,Preto,False,5,Boleto,47.79,3,8
+ORDER_0725,2022-09-08,CUST_0224,Saias,Longa,225.01,G,Vermelho,False,5,PIX,117.01,3,8
+ORDER_0726,2022-09-08,CUST_0006,Acessórios,Cintos,65.3,Único,Marrom,False,4,PIX,32.65,3,8
+ORDER_0727,2022-09-09,CUST_0103,Blusas,T-shirt,49.94,M,Rosa,False,5,Boleto,20.97,4,9
+ORDER_0728,2022-09-09,CUST_0010,Blusas,T-shirt,60.04,G,Branco,False,4,PIX,25.22,4,9
+ORDER_0729,2022-09-10,CUST_0071,Acessórios,Bijuterias,57.73,Único,Dourado,False,4,Debit Card,28.87,5,10
+ORDER_0730,2022-09-10,CUST_0090,Acessórios,Cintos,112.2,Único,Marrom,False,5,Credit Card,46.75,5,10
+ORDER_0731,2022-09-10,CUST_0226,Saias,Longa,343.74,M,Vermelho,False,5,PIX,148.95,5,10
+ORDER_0732,2022-09-10,CUST_0158,Saias,Longa,249.13,M,Rosa,False,2,Boleto,107.96,5,10
+ORDER_0733,2022-09-10,CUST_0228,Acessórios,Bolsas,307.74,Único,Marrom,True,3,PIX,141.05,5,10
+ORDER_0734,2022-09-10,CUST_0405,Saias,Longa,209.86,M,Preto,False,5,PIX,90.94,5,10
+ORDER_0735,2022-09-11,CUST_0126,Vestidos,Festa,492.92,P,Azul,False,5,Boleto,225.92,6,11
+ORDER_0736,2022-09-11,CUST_0444,Saias,Longa,229.12,P,Rosa,False,5,PIX,99.28,6,11
+ORDER_0737,2022-09-11,CUST_0209,Calças,Jeans,282.42,GG,Preto,False,5,PIX,112.97,6,11
+ORDER_0738,2022-09-11,CUST_0097,Saias,Midi,157.86,P,Vermelho,False,5,Debit Card,65.78,6,11
+ORDER_0739,2022-09-11,CUST_0074,Saias,Midi,148.68,M,Rosa,False,4,Debit Card,61.95,6,11
+ORDER_0740,2022-09-13,CUST_0115,Acessórios,Bolsas,209.49,Único,Dourado,False,4,Boleto,115.22,1,13
+ORDER_0741,2022-09-13,CUST_0191,Acessórios,Bolsas,274.99,Único,Preto,False,5,PIX,151.24,1,13
+ORDER_0742,2022-09-13,CUST_0495,Blusas,Moletom,115.83,G,Azul,False,3,PIX,52.12,1,13
+ORDER_0743,2022-09-14,CUST_0170,Vestidos,Praia,87.24,M,Preto,False,5,Credit Card,43.62,2,14
+ORDER_0744,2022-09-14,CUST_0307,Acessórios,Cintos,143.99,Único,Marrom,True,3,Boleto,72.0,2,14
+ORDER_0745,2022-09-14,CUST_0448,Blusas,Social,196.64,G,Preto,False,3,Credit Card,94.39,2,14
+ORDER_0746,2022-09-15,CUST_0204,Calças,Moletom,177.78,M,Preto,False,4,Boleto,80.0,3,15
+ORDER_0747,2022-09-15,CUST_0056,Blusas,T-shirt,97.35,G,Azul,False,5,Boleto,40.89,3,15
+ORDER_0748,2022-09-16,CUST_0208,Vestidos,Festa,534.36,P,Rosa,False,4,Credit Card,293.9,4,16
+ORDER_0749,2022-09-16,CUST_0041,Calças,Social,275.72,M,Preto,False,3,Credit Card,143.37,4,16
+ORDER_0750,2022-09-16,CUST_0032,Saias,Mini,112.42,M,Azul,False,5,PIX,52.84,4,16
+ORDER_0751,2022-09-16,CUST_0015,Acessórios,Bolsas,293.53,Único,Dourado,False,4,Debit Card,161.44,4,16
+ORDER_0752,2022-09-18,CUST_0062,Blusas,Social,170.83,GG,Preto,False,5,Boleto,68.33,6,18
+ORDER_0753,2022-09-18,CUST_0155,Acessórios,Cintos,96.29,Único,Marrom,False,3,PIX,40.12,6,18
+ORDER_0754,2022-09-18,CUST_0284,Saias,Longa,199.67,P,Rosa,False,5,PIX,86.52,6,18
+ORDER_0755,2022-09-18,CUST_0209,Acessórios,Bolsas,467.15,Único,Dourado,False,5,Credit Card,214.11,6,18
+ORDER_0756,2022-09-18,CUST_0320,Acessórios,Cintos,124.33,Único,Preto,False,4,Boleto,51.8,6,18
+ORDER_0757,2022-09-19,CUST_0494,Calças,Moletom,127.11,G,Azul,False,4,Boleto,57.2,0,19
+ORDER_0758,2022-09-20,CUST_0187,Blusas,Social,155.6,P,Preto,False,5,PIX,74.69,1,20
+ORDER_0759,2022-09-21,CUST_0498,Blusas,T-shirt,79.49,G,Azul,False,2,Debit Card,33.39,2,21
+ORDER_0760,2022-09-21,CUST_0442,Blusas,T-shirt,64.95,M,Azul,False,5,Debit Card,27.28,2,21
+ORDER_0761,2022-09-21,CUST_0130,Saias,Longa,221.2,M,Preto,True,2,Credit Card,115.02,2,21
+ORDER_0762,2022-09-21,CUST_0127,Acessórios,Cintos,88.67,Único,Prata,False,5,Credit Card,44.34,2,21
+ORDER_0763,2022-09-22,CUST_0292,Saias,Midi,136.58,M,Vermelho,False,5,Boleto,68.29,3,22
+ORDER_0764,2022-09-23,CUST_0114,Blusas,Social,144.0,M,Azul,False,3,Boleto,69.12,4,23
+ORDER_0765,2022-09-24,CUST_0199,Vestidos,Casual,217.81,M,Vermelho,False,2,PIX,81.68,5,24
+ORDER_0766,2022-09-25,CUST_0013,Calças,Jeans,424.53,M,Preto,False,4,Boleto,141.51,6,25
+ORDER_0767,2022-09-25,CUST_0271,Blusas,Moletom,161.31,M,Branco,False,5,Debit Card,50.41,6,25
+ORDER_0768,2022-09-25,CUST_0089,Acessórios,Bolsas,310.71,Único,Prata,False,5,PIX,118.67,6,25
+ORDER_0769,2022-09-25,CUST_0215,Vestidos,Festa,811.27,G,Preto,False,4,PIX,309.86,6,25
+ORDER_0770,2022-09-25,CUST_0444,Vestidos,Casual,160.37,P,Azul,True,3,Credit Card,50.12,6,25
+ORDER_0771,2022-09-25,CUST_0278,Saias,Midi,336.86,G,Vermelho,False,1,Debit Card,116.97,6,25
+ORDER_0772,2022-09-26,CUST_0447,Saias,Midi,256.92,M,Preto,False,3,PIX,107.05,0,26
+ORDER_0773,2022-09-27,CUST_0474,Calças,Jeans,174.85,GG,Azul,False,3,PIX,69.94,1,27
+ORDER_0774,2022-09-27,CUST_0481,Saias,Mini,109.99,M,Rosa,True,5,Debit Card,43.08,1,27
+ORDER_0775,2022-09-27,CUST_0203,Acessórios,Bijuterias,86.38,Único,Marrom,False,5,Boleto,43.19,1,27
+ORDER_0776,2022-09-27,CUST_0074,Vestidos,Festa,537.66,M,Preto,False,5,PIX,246.43,1,27
+ORDER_0777,2022-09-28,CUST_0025,Vestidos,Festa,443.5,G,Vermelho,False,5,Credit Card,203.27,2,28
+ORDER_0778,2022-09-28,CUST_0101,Acessórios,Bijuterias,92.3,Único,Marrom,False,4,Debit Card,46.15,2,28
+ORDER_0779,2022-09-28,CUST_0176,Saias,Mini,194.57,P,Rosa,False,5,PIX,76.21,2,28
+ORDER_0780,2022-09-28,CUST_0427,Saias,Longa,206.1,M,Azul,False,5,PIX,89.31,2,28
+ORDER_0781,2022-09-29,CUST_0117,Vestidos,Festa,405.71,G,Azul,False,5,Debit Card,185.95,3,29
+ORDER_0782,2022-09-29,CUST_0166,Blusas,Social,164.89,G,Azul,False,5,PIX,65.96,3,29
+ORDER_0783,2022-09-30,CUST_0041,Saias,Mini,206.84,M,Preto,False,3,Credit Card,81.01,4,30
+ORDER_0784,2022-09-30,CUST_0429,Acessórios,Cintos,120.68,Único,Marrom,True,2,Debit Card,50.28,4,30
+ORDER_0785,2022-09-30,CUST_0344,Saias,Midi,253.21,M,Preto,False,3,Boleto,105.5,4,30
+ORDER_0786,2022-09-30,CUST_0424,Saias,Midi,274.54,G,Rosa,False,4,Boleto,114.39,4,30
+ORDER_0787,2022-10-01,CUST_0366,Vestidos,Casual,173.89,G,Preto,False,2,Boleto,54.34,5,1
+ORDER_0788,2022-10-01,CUST_0120,Saias,Midi,309.34,P,Vermelho,False,2,Boleto,107.41,5,1
+ORDER_0789,2022-10-01,CUST_0097,Vestidos,Casual,231.74,M,Vermelho,False,5,PIX,72.42,5,1
+ORDER_0790,2022-10-01,CUST_0145,Calças,Social,468.23,G,Azul,False,3,Boleto,169.08,5,1
+ORDER_0791,2022-10-02,CUST_0216,Blusas,T-shirt,99.86,M,Azul,False,4,PIX,29.13,6,2
+ORDER_0792,2022-10-03,CUST_0229,Blusas,T-shirt,94.28,M,Preto,False,2,Boleto,33.0,0,3
+ORDER_0793,2022-10-03,CUST_0313,Calças,Jeans,186.76,GG,Preto,True,2,PIX,74.7,0,3
+ORDER_0794,2022-10-04,CUST_0130,Blusas,Moletom,167.41,P,Azul,False,4,PIX,62.78,1,4
+ORDER_0795,2022-10-04,CUST_0352,Acessórios,Bijuterias,51.0,Único,Preto,False,3,Boleto,25.5,1,4
+ORDER_0796,2022-10-04,CUST_0377,Acessórios,Cintos,63.49,Único,Prata,False,3,PIX,26.45,1,4
+ORDER_0797,2022-10-04,CUST_0318,Saias,Midi,145.45,M,Vermelho,False,5,Debit Card,60.6,1,4
+ORDER_0798,2022-10-04,CUST_0472,Saias,Longa,202.92,P,Azul,True,3,PIX,87.93,1,4
+ORDER_0799,2022-10-05,CUST_0137,Vestidos,Casual,185.95,M,Azul,True,3,PIX,69.73,2,5
+ORDER_0800,2022-10-05,CUST_0324,Calças,Social,295.82,GG,Branco,True,4,Debit Card,128.19,2,5
+ORDER_0801,2022-10-06,CUST_0337,Acessórios,Cintos,127.05,Único,Preto,False,1,Boleto,63.52,3,6
+ORDER_0802,2022-10-07,CUST_0273,Acessórios,Bolsas,265.26,Único,Marrom,False,5,Debit Card,145.89,4,7
+ORDER_0803,2022-10-07,CUST_0117,Saias,Midi,142.9,M,Rosa,False,2,PIX,71.45,4,7
+ORDER_0804,2022-10-07,CUST_0306,Blusas,Social,138.16,P,Rosa,False,5,PIX,66.32,4,7
+ORDER_0805,2022-10-08,CUST_0368,Blusas,Social,290.82,GG,Azul,False,3,PIX,116.33,5,8
+ORDER_0806,2022-10-08,CUST_0094,Blusas,T-shirt,93.5,G,Azul,False,2,PIX,32.73,5,8
+ORDER_0807,2022-10-09,CUST_0168,Calças,Social,381.18,G,Azul,False,4,Boleto,165.18,6,9
+ORDER_0808,2022-10-09,CUST_0442,Saias,Longa,305.64,G,Azul,False,4,Credit Card,132.44,6,9
+ORDER_0809,2022-10-09,CUST_0203,Saias,Longa,289.9,G,Rosa,False,5,PIX,125.62,6,9
+ORDER_0810,2022-10-10,CUST_0341,Calças,Social,288.29,M,Azul,False,5,Boleto,149.91,0,10
+ORDER_0811,2022-10-10,CUST_0149,Saias,Midi,123.94,G,Rosa,True,3,Credit Card,61.97,0,10
+ORDER_0812,2022-10-10,CUST_0402,Saias,Mini,136.55,P,Azul,False,5,Credit Card,64.18,0,10
+ORDER_0813,2022-10-11,CUST_0183,Calças,Moletom,91.31,M,Preto,False,3,PIX,41.09,1,11
+ORDER_0814,2022-10-11,CUST_0413,Blusas,Moletom,198.32,M,Azul,False,2,Boleto,89.24,1,11
+ORDER_0815,2022-10-12,CUST_0152,Blusas,T-shirt,51.31,M,Rosa,False,5,PIX,21.55,2,12
+ORDER_0816,2022-10-12,CUST_0074,Blusas,T-shirt,106.06,G,Preto,False,4,Boleto,44.55,2,12
+ORDER_0817,2022-10-12,CUST_0365,Vestidos,Casual,186.42,P,Vermelho,False,2,PIX,83.89,2,12
+ORDER_0818,2022-10-12,CUST_0401,Calças,Jeans,243.35,M,Preto,False,3,Boleto,116.81,2,12
+ORDER_0819,2022-10-12,CUST_0274,Calças,Social,297.05,G,Preto,False,4,Credit Card,154.47,2,12
+ORDER_0820,2022-10-12,CUST_0042,Acessórios,Bijuterias,52.97,Único,Marrom,False,4,Debit Card,31.78,2,12
+ORDER_0821,2022-10-12,CUST_0496,Blusas,Moletom,127.9,GG,Azul,False,5,PIX,57.56,2,12
+ORDER_0822,2022-10-13,CUST_0212,Blusas,Moletom,146.95,G,Azul,False,5,PIX,66.13,3,13
+ORDER_0823,2022-10-14,CUST_0101,Acessórios,Cintos,57.09,Único,Prata,False,4,PIX,28.55,4,14
+ORDER_0824,2022-10-14,CUST_0045,Vestidos,Praia,124.29,M,Vermelho,False,5,Credit Card,62.15,4,14
+ORDER_0825,2022-10-15,CUST_0082,Vestidos,Casual,163.78,P,Azul,False,4,PIX,61.42,5,15
+ORDER_0826,2022-10-15,CUST_0017,Blusas,T-shirt,68.48,M,Azul,True,4,PIX,23.97,5,15
+ORDER_0827,2022-10-15,CUST_0073,Saias,Midi,261.53,M,Rosa,False,4,PIX,108.97,5,15
+ORDER_0828,2022-10-15,CUST_0014,Saias,Mini,114.48,G,Vermelho,False,5,Credit Card,44.84,5,15
+ORDER_0829,2022-10-16,CUST_0433,Vestidos,Festa,637.62,P,Rosa,False,4,Credit Card,292.24,6,16
+ORDER_0830,2022-10-16,CUST_0157,Acessórios,Bijuterias,70.0,Único,Prata,False,4,PIX,35.0,6,16
+ORDER_0831,2022-10-16,CUST_0223,Acessórios,Bijuterias,43.38,Único,Dourado,False,5,PIX,21.69,6,16
+ORDER_0832,2022-10-16,CUST_0132,Calças,Moletom,156.6,G,Preto,False,4,Credit Card,58.73,6,16
+ORDER_0833,2022-10-16,CUST_0338,Calças,Moletom,117.17,G,Branco,False,5,Boleto,43.94,6,16
+ORDER_0834,2022-10-16,CUST_0404,Blusas,Moletom,136.68,GG,Branco,True,2,Credit Card,51.26,6,16
+ORDER_0835,2022-10-16,CUST_0376,Saias,Longa,284.96,G,Azul,False,5,PIX,123.48,6,16
+ORDER_0836,2022-10-18,CUST_0376,Acessórios,Cintos,65.25,Único,Prata,False,5,Credit Card,32.62,1,18
+ORDER_0837,2022-10-19,CUST_0047,Saias,Mini,96.25,M,Azul,False,5,Boleto,45.24,2,19
+ORDER_0838,2022-10-19,CUST_0107,Acessórios,Cintos,140.07,Único,Dourado,False,4,Credit Card,70.03,2,19
+ORDER_0839,2022-10-20,CUST_0108,Acessórios,Cintos,106.98,Único,Prata,True,1,Boleto,53.49,3,20
+ORDER_0840,2022-10-20,CUST_0265,Calças,Jeans,203.38,P,Preto,False,4,Credit Card,97.62,3,20
+ORDER_0841,2022-10-20,CUST_0205,Blusas,Social,151.98,GG,Azul,False,3,Boleto,72.95,3,20
+ORDER_0842,2022-10-21,CUST_0079,Vestidos,Praia,95.31,M,Rosa,False,2,PIX,47.66,4,21
+ORDER_0843,2022-10-21,CUST_0155,Vestidos,Praia,112.2,M,Vermelho,False,4,Credit Card,56.1,4,21
+ORDER_0844,2022-10-22,CUST_0271,Acessórios,Bijuterias,63.95,Único,Preto,False,4,Debit Card,31.97,5,22
+ORDER_0845,2022-10-22,CUST_0476,Calças,Social,259.79,G,Branco,False,4,Credit Card,112.57,5,22
+ORDER_0846,2022-10-22,CUST_0485,Acessórios,Bolsas,200.83,Único,Prata,False,4,Credit Card,92.05,5,22
+ORDER_0847,2022-10-23,CUST_0247,Acessórios,Bijuterias,87.31,Único,Dourado,False,4,Credit Card,43.66,6,23
+ORDER_0848,2022-10-23,CUST_0019,Calças,Jeans,346.15,M,Branco,True,1,PIX,138.46,6,23
+ORDER_0849,2022-10-23,CUST_0346,Vestidos,Praia,132.29,P,Rosa,False,5,PIX,55.12,6,23
+ORDER_0850,2022-10-23,CUST_0436,Calças,Moletom,182.86,GG,Preto,False,3,Credit Card,68.57,6,23
+ORDER_0851,2022-10-23,CUST_0026,Blusas,Social,256.22,M,Preto,False,4,Credit Card,102.49,6,23
+ORDER_0852,2022-10-23,CUST_0217,Acessórios,Bolsas,373.9,Único,Preto,False,4,Credit Card,171.37,6,23
+ORDER_0853,2022-10-24,CUST_0154,Calças,Social,197.46,M,Preto,False,3,Credit Card,102.68,0,24
+ORDER_0854,2022-10-25,CUST_0154,Acessórios,Bijuterias,75.65,Único,Dourado,False,4,Debit Card,37.82,1,25
+ORDER_0855,2022-10-25,CUST_0174,Acessórios,Bolsas,332.21,Único,Preto,False,2,PIX,152.26,1,25
+ORDER_0856,2022-10-27,CUST_0092,Acessórios,Bolsas,476.11,Único,Preto,False,1,PIX,218.22,3,27
+ORDER_0857,2022-10-28,CUST_0433,Saias,Longa,200.52,M,Rosa,True,4,Credit Card,86.89,4,28
+ORDER_0858,2022-10-28,CUST_0338,Acessórios,Bolsas,314.22,Único,Prata,False,4,Credit Card,144.02,4,28
+ORDER_0859,2022-10-28,CUST_0480,Acessórios,Bijuterias,112.9,Único,Marrom,False,4,Boleto,56.45,4,28
+ORDER_0860,2022-10-28,CUST_0181,Blusas,T-shirt,64.73,G,Branco,False,5,Debit Card,22.65,4,28
+ORDER_0861,2022-10-28,CUST_0131,Vestidos,Praia,146.08,G,Rosa,False,5,Debit Card,60.87,4,28
+ORDER_0862,2022-10-29,CUST_0450,Vestidos,Festa,740.49,G,Vermelho,False,5,Credit Card,282.83,5,29
+ORDER_0863,2022-10-29,CUST_0481,Blusas,T-shirt,107.08,M,Azul,False,3,PIX,31.23,5,29
+ORDER_0864,2022-10-29,CUST_0298,Blusas,T-shirt,91.08,G,Branco,False,5,Debit Card,26.56,5,29
+ORDER_0865,2022-10-29,CUST_0275,Calças,Social,395.8,M,Azul,False,4,PIX,142.93,5,29
+ORDER_0866,2022-10-30,CUST_0273,Blusas,Moletom,173.15,P,Azul,False,5,PIX,54.11,6,30
+ORDER_0867,2022-10-30,CUST_0492,Blusas,Moletom,198.84,G,Rosa,False,4,Credit Card,62.14,6,30
+ORDER_0868,2022-10-30,CUST_0417,Blusas,Social,328.92,P,Rosa,False,3,PIX,109.64,6,30
+ORDER_0869,2022-10-30,CUST_0076,Blusas,Social,183.86,GG,Preto,True,1,PIX,61.29,6,30
+ORDER_0870,2022-10-31,CUST_0177,Calças,Moletom,170.58,G,Preto,True,1,PIX,63.97,0,31
+ORDER_0871,2022-11-01,CUST_0184,Calças,Moletom,190.5,M,Azul,False,2,PIX,71.44,1,1
+ORDER_0872,2022-11-01,CUST_0319,Vestidos,Casual,167.15,G,Preto,False,4,Boleto,62.68,1,1
+ORDER_0873,2022-11-01,CUST_0131,Blusas,Moletom,171.02,GG,Azul,False,2,Credit Card,64.13,1,1
+ORDER_0874,2022-11-01,CUST_0363,Calças,Moletom,131.86,M,Branco,False,4,Credit Card,49.45,1,1
+ORDER_0875,2022-11-01,CUST_0049,Acessórios,Bolsas,288.11,Único,Dourado,True,2,Boleto,132.05,1,1
+ORDER_0876,2022-11-02,CUST_0055,Vestidos,Festa,529.01,M,Preto,False,2,PIX,242.46,2,2
+ORDER_0877,2022-11-02,CUST_0154,Calças,Social,404.24,P,Branco,False,5,Boleto,175.17,2,2
+ORDER_0878,2022-11-02,CUST_0355,Calças,Moletom,124.56,P,Branco,False,3,Debit Card,46.71,2,2
+ORDER_0879,2022-11-02,CUST_0200,Acessórios,Cintos,154.38,Único,Preto,False,4,PIX,64.33,2,2
+ORDER_0880,2022-11-03,CUST_0308,Blusas,Moletom,226.58,M,Azul,False,4,Boleto,84.97,3,3
+ORDER_0881,2022-11-04,CUST_0356,Saias,Mini,113.5,M,Preto,False,4,PIX,44.45,4,4
+ORDER_0882,2022-11-05,CUST_0373,Vestidos,Casual,138.3,M,Azul,False,5,Debit Card,43.22,5,5
+ORDER_0883,2022-11-05,CUST_0118,Blusas,Moletom,222.12,G,Preto,False,4,PIX,69.41,5,5
+ORDER_0884,2022-11-05,CUST_0263,Saias,Longa,280.47,M,Azul,False,3,Debit Card,101.28,5,5
+ORDER_0885,2022-11-05,CUST_0046,Saias,Mini,238.13,P,Rosa,False,1,Credit Card,77.72,5,5
+ORDER_0886,2022-11-06,CUST_0302,Vestidos,Casual,156.44,M,Azul,False,4,Boleto,58.67,6,6
+ORDER_0887,2022-11-06,CUST_0356,Calças,Social,201.42,GG,Preto,False,3,Debit Card,87.28,6,6
+ORDER_0888,2022-11-06,CUST_0400,Blusas,Moletom,191.17,M,Preto,False,3,Credit Card,71.69,6,6
+ORDER_0889,2022-11-07,CUST_0408,Blusas,Social,159.73,P,Rosa,False,5,PIX,76.67,0,7
+ORDER_0890,2022-11-08,CUST_0189,Saias,Mini,161.12,M,Vermelho,False,4,Boleto,75.73,1,8
+ORDER_0891,2022-11-08,CUST_0310,Acessórios,Bijuterias,53.39,Único,Preto,False,5,Debit Card,32.03,1,8
+ORDER_0892,2022-11-08,CUST_0318,Acessórios,Bolsas,263.01,Único,Preto,False,2,PIX,144.66,1,8
+ORDER_0893,2022-11-09,CUST_0129,Calças,Moletom,155.08,G,Branco,False,3,Boleto,69.79,2,9
+ORDER_0894,2022-11-09,CUST_0049,Blusas,Social,225.33,P,Preto,True,2,PIX,108.16,2,9
+ORDER_0895,2022-11-09,CUST_0025,Blusas,Moletom,141.32,G,Branco,False,5,Debit Card,63.59,2,9
+ORDER_0896,2022-11-10,CUST_0266,Acessórios,Bijuterias,50.5,Único,Prata,False,3,Credit Card,30.3,3,10
+ORDER_0897,2022-11-10,CUST_0118,Blusas,Social,205.21,M,Azul,False,2,PIX,98.5,3,10
+ORDER_0898,2022-11-10,CUST_0464,Acessórios,Bolsas,265.33,Único,Marrom,False,2,Boleto,145.93,3,10
+ORDER_0899,2022-11-11,CUST_0144,Acessórios,Cintos,60.23,Único,Preto,False,3,Boleto,30.11,4,11
+ORDER_0900,2022-11-12,CUST_0442,Calças,Moletom,207.0,M,Azul,False,2,Credit Card,77.62,5,12
+ORDER_0901,2022-11-12,CUST_0200,Vestidos,Casual,204.13,M,Preto,False,4,Boleto,76.55,5,12
+ORDER_0902,2022-11-12,CUST_0157,Acessórios,Bijuterias,41.98,Único,Marrom,False,4,PIX,20.99,5,12
+ORDER_0903,2022-11-13,CUST_0487,Saias,Mini,206.04,P,Vermelho,False,4,Boleto,80.7,6,13
+ORDER_0904,2022-11-14,CUST_0348,Acessórios,Cintos,59.92,Único,Dourado,False,5,Credit Card,29.96,0,14
+ORDER_0905,2022-11-14,CUST_0134,Calças,Moletom,116.02,P,Preto,False,4,Credit Card,52.21,0,14
+ORDER_0906,2022-11-14,CUST_0400,Calças,Moletom,123.37,P,Branco,False,5,PIX,55.52,0,14
+ORDER_0907,2022-11-14,CUST_0148,Saias,Midi,139.75,P,Azul,False,1,Boleto,69.88,0,14
+ORDER_0908,2022-11-14,CUST_0336,Saias,Mini,170.45,M,Rosa,False,4,PIX,80.11,0,14
+ORDER_0909,2022-11-14,CUST_0071,Blusas,T-shirt,52.71,G,Rosa,False,4,Boleto,22.14,0,14
+ORDER_0910,2022-11-14,CUST_0233,Blusas,Social,234.04,P,Preto,False,4,PIX,112.34,0,14
+ORDER_0911,2022-11-14,CUST_0334,Acessórios,Cintos,94.16,Único,Dourado,False,4,Boleto,47.08,0,14
+ORDER_0912,2022-11-14,CUST_0299,Acessórios,Cintos,105.07,Único,Dourado,False,2,Debit Card,52.53,0,14
+ORDER_0913,2022-11-15,CUST_0154,Calças,Social,232.5,GG,Preto,False,3,Credit Card,120.9,1,15
+ORDER_0914,2022-11-15,CUST_0090,Vestidos,Festa,468.22,M,Preto,False,2,PIX,257.52,1,15
+ORDER_0915,2022-11-16,CUST_0334,Calças,Social,231.46,M,Preto,True,5,Credit Card,120.36,2,16
+ORDER_0916,2022-11-16,CUST_0199,Acessórios,Bijuterias,38.79,Único,Marrom,True,2,Debit Card,23.27,2,16
+ORDER_0917,2022-11-16,CUST_0161,Saias,Midi,178.32,G,Rosa,False,5,Boleto,89.16,2,16
+ORDER_0918,2022-11-16,CUST_0026,Blusas,Moletom,179.48,P,Azul,False,3,Credit Card,80.77,2,16
+ORDER_0919,2022-11-17,CUST_0121,Vestidos,Praia,87.9,P,Azul,False,3,Debit Card,43.95,3,17
+ORDER_0920,2022-11-17,CUST_0301,Blusas,Social,163.14,G,Preto,False,4,Credit Card,78.31,3,17
+ORDER_0921,2022-11-18,CUST_0212,Acessórios,Bijuterias,47.31,Único,Dourado,False,5,PIX,28.39,4,18
+ORDER_0922,2022-11-19,CUST_0063,Acessórios,Bolsas,377.04,Único,Prata,False,3,Credit Card,172.81,5,19
+ORDER_0923,2022-11-19,CUST_0451,Acessórios,Cintos,71.59,Único,Prata,False,5,PIX,29.83,5,19
+ORDER_0924,2022-11-19,CUST_0436,Calças,Jeans,354.84,GG,Azul,False,5,PIX,141.94,5,19
+ORDER_0925,2022-11-19,CUST_0068,Saias,Midi,243.96,P,Preto,True,5,Credit Card,101.65,5,19
+ORDER_0926,2022-11-20,CUST_0253,Blusas,Moletom,128.03,G,Branco,False,3,Debit Card,48.01,6,20
+ORDER_0927,2022-11-20,CUST_0410,Calças,Jeans,359.35,G,Azul,False,2,Credit Card,143.74,6,20
+ORDER_0928,2022-11-20,CUST_0459,Vestidos,Praia,108.49,M,Rosa,False,4,Boleto,45.2,6,20
+ORDER_0929,2022-11-20,CUST_0002,Calças,Jeans,280.49,M,Azul,False,5,Debit Card,112.2,6,20
+ORDER_0930,2022-11-21,CUST_0398,Acessórios,Bolsas,430.79,Único,Dourado,False,5,Credit Card,236.93,0,21
+ORDER_0931,2022-11-22,CUST_0108,Vestidos,Festa,567.94,M,Vermelho,False,4,Credit Card,312.37,1,22
+ORDER_0932,2022-11-22,CUST_0286,Blusas,T-shirt,79.43,P,Branco,False,5,PIX,33.36,1,22
+ORDER_0933,2022-11-22,CUST_0049,Blusas,T-shirt,118.64,P,Azul,True,5,Boleto,49.83,1,22
+ORDER_0934,2022-11-23,CUST_0140,Acessórios,Bijuterias,91.55,Único,Marrom,False,5,Debit Card,54.93,2,23
+ORDER_0935,2022-11-23,CUST_0218,Blusas,Moletom,179.12,GG,Branco,False,5,Debit Card,80.6,2,23
+ORDER_0936,2022-11-24,CUST_0044,Saias,Longa,231.0,G,Preto,False,5,Boleto,120.12,3,24
+ORDER_0937,2022-11-24,CUST_0417,Calças,Jeans,209.44,P,Branco,False,5,Debit Card,100.53,3,24
+ORDER_0938,2022-11-25,CUST_0269,Blusas,T-shirt,64.91,P,Azul,True,2,Credit Card,22.72,4,25
+ORDER_0939,2022-11-25,CUST_0078,Acessórios,Bolsas,415.78,Único,Prata,False,5,Debit Card,190.56,4,25
+ORDER_0940,2022-11-26,CUST_0216,Calças,Moletom,137.49,G,Azul,False,3,Credit Card,42.97,5,26
+ORDER_0941,2022-11-26,CUST_0382,Acessórios,Bijuterias,49.19,Único,Prata,False,4,Credit Card,20.5,5,26
+ORDER_0942,2022-11-26,CUST_0098,Calças,Moletom,178.46,GG,Preto,False,2,PIX,55.77,5,26
+ORDER_0943,2022-11-26,CUST_0236,Acessórios,Bijuterias,53.29,Único,Prata,False,2,Credit Card,22.21,5,26
+ORDER_0944,2022-11-26,CUST_0282,Vestidos,Praia,177.78,G,Preto,False,4,Credit Card,61.73,5,26
+ORDER_0945,2022-11-27,CUST_0149,Vestidos,Casual,267.41,P,Vermelho,True,2,Credit Card,83.56,6,27
+ORDER_0946,2022-11-27,CUST_0412,Saias,Mini,232.5,G,Preto,False,3,PIX,75.89,6,27
+ORDER_0947,2022-11-28,CUST_0304,Calças,Moletom,204.05,GG,Branco,False,5,Boleto,76.52,0,28
+ORDER_0948,2022-11-28,CUST_0484,Acessórios,Bijuterias,47.33,Único,Prata,False,3,PIX,23.66,0,28
+ORDER_0949,2022-11-30,CUST_0424,Vestidos,Festa,664.86,M,Rosa,False,5,Boleto,304.73,2,30
+ORDER_0950,2022-11-30,CUST_0066,Blusas,Social,147.43,M,Rosa,True,1,PIX,58.97,2,30
+ORDER_0951,2022-11-30,CUST_0234,Blusas,Moletom,170.54,M,Branco,False,2,Debit Card,63.95,2,30
+ORDER_0952,2022-12-01,CUST_0457,Blusas,Moletom,138.85,GG,Preto,False,5,Debit Card,52.07,3,1
+ORDER_0953,2022-12-01,CUST_0087,Calças,Jeans,186.76,P,Branco,False,4,PIX,74.7,3,1
+ORDER_0954,2022-12-01,CUST_0079,Calças,Jeans,197.88,P,Branco,False,3,Boleto,79.15,3,1
+ORDER_0955,2022-12-01,CUST_0205,Vestidos,Praia,96.07,G,Vermelho,False,4,PIX,40.03,3,1
+ORDER_0956,2022-12-01,CUST_0279,Vestidos,Casual,155.4,P,Azul,False,4,Boleto,58.27,3,1
+ORDER_0957,2022-12-02,CUST_0337,Blusas,Moletom,133.72,GG,Preto,False,5,Credit Card,50.14,4,2
+ORDER_0958,2022-12-02,CUST_0254,Blusas,Moletom,220.28,M,Preto,False,5,PIX,82.61,4,2
+ORDER_0959,2022-12-03,CUST_0304,Acessórios,Bijuterias,94.48,Único,Marrom,False,4,Debit Card,39.37,5,3
+ORDER_0960,2022-12-04,CUST_0380,Calças,Moletom,191.52,P,Branco,False,2,Debit Card,59.85,6,4
+ORDER_0961,2022-12-04,CUST_0130,Acessórios,Cintos,111.97,Único,Marrom,False,5,PIX,38.88,6,4
+ORDER_0962,2022-12-04,CUST_0084,Acessórios,Cintos,176.46,Único,Prata,False,5,PIX,61.27,6,4
+ORDER_0963,2022-12-04,CUST_0276,Calças,Moletom,147.46,M,Branco,False,5,PIX,46.08,6,4
+ORDER_0964,2022-12-05,CUST_0187,Calças,Jeans,202.04,P,Preto,False,5,PIX,80.82,0,5
+ORDER_0965,2022-12-05,CUST_0046,Blusas,Moletom,181.79,G,Azul,False,4,PIX,68.17,0,5
+ORDER_0966,2022-12-06,CUST_0387,Acessórios,Bolsas,372.16,Único,Dourado,False,4,Boleto,204.69,1,6
+ORDER_0967,2022-12-06,CUST_0183,Acessórios,Cintos,104.69,Único,Preto,False,2,PIX,52.34,1,6
+ORDER_0968,2022-12-06,CUST_0268,Blusas,Social,147.33,M,Rosa,False,5,PIX,70.72,1,6
+ORDER_0969,2022-12-07,CUST_0296,Saias,Midi,216.81,P,Azul,True,4,PIX,108.41,2,7
+ORDER_0970,2022-12-08,CUST_0322,Vestidos,Casual,127.29,G,Vermelho,False,4,Credit Card,57.28,3,8
+ORDER_0971,2022-12-08,CUST_0100,Acessórios,Cintos,64.99,Único,Prata,False,5,PIX,32.49,3,8
+ORDER_0972,2022-12-08,CUST_0078,Acessórios,Cintos,136.04,Único,Dourado,False,5,Credit Card,68.02,3,8
+ORDER_0973,2022-12-08,CUST_0272,Calças,Moletom,128.11,G,Preto,False,5,Credit Card,57.65,3,8
+ORDER_0974,2022-12-08,CUST_0339,Calças,Social,247.6,M,Azul,False,3,PIX,128.75,3,8
+ORDER_0975,2022-12-10,CUST_0162,Saias,Mini,112.33,M,Azul,False,3,Credit Card,44.0,5,10
+ORDER_0976,2022-12-10,CUST_0044,Acessórios,Cintos,171.01,Único,Preto,False,4,PIX,71.25,5,10
+ORDER_0977,2022-12-10,CUST_0238,Calças,Moletom,177.91,P,Azul,False,5,PIX,66.72,5,10
+ORDER_0978,2022-12-10,CUST_0134,Blusas,Moletom,128.16,G,Rosa,False,4,PIX,48.06,5,10
+ORDER_0979,2022-12-10,CUST_0461,Acessórios,Cintos,78.36,Único,Marrom,False,5,Credit Card,32.65,5,10
+ORDER_0980,2022-12-11,CUST_0192,Acessórios,Bolsas,327.56,Único,Marrom,False,4,Debit Card,150.13,6,11
+ORDER_0981,2022-12-12,CUST_0356,Calças,Moletom,91.67,GG,Preto,True,2,Debit Card,41.25,0,12
+ORDER_0982,2022-12-12,CUST_0278,Blusas,T-shirt,57.3,GG,Branco,False,4,Debit Card,24.07,0,12
+ORDER_0983,2022-12-12,CUST_0018,Vestidos,Praia,144.57,P,Rosa,False,4,PIX,72.28,0,12
+ORDER_0984,2022-12-12,CUST_0012,Calças,Jeans,134.43,GG,Preto,False,5,PIX,64.53,0,12
+ORDER_0985,2022-12-12,CUST_0180,Acessórios,Bijuterias,40.94,Único,Preto,False,5,Boleto,24.56,0,12
+ORDER_0986,2022-12-12,CUST_0123,Acessórios,Bijuterias,92.78,Único,Marrom,False,5,PIX,55.67,0,12
+ORDER_0987,2022-12-12,CUST_0246,Calças,Social,348.3,GG,Azul,False,3,Credit Card,181.12,0,12
+ORDER_0988,2022-12-13,CUST_0222,Saias,Midi,162.59,M,Azul,False,3,Debit Card,81.3,1,13
+ORDER_0989,2022-12-14,CUST_0373,Acessórios,Bijuterias,46.2,Único,Prata,True,2,Debit Card,27.72,2,14
+ORDER_0990,2022-12-14,CUST_0051,Saias,Mini,97.48,P,Rosa,True,1,PIX,45.82,2,14
+ORDER_0991,2022-12-14,CUST_0488,Saias,Mini,146.59,M,Azul,False,5,Boleto,68.9,2,14
+ORDER_0992,2022-12-14,CUST_0071,Vestidos,Praia,97.77,P,Rosa,False,5,PIX,48.88,2,14
+ORDER_0993,2022-12-15,CUST_0480,Acessórios,Bijuterias,56.13,Único,Marrom,False,4,Debit Card,33.68,3,15
+ORDER_0994,2022-12-15,CUST_0048,Blusas,Moletom,114.87,GG,Branco,False,5,Credit Card,51.69,3,15
+ORDER_0995,2022-12-15,CUST_0019,Acessórios,Bolsas,171.72,Único,Marrom,False,5,PIX,94.45,3,15
+ORDER_0996,2022-12-15,CUST_0262,Calças,Jeans,208.95,GG,Branco,False,3,PIX,100.3,3,15
+ORDER_0997,2022-12-15,CUST_0084,Blusas,Moletom,194.4,P,Preto,False,3,Debit Card,87.48,3,15
+ORDER_0998,2022-12-15,CUST_0155,Calças,Social,308.13,M,Preto,False,5,Credit Card,160.23,3,15
+ORDER_0999,2022-12-15,CUST_0053,Blusas,Social,133.54,GG,Rosa,False,4,Credit Card,64.1,3,15
+ORDER_1000,2022-12-16,CUST_0107,Blusas,Moletom,158.85,M,Rosa,False,5,Boleto,71.48,4,16
+ORDER_1001,2022-12-16,CUST_0357,Blusas,T-shirt,100.28,GG,Preto,False,5,Debit Card,42.12,4,16
+ORDER_1002,2022-12-16,CUST_0304,Blusas,T-shirt,79.28,P,Preto,True,5,Debit Card,33.3,4,16
+ORDER_1003,2022-12-16,CUST_0135,Acessórios,Cintos,50.31,Único,Dourado,False,5,PIX,25.16,4,16
+ORDER_1004,2022-12-18,CUST_0443,Vestidos,Festa,657.71,P,Rosa,True,1,Credit Card,301.45,6,18
+ORDER_1005,2022-12-19,CUST_0069,Calças,Moletom,99.4,P,Branco,False,3,Boleto,44.73,0,19
+ORDER_1006,2022-12-19,CUST_0011,Calças,Moletom,120.61,P,Branco,False,5,Credit Card,54.27,0,19
+ORDER_1007,2022-12-20,CUST_0143,Acessórios,Bolsas,175.44,Único,Marrom,False,5,Credit Card,96.49,1,20
+ORDER_1008,2022-12-22,CUST_0192,Calças,Moletom,134.6,M,Branco,False,5,Debit Card,60.57,3,22
+ORDER_1009,2022-12-22,CUST_0387,Acessórios,Bijuterias,76.71,Único,Prata,False,2,Debit Card,46.03,3,22
+ORDER_1010,2022-12-22,CUST_0378,Calças,Jeans,245.11,P,Branco,False,2,Debit Card,117.65,3,22
+ORDER_1011,2022-12-22,CUST_0069,Calças,Jeans,158.01,GG,Preto,True,3,PIX,75.84,3,22
+ORDER_1012,2022-12-22,CUST_0023,Acessórios,Bijuterias,82.26,Único,Preto,False,4,Debit Card,49.36,3,22
+ORDER_1013,2022-12-23,CUST_0181,Calças,Jeans,199.94,GG,Azul,False,5,PIX,95.97,4,23
+ORDER_1014,2022-12-23,CUST_0293,Acessórios,Bijuterias,43.26,Único,Prata,False,3,PIX,25.96,4,23
+ORDER_1015,2022-12-24,CUST_0009,Calças,Jeans,210.23,P,Branco,False,5,Credit Card,84.09,5,24
+ORDER_1016,2022-12-25,CUST_0271,Vestidos,Casual,183.74,M,Azul,False,5,Debit Card,57.42,6,25
+ORDER_1017,2022-12-25,CUST_0387,Acessórios,Cintos,156.72,Único,Prata,False,4,PIX,54.41,6,25
+ORDER_1018,2022-12-25,CUST_0093,Blusas,T-shirt,157.58,GG,Azul,False,5,Boleto,45.96,6,25
+ORDER_1019,2022-12-25,CUST_0454,Blusas,T-shirt,148.35,M,Rosa,False,3,Credit Card,43.27,6,25
+ORDER_1020,2022-12-26,CUST_0017,Blusas,T-shirt,70.46,GG,Rosa,False,5,Debit Card,24.66,0,26
+ORDER_1021,2022-12-26,CUST_0154,Calças,Social,308.39,P,Azul,False,3,PIX,133.63,0,26
+ORDER_1022,2022-12-26,CUST_0405,Acessórios,Bolsas,442.07,Único,Marrom,False,5,Credit Card,202.61,0,26
+ORDER_1023,2022-12-27,CUST_0328,Blusas,Social,167.32,M,Preto,False,5,Boleto,66.93,1,27
+ORDER_1024,2022-12-27,CUST_0149,Acessórios,Bijuterias,99.91,Único,Prata,False,5,Debit Card,49.96,1,27
+ORDER_1025,2022-12-27,CUST_0377,Blusas,T-shirt,65.62,M,Azul,False,3,Debit Card,22.97,1,27
+ORDER_1026,2022-12-29,CUST_0267,Acessórios,Bolsas,314.56,Único,Prata,False,4,Credit Card,144.17,3,29
+ORDER_1027,2022-12-29,CUST_0422,Blusas,Moletom,219.49,M,Preto,False,2,PIX,82.31,3,29
+ORDER_1028,2022-12-29,CUST_0328,Calças,Moletom,135.25,M,Azul,False,4,PIX,50.72,3,29
+ORDER_1029,2022-12-29,CUST_0106,Saias,Midi,164.82,P,Rosa,False,5,Boleto,68.67,3,29
+ORDER_1030,2022-12-29,CUST_0472,Saias,Longa,252.48,P,Vermelho,False,5,Boleto,109.41,3,29
+ORDER_1031,2022-12-30,CUST_0381,Calças,Moletom,211.19,P,Preto,False,4,Boleto,79.2,4,30
+ORDER_1032,2022-12-30,CUST_0035,Vestidos,Casual,131.66,G,Rosa,False,5,PIX,49.37,4,30
+ORDER_1033,2022-12-30,CUST_0119,Saias,Midi,170.53,M,Azul,False,3,Boleto,71.06,4,30
+ORDER_1034,2022-12-31,CUST_0014,Acessórios,Bijuterias,43.11,Único,Dourado,False,4,Boleto,17.96,5,31
+ORDER_1035,2022-12-31,CUST_0014,Calças,Moletom,149.76,M,Azul,False,4,Boleto,46.8,5,31
+ORDER_1036,2022-12-31,CUST_0266,Vestidos,Casual,141.93,G,Vermelho,False,4,Debit Card,44.35,5,31
+ORDER_1037,2022-12-31,CUST_0140,Acessórios,Bolsas,523.96,Único,Prata,True,3,Credit Card,200.12,5,31
+ORDER_1038,2022-12-31,CUST_0294,Blusas,Moletom,239.24,G,Preto,False,4,PIX,74.76,5,31
+ORDER_1039,2023-01-01,CUST_0364,Calças,Moletom,179.91,P,Branco,False,5,Debit Card,56.22,6,1
+ORDER_1040,2023-01-01,CUST_0119,Acessórios,Cintos,92.39,Único,Preto,False,3,Boleto,32.08,6,1
+ORDER_1041,2023-01-02,CUST_0238,Saias,Longa,270.55,P,Preto,False,2,PIX,117.24,0,2
+ORDER_1042,2023-01-02,CUST_0034,Vestidos,Praia,129.56,P,Rosa,False,5,Debit Card,53.98,0,2
+ORDER_1043,2023-01-02,CUST_0169,Calças,Social,366.31,GG,Azul,False,5,PIX,158.74,0,2
+ORDER_1044,2023-01-04,CUST_0010,Blusas,Social,241.46,G,Rosa,False,4,PIX,96.59,2,4
+ORDER_1045,2023-01-04,CUST_0122,Blusas,Moletom,176.99,M,Azul,False,5,Debit Card,66.37,2,4
+ORDER_1046,2023-01-04,CUST_0401,Saias,Mini,212.03,G,Azul,False,2,Credit Card,83.04,2,4
+ORDER_1047,2023-01-05,CUST_0145,Calças,Social,418.32,G,Azul,False,3,PIX,181.27,3,5
+ORDER_1048,2023-01-05,CUST_0451,Saias,Midi,187.96,M,Vermelho,False,3,Debit Card,78.31,3,5
+ORDER_1049,2023-01-06,CUST_0446,Acessórios,Bolsas,321.73,Único,Dourado,False,2,Credit Card,176.95,4,6
+ORDER_1050,2023-01-06,CUST_0223,Blusas,T-shirt,57.44,G,Branco,False,4,PIX,24.12,4,6
+ORDER_1051,2023-01-06,CUST_0371,Blusas,Social,155.37,GG,Branco,True,1,PIX,74.58,4,6
+ORDER_1052,2023-01-06,CUST_0257,Vestidos,Casual,183.04,G,Azul,False,2,Credit Card,82.37,4,6
+ORDER_1053,2023-01-07,CUST_0268,Acessórios,Cintos,87.91,Único,Dourado,False,4,Credit Card,36.63,5,7
+ORDER_1054,2023-01-08,CUST_0359,Blusas,Moletom,156.07,P,Azul,False,5,Credit Card,58.53,6,8
+ORDER_1055,2023-01-08,CUST_0004,Acessórios,Bolsas,307.54,Único,Preto,True,3,PIX,140.95,6,8
+ORDER_1056,2023-01-08,CUST_0426,Calças,Social,267.1,G,Preto,True,4,Credit Card,115.74,6,8
+ORDER_1057,2023-01-08,CUST_0397,Calças,Moletom,202.26,M,Azul,False,4,Boleto,75.85,6,8
+ORDER_1058,2023-01-09,CUST_0354,Blusas,Moletom,134.04,P,Rosa,False,5,PIX,60.32,0,9
+ORDER_1059,2023-01-09,CUST_0106,Saias,Mini,104.97,M,Vermelho,False,3,Debit Card,49.34,0,9
+ORDER_1060,2023-01-09,CUST_0085,Calças,Jeans,191.24,M,Branco,False,3,PIX,91.8,0,9
+ORDER_1061,2023-01-09,CUST_0214,Blusas,Social,146.34,G,Rosa,False,4,Credit Card,70.24,0,9
+ORDER_1062,2023-01-10,CUST_0121,Vestidos,Praia,83.85,G,Azul,True,2,Credit Card,41.92,1,10
+ORDER_1063,2023-01-10,CUST_0132,Acessórios,Bolsas,264.63,Único,Dourado,False,2,Debit Card,145.55,1,10
+ORDER_1064,2023-01-11,CUST_0338,Calças,Moletom,125.12,G,Branco,False,4,Debit Card,56.3,2,11
+ORDER_1065,2023-01-11,CUST_0197,Calças,Jeans,286.84,G,Branco,False,4,Debit Card,137.68,2,11
+ORDER_1066,2023-01-11,CUST_0019,Calças,Jeans,222.59,M,Preto,False,1,Credit Card,106.84,2,11
+ORDER_1067,2023-01-12,CUST_0130,Saias,Mini,88.56,G,Preto,False,5,Debit Card,41.62,3,12
+ORDER_1068,2023-01-12,CUST_0012,Acessórios,Cintos,66.17,Único,Preto,False,3,PIX,33.09,3,12
+ORDER_1069,2023-01-12,CUST_0081,Calças,Moletom,146.39,GG,Azul,False,5,PIX,65.88,3,12
+ORDER_1070,2023-01-13,CUST_0330,Blusas,Social,144.35,GG,Preto,False,5,PIX,69.29,4,13
+ORDER_1071,2023-01-13,CUST_0354,Calças,Social,171.37,P,Branco,False,4,PIX,89.11,4,13
+ORDER_1072,2023-01-13,CUST_0262,Vestidos,Festa,364.42,M,Azul,False,5,Credit Card,200.43,4,13
+ORDER_1073,2023-01-14,CUST_0392,Blusas,Moletom,204.7,GG,Branco,False,4,Debit Card,76.76,5,14
+ORDER_1074,2023-01-14,CUST_0125,Calças,Jeans,161.8,G,Azul,False,3,PIX,64.72,5,14
+ORDER_1075,2023-01-15,CUST_0307,Acessórios,Bijuterias,76.31,Único,Marrom,False,5,Credit Card,38.15,6,15
+ORDER_1076,2023-01-15,CUST_0267,Calças,Jeans,156.13,M,Azul,False,4,Debit Card,62.45,6,15
+ORDER_1077,2023-01-15,CUST_0447,Calças,Moletom,130.93,M,Azul,False,4,Credit Card,49.1,6,15
+ORDER_1078,2023-01-15,CUST_0441,Saias,Longa,197.95,G,Azul,False,4,Debit Card,85.78,6,15
+ORDER_1079,2023-01-16,CUST_0383,Blusas,Moletom,168.71,GG,Branco,False,5,PIX,75.92,0,16
+ORDER_1080,2023-01-16,CUST_0140,Blusas,Moletom,178.53,GG,Branco,False,3,Debit Card,80.34,0,16
+ORDER_1081,2023-01-16,CUST_0329,Blusas,Social,149.16,G,Rosa,False,4,Debit Card,71.6,0,16
+ORDER_1082,2023-01-17,CUST_0002,Calças,Moletom,148.02,P,Azul,True,2,Boleto,66.61,1,17
+ORDER_1083,2023-01-17,CUST_0008,Blusas,Moletom,106.89,G,Azul,False,3,PIX,48.1,1,17
+ORDER_1084,2023-01-18,CUST_0250,Blusas,Social,127.93,P,Branco,True,5,PIX,61.41,2,18
+ORDER_1085,2023-01-19,CUST_0139,Blusas,T-shirt,88.16,M,Azul,False,5,PIX,37.03,3,19
+ORDER_1086,2023-01-20,CUST_0124,Blusas,Social,129.25,G,Preto,True,3,Credit Card,62.04,4,20
+ORDER_1087,2023-01-20,CUST_0309,Vestidos,Casual,118.37,M,Vermelho,False,4,PIX,53.27,4,20
+ORDER_1088,2023-01-20,CUST_0228,Acessórios,Bijuterias,92.01,Único,Marrom,False,3,Boleto,55.21,4,20
+ORDER_1089,2023-01-21,CUST_0010,Calças,Jeans,332.11,P,Azul,False,5,PIX,132.84,5,21
+ORDER_1090,2023-01-21,CUST_0469,Acessórios,Bolsas,295.24,Único,Preto,False,2,Boleto,135.32,5,21
+ORDER_1091,2023-01-21,CUST_0212,Blusas,Moletom,193.45,M,Preto,False,5,Credit Card,72.54,5,21
+ORDER_1092,2023-01-21,CUST_0112,Blusas,Social,182.65,GG,Azul,False,1,Credit Card,73.06,5,21
+ORDER_1093,2023-01-21,CUST_0008,Calças,Jeans,202.0,GG,Branco,False,4,PIX,80.8,5,21
+ORDER_1094,2023-01-21,CUST_0292,Saias,Longa,291.79,P,Vermelho,False,4,PIX,126.44,5,21
+ORDER_1095,2023-01-21,CUST_0477,Vestidos,Festa,434.26,P,Rosa,False,3,Boleto,199.03,5,21
+ORDER_1096,2023-01-22,CUST_0362,Vestidos,Festa,665.68,P,Azul,False,4,PIX,305.1,6,22
+ORDER_1097,2023-01-22,CUST_0460,Acessórios,Cintos,128.24,Único,Marrom,False,1,Credit Card,53.44,6,22
+ORDER_1098,2023-01-22,CUST_0253,Saias,Midi,244.9,M,Azul,False,4,Boleto,102.04,6,22
+ORDER_1099,2023-01-22,CUST_0014,Acessórios,Bolsas,282.47,Único,Marrom,False,2,PIX,129.46,6,22
+ORDER_1100,2023-01-23,CUST_0240,Saias,Midi,123.96,P,Vermelho,False,5,Credit Card,61.98,0,23
+ORDER_1101,2023-01-23,CUST_0438,Blusas,Social,148.74,G,Rosa,False,5,Credit Card,71.4,0,23
+ORDER_1102,2023-01-24,CUST_0242,Calças,Moletom,130.79,GG,Preto,True,4,Boleto,58.86,1,24
+ORDER_1103,2023-01-24,CUST_0469,Calças,Social,242.32,P,Preto,True,5,Credit Card,126.01,1,24
+ORDER_1104,2023-01-25,CUST_0342,Acessórios,Cintos,71.52,Único,Marrom,False,5,Boleto,29.8,2,25
+ORDER_1105,2023-01-25,CUST_0149,Calças,Jeans,271.25,P,Branco,False,3,Boleto,108.5,2,25
+ORDER_1106,2023-01-25,CUST_0236,Blusas,Moletom,177.49,M,Azul,False,4,Boleto,66.56,2,25
+ORDER_1107,2023-01-26,CUST_0306,Acessórios,Cintos,135.65,Único,Dourado,True,1,Credit Card,56.52,3,26
+ORDER_1108,2023-01-26,CUST_0478,Calças,Jeans,294.55,M,Preto,False,4,Credit Card,117.82,3,26
+ORDER_1109,2023-01-26,CUST_0167,Saias,Mini,182.53,G,Preto,False,4,Boleto,71.49,3,26
+ORDER_1110,2023-01-27,CUST_0020,Calças,Jeans,341.88,M,Azul,False,5,PIX,136.75,4,27
+ORDER_1111,2023-01-27,CUST_0216,Acessórios,Bijuterias,59.62,Único,Dourado,False,2,PIX,29.81,4,27
+ORDER_1112,2023-01-27,CUST_0343,Calças,Moletom,175.16,P,Azul,False,3,Credit Card,65.69,4,27
+ORDER_1113,2023-01-27,CUST_0135,Saias,Mini,117.58,M,Azul,False,4,Boleto,46.05,4,27
+ORDER_1114,2023-01-28,CUST_0393,Saias,Mini,153.19,P,Vermelho,False,2,Debit Card,50.0,5,28
+ORDER_1115,2023-01-28,CUST_0129,Acessórios,Cintos,165.97,Único,Marrom,False,4,Credit Card,57.63,5,28
+ORDER_1116,2023-01-28,CUST_0410,Acessórios,Cintos,194.39,Único,Prata,False,4,Credit Card,67.5,5,28
+ORDER_1117,2023-01-28,CUST_0422,Acessórios,Cintos,129.64,Único,Prata,False,5,Boleto,45.02,5,28
+ORDER_1118,2023-01-29,CUST_0294,Saias,Mini,258.72,M,Vermelho,False,2,Debit Card,84.44,6,29
+ORDER_1119,2023-01-29,CUST_0246,Calças,Social,439.89,GG,Azul,False,4,Boleto,158.85,6,29
+ORDER_1120,2023-01-29,CUST_0189,Acessórios,Bolsas,244.11,Único,Marrom,False,2,Debit Card,93.24,6,29
+ORDER_1121,2023-01-30,CUST_0044,Blusas,T-shirt,125.69,M,Azul,False,5,Boleto,43.99,0,30
+ORDER_1122,2023-01-30,CUST_0086,Vestidos,Praia,140.66,M,Preto,False,3,Boleto,58.61,0,30
+ORDER_1123,2023-01-30,CUST_0044,Blusas,Moletom,230.75,GG,Preto,False,1,Credit Card,86.53,0,30
+ORDER_1124,2023-01-31,CUST_0330,Saias,Midi,171.44,G,Vermelho,False,4,PIX,71.44,1,31
+ORDER_1125,2023-01-31,CUST_0375,Calças,Social,350.72,P,Preto,False,5,PIX,151.98,1,31
+ORDER_1126,2023-01-31,CUST_0446,Saias,Longa,343.36,P,Preto,False,3,Credit Card,148.79,1,31
+ORDER_1127,2023-01-31,CUST_0378,Calças,Social,410.17,GG,Azul,False,4,Debit Card,177.74,1,31
+ORDER_1128,2023-02-01,CUST_0390,Vestidos,Casual,214.04,G,Vermelho,False,2,PIX,80.27,2,1
+ORDER_1129,2023-02-01,CUST_0145,Blusas,Moletom,205.93,G,Branco,False,3,PIX,77.22,2,1
+ORDER_1130,2023-02-01,CUST_0051,Saias,Longa,279.5,P,Vermelho,True,2,PIX,121.12,2,1
+ORDER_1131,2023-02-01,CUST_0242,Acessórios,Bolsas,282.64,Único,Preto,True,2,Debit Card,129.54,2,1
+ORDER_1132,2023-02-02,CUST_0294,Acessórios,Cintos,160.39,Único,Preto,False,4,Boleto,66.83,3,2
+ORDER_1133,2023-02-02,CUST_0408,Vestidos,Praia,117.23,G,Rosa,False,1,PIX,48.84,3,2
+ORDER_1134,2023-02-02,CUST_0051,Blusas,T-shirt,101.95,M,Rosa,False,5,Credit Card,35.68,3,2
+ORDER_1135,2023-02-03,CUST_0266,Acessórios,Cintos,85.87,Único,Preto,False,5,Credit Card,35.78,4,3
+ORDER_1136,2023-02-04,CUST_0120,Blusas,T-shirt,155.78,M,Rosa,False,4,Boleto,45.44,5,4
+ORDER_1137,2023-02-05,CUST_0200,Acessórios,Cintos,144.27,Único,Prata,False,4,PIX,50.09,6,5
+ORDER_1138,2023-02-05,CUST_0405,Vestidos,Praia,200.74,M,Vermelho,False,2,PIX,69.7,6,5
+ORDER_1139,2023-02-05,CUST_0248,Acessórios,Bolsas,504.99,Único,Prata,False,5,Credit Card,192.88,6,5
+ORDER_1140,2023-02-05,CUST_0070,Vestidos,Festa,578.07,M,Azul,False,4,PIX,220.79,6,5
+ORDER_1141,2023-02-05,CUST_0341,Vestidos,Festa,640.8,G,Azul,False,5,Boleto,244.75,6,5
+ORDER_1142,2023-02-05,CUST_0057,Acessórios,Bijuterias,60.54,Único,Prata,False,1,PIX,25.22,6,5
+ORDER_1143,2023-02-05,CUST_0382,Calças,Social,328.32,G,Preto,False,1,PIX,118.56,6,5
+ORDER_1144,2023-02-05,CUST_0039,Acessórios,Cintos,102.99,Único,Marrom,False,3,PIX,35.76,6,5
+ORDER_1145,2023-02-06,CUST_0472,Saias,Longa,219.82,P,Vermelho,False,5,PIX,114.31,0,6
+ORDER_1146,2023-02-06,CUST_0289,Vestidos,Festa,366.99,G,Preto,False,5,PIX,201.84,0,6
+ORDER_1147,2023-02-06,CUST_0443,Calças,Social,297.14,GG,Branco,False,1,Debit Card,154.51,0,6
+ORDER_1148,2023-02-06,CUST_0018,Calças,Jeans,194.41,GG,Preto,False,4,Credit Card,93.32,0,6
+ORDER_1149,2023-02-07,CUST_0440,Blusas,T-shirt,58.11,G,Azul,False,5,Boleto,24.41,1,7
+ORDER_1150,2023-02-07,CUST_0220,Blusas,T-shirt,73.66,P,Azul,False,3,Credit Card,30.94,1,7
+ORDER_1151,2023-02-07,CUST_0313,Blusas,T-shirt,66.69,P,Preto,False,5,Debit Card,28.01,1,7
+ORDER_1152,2023-02-08,CUST_0244,Blusas,T-shirt,74.23,M,Rosa,False,3,PIX,31.18,2,8
+ORDER_1153,2023-02-08,CUST_0352,Acessórios,Bijuterias,77.47,Único,Dourado,False,5,Debit Card,46.48,2,8
+ORDER_1154,2023-02-09,CUST_0460,Saias,Mini,172.02,P,Rosa,False,2,Debit Card,80.85,3,9
+ORDER_1155,2023-02-09,CUST_0304,Saias,Midi,227.02,P,Rosa,False,4,PIX,113.51,3,9
+ORDER_1156,2023-02-09,CUST_0298,Acessórios,Bolsas,440.12,Único,Preto,False,1,PIX,242.07,3,9
+ORDER_1157,2023-02-10,CUST_0283,Vestidos,Praia,135.27,M,Vermelho,False,4,Debit Card,67.64,4,10
+ORDER_1158,2023-02-11,CUST_0074,Calças,Jeans,288.9,M,Preto,False,4,Boleto,115.56,5,11
+ORDER_1159,2023-02-11,CUST_0110,Calças,Moletom,167.92,P,Preto,False,5,Boleto,62.97,5,11
+ORDER_1160,2023-02-11,CUST_0180,Saias,Mini,116.02,M,Vermelho,False,4,PIX,45.44,5,11
+ORDER_1161,2023-02-12,CUST_0426,Calças,Social,263.35,P,Preto,True,2,Debit Card,114.12,6,12
+ORDER_1162,2023-02-12,CUST_0032,Acessórios,Bolsas,452.52,Único,Preto,False,4,Credit Card,207.41,6,12
+ORDER_1163,2023-02-13,CUST_0234,Vestidos,Praia,99.48,M,Azul,False,4,Debit Card,49.74,0,13
+ORDER_1164,2023-02-14,CUST_0282,Saias,Longa,292.07,G,Vermelho,True,1,Credit Card,151.88,1,14
+ORDER_1165,2023-02-14,CUST_0025,Vestidos,Festa,321.33,M,Rosa,False,5,PIX,176.73,1,14
+ORDER_1166,2023-02-14,CUST_0331,Acessórios,Bolsas,285.36,Único,Prata,False,4,PIX,156.95,1,14
+ORDER_1167,2023-02-15,CUST_0279,Vestidos,Festa,339.27,G,Vermelho,False,5,Debit Card,186.6,2,15
+ORDER_1168,2023-02-15,CUST_0226,Blusas,Social,244.69,G,Preto,False,5,Debit Card,117.45,2,15
+ORDER_1169,2023-02-15,CUST_0057,Saias,Mini,125.54,M,Rosa,False,5,Debit Card,59.0,2,15
+ORDER_1170,2023-02-16,CUST_0180,Saias,Midi,171.88,M,Azul,False,5,Credit Card,85.94,3,16
+ORDER_1171,2023-02-17,CUST_0232,Blusas,Moletom,135.15,G,Azul,False,3,PIX,60.82,4,17
+ORDER_1172,2023-02-18,CUST_0382,Vestidos,Festa,424.87,M,Preto,False,4,PIX,194.73,5,18
+ORDER_1173,2023-02-18,CUST_0343,Acessórios,Bolsas,425.94,Único,Prata,False,4,Credit Card,195.22,5,18
+ORDER_1174,2023-02-18,CUST_0477,Calças,Jeans,161.34,P,Preto,False,5,PIX,64.54,5,18
+ORDER_1175,2023-02-19,CUST_0287,Vestidos,Festa,515.6,G,Preto,False,4,PIX,236.32,6,19
+ORDER_1176,2023-02-19,CUST_0064,Calças,Moletom,158.89,M,Azul,False,5,Boleto,59.58,6,19
+ORDER_1177,2023-02-19,CUST_0455,Vestidos,Casual,235.12,P,Preto,False,5,Credit Card,88.17,6,19
+ORDER_1178,2023-02-20,CUST_0232,Blusas,Moletom,102.7,M,Preto,False,4,PIX,46.22,0,20
+ORDER_1179,2023-02-20,CUST_0289,Calças,Social,206.92,G,Branco,False,5,Credit Card,107.6,0,20
+ORDER_1180,2023-02-20,CUST_0213,Blusas,Social,180.88,P,Preto,False,1,Boleto,86.82,0,20
+ORDER_1181,2023-02-21,CUST_0258,Acessórios,Cintos,116.99,Único,Dourado,False,5,Credit Card,58.49,1,21
+ORDER_1182,2023-02-22,CUST_0018,Blusas,Social,238.88,P,Azul,False,5,Credit Card,114.66,2,22
+ORDER_1183,2023-02-22,CUST_0175,Acessórios,Bijuterias,57.9,Único,Marrom,False,2,Debit Card,34.74,2,22
+ORDER_1184,2023-02-22,CUST_0417,Vestidos,Praia,142.14,M,Rosa,False,3,Boleto,71.07,2,22
+ORDER_1185,2023-02-22,CUST_0229,Acessórios,Cintos,67.25,Único,Preto,False,5,Boleto,33.62,2,22
+ORDER_1186,2023-02-23,CUST_0226,Vestidos,Casual,110.68,P,Rosa,False,4,Credit Card,49.81,3,23
+ORDER_1187,2023-02-23,CUST_0084,Calças,Social,219.97,GG,Branco,False,5,Credit Card,114.38,3,23
+ORDER_1188,2023-02-23,CUST_0291,Calças,Social,321.49,M,Branco,False,3,PIX,167.17,3,23
+ORDER_1189,2023-02-24,CUST_0435,Saias,Longa,232.37,G,Rosa,False,3,Credit Card,120.83,4,24
+ORDER_1190,2023-02-24,CUST_0370,Calças,Social,252.22,M,Preto,False,3,Credit Card,131.15,4,24
+ORDER_1191,2023-02-24,CUST_0246,Acessórios,Bijuterias,59.44,Único,Marrom,False,3,Credit Card,35.66,4,24
+ORDER_1192,2023-02-24,CUST_0402,Saias,Longa,186.42,G,Rosa,False,3,Credit Card,96.94,4,24
+ORDER_1193,2023-02-24,CUST_0110,Blusas,T-shirt,63.83,M,Branco,False,5,Credit Card,26.81,4,24
+ORDER_1194,2023-02-26,CUST_0254,Blusas,T-shirt,147.07,GG,Azul,False,5,Credit Card,42.89,6,26
+ORDER_1195,2023-02-26,CUST_0088,Blusas,Social,183.36,M,Preto,False,5,PIX,61.12,6,26
+ORDER_1196,2023-02-26,CUST_0072,Blusas,Social,229.69,P,Azul,False,3,Credit Card,76.56,6,26
+ORDER_1197,2023-02-26,CUST_0381,Vestidos,Praia,181.73,M,Rosa,False,4,Credit Card,63.1,6,26
+ORDER_1198,2023-02-26,CUST_0030,Blusas,T-shirt,119.81,GG,Rosa,False,5,PIX,34.94,6,26
+ORDER_1199,2023-02-28,CUST_0172,Saias,Longa,273.43,M,Vermelho,False,3,Credit Card,118.49,1,28
+ORDER_1200,2023-02-28,CUST_0309,Blusas,T-shirt,82.85,GG,Branco,False,4,Debit Card,29.0,1,28
+ORDER_1201,2023-03-01,CUST_0394,Acessórios,Bijuterias,56.86,Único,Preto,True,1,PIX,28.43,2,1
+ORDER_1202,2023-03-01,CUST_0343,Blusas,Social,244.1,G,Azul,False,5,Boleto,97.64,2,1
+ORDER_1203,2023-03-02,CUST_0436,Acessórios,Cintos,176.56,Único,Marrom,False,5,Credit Card,73.56,3,2
+ORDER_1204,2023-03-02,CUST_0177,Acessórios,Cintos,172.82,Único,Prata,True,2,Debit Card,72.01,3,2
+ORDER_1205,2023-03-03,CUST_0139,Calças,Social,322.57,P,Branco,False,5,Debit Card,139.78,4,3
+ORDER_1206,2023-03-03,CUST_0194,Calças,Moletom,126.08,G,Branco,False,5,Debit Card,47.28,4,3
+ORDER_1207,2023-03-04,CUST_0186,Blusas,Moletom,280.08,P,Azul,False,4,Debit Card,87.53,5,4
+ORDER_1208,2023-03-04,CUST_0218,Vestidos,Praia,204.8,G,Rosa,False,4,Credit Card,71.11,5,4
+ORDER_1209,2023-03-04,CUST_0164,Saias,Mini,159.91,G,Rosa,False,3,Boleto,52.19,5,4
+ORDER_1210,2023-03-05,CUST_0161,Acessórios,Cintos,92.43,Único,Preto,False,3,Boleto,32.09,6,5
+ORDER_1211,2023-03-05,CUST_0431,Acessórios,Bijuterias,65.15,Único,Marrom,False,3,Debit Card,27.14,6,5
+ORDER_1212,2023-03-06,CUST_0013,Calças,Moletom,146.16,M,Preto,False,5,Boleto,65.77,0,6
+ORDER_1213,2023-03-06,CUST_0296,Vestidos,Festa,496.94,M,Rosa,False,5,Credit Card,273.32,0,6
+ORDER_1214,2023-03-07,CUST_0089,Blusas,T-shirt,75.45,P,Preto,False,5,PIX,31.69,1,7
+ORDER_1215,2023-03-08,CUST_0324,Calças,Social,214.5,G,Azul,False,4,Boleto,111.54,2,8
+ORDER_1216,2023-03-08,CUST_0042,Saias,Mini,85.48,P,Preto,False,4,Credit Card,40.18,2,8
+ORDER_1217,2023-03-11,CUST_0403,Saias,Mini,180.84,P,Preto,False,5,Boleto,70.83,5,11
+ORDER_1218,2023-03-11,CUST_0210,Acessórios,Cintos,100.45,Único,Prata,False,5,PIX,41.85,5,11
+ORDER_1219,2023-03-11,CUST_0229,Acessórios,Cintos,75.22,Único,Marrom,False,3,Debit Card,31.34,5,11
+ORDER_1220,2023-03-11,CUST_0350,Saias,Mini,207.42,G,Preto,False,4,PIX,81.24,5,11
+ORDER_1221,2023-03-11,CUST_0275,Acessórios,Bijuterias,107.46,Único,Marrom,False,5,Boleto,53.73,5,11
+ORDER_1222,2023-03-11,CUST_0442,Blusas,T-shirt,60.85,GG,Rosa,False,4,Boleto,21.3,5,11
+ORDER_1223,2023-03-12,CUST_0279,Calças,Moletom,136.39,G,Branco,False,4,Boleto,51.15,6,12
+ORDER_1224,2023-03-12,CUST_0251,Calças,Social,250.93,M,Branco,False,2,Credit Card,108.74,6,12
+ORDER_1225,2023-03-13,CUST_0310,Calças,Jeans,290.2,P,Branco,False,4,Credit Card,139.3,0,13
+ORDER_1226,2023-03-13,CUST_0208,Vestidos,Praia,115.16,G,Preto,False,4,PIX,57.58,0,13
+ORDER_1227,2023-03-13,CUST_0321,Blusas,Moletom,198.05,G,Rosa,False,2,Boleto,89.12,0,13
+ORDER_1228,2023-03-14,CUST_0140,Acessórios,Cintos,66.02,Único,Dourado,False,5,Credit Card,33.01,1,14
+ORDER_1229,2023-03-14,CUST_0280,Vestidos,Praia,90.15,M,Rosa,False,4,PIX,45.08,1,14
+ORDER_1230,2023-03-15,CUST_0034,Vestidos,Casual,105.46,M,Vermelho,False,5,PIX,47.46,2,15
+ORDER_1231,2023-03-16,CUST_0309,Acessórios,Cintos,94.14,Único,Dourado,False,4,Credit Card,47.07,3,16
+ORDER_1232,2023-03-16,CUST_0392,Acessórios,Bijuterias,76.19,Único,Prata,False,5,Boleto,45.71,3,16
+ORDER_1233,2023-03-16,CUST_0018,Blusas,T-shirt,63.98,GG,Rosa,False,5,Debit Card,26.87,3,16
+ORDER_1234,2023-03-17,CUST_0057,Blusas,Moletom,105.07,P,Preto,False,4,Credit Card,47.28,4,17
+ORDER_1235,2023-03-17,CUST_0112,Vestidos,Festa,529.22,M,Rosa,False,5,PIX,291.07,4,17
+ORDER_1236,2023-03-17,CUST_0005,Vestidos,Praia,88.49,M,Rosa,False,2,PIX,44.24,4,17
+ORDER_1237,2023-03-18,CUST_0410,Saias,Mini,186.83,G,Rosa,False,5,Credit Card,73.17,5,18
+ORDER_1238,2023-03-18,CUST_0414,Saias,Longa,204.94,G,Vermelho,False,4,PIX,88.81,5,18
+ORDER_1239,2023-03-18,CUST_0182,Acessórios,Cintos,82.63,Único,Preto,False,3,Credit Card,34.43,5,18
+ORDER_1240,2023-03-19,CUST_0013,Calças,Social,377.26,M,Azul,True,1,Boleto,163.48,6,19
+ORDER_1241,2023-03-19,CUST_0339,Saias,Midi,194.6,M,Rosa,False,5,Credit Card,81.08,6,19
+ORDER_1242,2023-03-19,CUST_0285,Saias,Mini,173.04,P,Rosa,False,3,Boleto,67.77,6,19
+ORDER_1243,2023-03-20,CUST_0259,Blusas,Social,150.93,GG,Azul,False,4,Credit Card,72.45,0,20
+ORDER_1244,2023-03-21,CUST_0090,Acessórios,Bijuterias,82.64,Único,Prata,False,5,Credit Card,49.58,1,21
+ORDER_1245,2023-03-21,CUST_0104,Acessórios,Bijuterias,43.97,Único,Preto,False,4,Debit Card,26.38,1,21
+ORDER_1246,2023-03-21,CUST_0379,Saias,Midi,122.17,P,Rosa,False,5,PIX,61.09,1,21
+ORDER_1247,2023-03-22,CUST_0186,Blusas,Moletom,154.42,M,Rosa,False,5,Credit Card,69.49,2,22
+ORDER_1248,2023-03-22,CUST_0250,Blusas,T-shirt,52.71,M,Rosa,True,2,Credit Card,22.14,2,22
+ORDER_1249,2023-03-23,CUST_0255,Acessórios,Bijuterias,98.5,Único,Preto,False,5,Credit Card,59.1,3,23
+ORDER_1250,2023-03-23,CUST_0076,Saias,Mini,83.77,P,Azul,False,2,Debit Card,39.37,3,23
+ORDER_1251,2023-03-24,CUST_0386,Vestidos,Festa,374.59,M,Azul,False,2,Credit Card,206.02,4,24
+ORDER_1252,2023-03-24,CUST_0459,Saias,Longa,165.03,P,Rosa,True,5,PIX,85.82,4,24
+ORDER_1253,2023-03-25,CUST_0108,Acessórios,Cintos,203.69,Único,Dourado,False,5,Debit Card,70.72,5,25
+ORDER_1254,2023-03-25,CUST_0156,Vestidos,Praia,162.65,P,Azul,False,5,PIX,56.48,5,25
+ORDER_1255,2023-03-26,CUST_0082,Calças,Moletom,157.55,M,Azul,False,3,Debit Card,49.23,6,26
+ORDER_1256,2023-03-26,CUST_0077,Blusas,Social,211.87,G,Preto,False,4,PIX,70.62,6,26
+ORDER_1257,2023-03-26,CUST_0485,Saias,Mini,173.95,M,Preto,False,4,PIX,56.78,6,26
+ORDER_1258,2023-03-26,CUST_0470,Acessórios,Bolsas,312.21,Único,Dourado,False,3,PIX,119.25,6,26
+ORDER_1259,2023-03-27,CUST_0460,Saias,Longa,297.49,M,Preto,False,3,Credit Card,128.91,0,27
+ORDER_1260,2023-03-28,CUST_0258,Blusas,T-shirt,128.98,P,Preto,False,3,Boleto,45.14,1,28
+ORDER_1261,2023-03-29,CUST_0127,Blusas,Moletom,210.54,G,Preto,False,4,PIX,78.95,2,29
+ORDER_1262,2023-03-29,CUST_0485,Calças,Jeans,192.56,M,Branco,False,2,PIX,77.03,2,29
+ORDER_1263,2023-03-29,CUST_0391,Blusas,Moletom,165.85,M,Preto,False,5,Boleto,62.19,2,29
+ORDER_1264,2023-03-29,CUST_0282,Vestidos,Festa,584.92,G,Preto,False,1,Debit Card,268.09,2,29
+ORDER_1265,2023-03-30,CUST_0474,Acessórios,Bolsas,267.5,Único,Prata,False,4,PIX,122.61,3,30
+ORDER_1266,2023-03-31,CUST_0088,Saias,Mini,121.98,G,Preto,False,4,Debit Card,47.78,4,31
+ORDER_1267,2023-03-31,CUST_0204,Saias,Midi,146.33,M,Rosa,False,3,Boleto,60.97,4,31
+ORDER_1268,2023-03-31,CUST_0016,Blusas,Social,217.07,P,Branco,False,2,Boleto,86.83,4,31
+ORDER_1269,2023-03-31,CUST_0151,Vestidos,Praia,106.45,G,Preto,False,2,Boleto,44.35,4,31
+ORDER_1270,2023-03-31,CUST_0424,Calças,Jeans,269.51,G,Preto,True,2,Debit Card,107.8,4,31
+ORDER_1271,2023-04-01,CUST_0254,Blusas,Social,194.79,GG,Preto,False,5,PIX,64.93,5,1
+ORDER_1272,2023-04-01,CUST_0188,Blusas,Social,225.16,P,Branco,False,5,PIX,75.05,5,1
+ORDER_1273,2023-04-01,CUST_0329,Calças,Social,357.6,GG,Branco,True,1,Credit Card,129.13,5,1
+ORDER_1274,2023-04-02,CUST_0032,Acessórios,Cintos,191.74,Único,Dourado,False,5,PIX,66.58,6,2
+ORDER_1275,2023-04-02,CUST_0271,Saias,Mini,166.36,P,Rosa,False,4,Debit Card,54.3,6,2
+ORDER_1276,2023-04-03,CUST_0485,Acessórios,Bolsas,237.47,Único,Prata,True,3,Boleto,108.84,0,3
+ORDER_1277,2023-04-03,CUST_0397,Acessórios,Bijuterias,83.8,Único,Preto,False,2,Credit Card,41.9,0,3
+ORDER_1278,2023-04-04,CUST_0005,Vestidos,Praia,178.12,P,Vermelho,False,5,PIX,74.22,1,4
+ORDER_1279,2023-04-04,CUST_0459,Calças,Jeans,244.36,P,Branco,True,2,Boleto,97.74,1,4
+ORDER_1280,2023-04-04,CUST_0330,Vestidos,Praia,122.96,M,Preto,False,4,PIX,51.23,1,4
+ORDER_1281,2023-04-04,CUST_0308,Acessórios,Cintos,177.18,Único,Dourado,False,5,Debit Card,73.83,1,4
+ORDER_1282,2023-04-04,CUST_0333,Acessórios,Bolsas,318.22,Único,Marrom,False,5,Debit Card,145.85,1,4
+ORDER_1283,2023-04-05,CUST_0169,Acessórios,Cintos,122.82,Único,Marrom,False,3,Credit Card,51.17,2,5
+ORDER_1284,2023-04-05,CUST_0181,Blusas,T-shirt,77.12,G,Rosa,False,4,PIX,26.99,2,5
+ORDER_1285,2023-04-05,CUST_0366,Blusas,Social,251.23,M,Azul,True,3,Credit Card,100.49,2,5
+ORDER_1286,2023-04-05,CUST_0178,Acessórios,Bijuterias,109.9,Único,Marrom,False,3,PIX,54.95,2,5
+ORDER_1287,2023-04-05,CUST_0143,Vestidos,Praia,113.42,G,Vermelho,False,5,Credit Card,47.26,2,5
+ORDER_1288,2023-04-06,CUST_0362,Vestidos,Praia,92.18,M,Preto,False,5,Debit Card,46.09,3,6
+ORDER_1289,2023-04-06,CUST_0248,Saias,Longa,247.38,P,Rosa,False,3,Credit Card,128.64,3,6
+ORDER_1290,2023-04-06,CUST_0127,Blusas,Moletom,190.03,M,Azul,False,3,Credit Card,85.51,3,6
+ORDER_1291,2023-04-07,CUST_0263,Acessórios,Bolsas,294.64,Único,Prata,True,2,PIX,162.05,4,7
+ORDER_1292,2023-04-07,CUST_0040,Acessórios,Bolsas,188.84,Único,Dourado,False,4,PIX,103.86,4,7
+ORDER_1293,2023-04-07,CUST_0412,Calças,Jeans,281.75,G,Branco,False,5,Debit Card,135.24,4,7
+ORDER_1294,2023-04-08,CUST_0416,Saias,Midi,199.27,P,Azul,False,5,Credit Card,83.03,5,8
+ORDER_1295,2023-04-08,CUST_0355,Vestidos,Praia,101.35,M,Rosa,False,4,PIX,42.23,5,8
+ORDER_1296,2023-04-09,CUST_0255,Saias,Mini,165.2,M,Preto,True,1,Debit Card,64.7,6,9
+ORDER_1297,2023-04-11,CUST_0143,Saias,Longa,177.68,M,Azul,False,3,Debit Card,92.39,1,11
+ORDER_1298,2023-04-11,CUST_0240,Saias,Midi,166.97,G,Azul,False,5,PIX,83.48,1,11
+ORDER_1299,2023-04-12,CUST_0228,Vestidos,Casual,106.22,M,Preto,False,4,Boleto,47.8,2,12
+ORDER_1300,2023-04-12,CUST_0341,Acessórios,Bolsas,271.38,Único,Marrom,False,4,PIX,149.26,2,12
+ORDER_1301,2023-04-12,CUST_0198,Saias,Longa,185.98,G,Azul,False,4,Boleto,96.71,2,12
+ORDER_1302,2023-04-13,CUST_0065,Blusas,Social,236.7,M,Rosa,False,5,Boleto,113.62,3,13
+ORDER_1303,2023-04-14,CUST_0388,Vestidos,Festa,426.96,G,Preto,False,2,Credit Card,234.83,4,14
+ORDER_1304,2023-04-14,CUST_0011,Calças,Moletom,94.91,GG,Azul,False,4,Debit Card,42.71,4,14
+ORDER_1305,2023-04-14,CUST_0108,Vestidos,Praia,148.22,M,Azul,False,5,Credit Card,74.11,4,14
+ORDER_1306,2023-04-15,CUST_0026,Calças,Moletom,203.44,GG,Azul,False,5,PIX,76.29,5,15
+ORDER_1307,2023-04-15,CUST_0445,Saias,Longa,253.7,M,Preto,False,5,Debit Card,109.94,5,15
+ORDER_1308,2023-04-16,CUST_0421,Vestidos,Casual,195.12,G,Preto,False,5,Boleto,73.17,6,16
+ORDER_1309,2023-04-16,CUST_0151,Acessórios,Bolsas,295.52,Único,Dourado,False,1,Boleto,135.45,6,16
+ORDER_1310,2023-04-16,CUST_0221,Vestidos,Praia,159.86,P,Azul,False,2,PIX,66.61,6,16
+ORDER_1311,2023-04-17,CUST_0341,Vestidos,Casual,137.18,P,Vermelho,False,4,Credit Card,61.73,0,17
+ORDER_1312,2023-04-17,CUST_0496,Vestidos,Casual,94.23,G,Rosa,False,5,PIX,42.4,0,17
+ORDER_1313,2023-04-18,CUST_0237,Calças,Jeans,183.3,P,Azul,False,5,Credit Card,87.98,1,18
+ORDER_1314,2023-04-18,CUST_0237,Acessórios,Cintos,64.27,Único,Marrom,True,2,PIX,32.13,1,18
+ORDER_1315,2023-04-18,CUST_0497,Saias,Longa,222.33,M,Vermelho,False,5,Credit Card,115.61,1,18
+ORDER_1316,2023-04-19,CUST_0219,Acessórios,Cintos,54.19,Único,Dourado,False,4,PIX,27.09,2,19
+ORDER_1317,2023-04-19,CUST_0487,Calças,Social,339.1,GG,Branco,False,4,Credit Card,176.33,2,19
+ORDER_1318,2023-04-19,CUST_0424,Acessórios,Cintos,124.73,Único,Dourado,False,3,PIX,62.37,2,19
+ORDER_1319,2023-04-19,CUST_0461,Saias,Longa,295.59,G,Preto,False,5,PIX,153.71,2,19
+ORDER_1320,2023-04-19,CUST_0151,Vestidos,Praia,147.73,M,Preto,False,1,Boleto,73.86,2,19
+ORDER_1321,2023-04-20,CUST_0123,Calças,Moletom,146.23,GG,Preto,False,5,Boleto,65.8,3,20
+ORDER_1322,2023-04-20,CUST_0144,Vestidos,Festa,377.16,G,Vermelho,True,3,Credit Card,207.44,3,20
+ORDER_1323,2023-04-20,CUST_0478,Blusas,T-shirt,55.54,M,Preto,True,3,Boleto,23.33,3,20
+ORDER_1324,2023-04-21,CUST_0189,Acessórios,Bolsas,410.47,Único,Marrom,False,3,Credit Card,225.76,4,21
+ORDER_1325,2023-04-21,CUST_0255,Vestidos,Festa,460.68,G,Preto,False,5,PIX,253.37,4,21
+ORDER_1326,2023-04-21,CUST_0068,Acessórios,Bijuterias,53.05,Único,Preto,True,2,Credit Card,31.83,4,21
+ORDER_1327,2023-04-21,CUST_0104,Blusas,Social,182.22,P,Branco,False,5,PIX,87.47,4,21
+ORDER_1328,2023-04-21,CUST_0336,Vestidos,Festa,413.41,G,Azul,False,4,Boleto,227.38,4,21
+ORDER_1329,2023-04-21,CUST_0159,Blusas,Social,214.47,G,Azul,False,4,Debit Card,102.95,4,21
+ORDER_1330,2023-04-22,CUST_0309,Blusas,T-shirt,79.44,G,Rosa,False,4,Credit Card,27.8,5,22
+ORDER_1331,2023-04-22,CUST_0362,Saias,Mini,172.45,M,Preto,False,5,Debit Card,67.54,5,22
+ORDER_1332,2023-04-22,CUST_0409,Blusas,Social,187.27,M,Azul,False,4,PIX,74.91,5,22
+ORDER_1333,2023-04-22,CUST_0300,Saias,Longa,230.88,M,Vermelho,False,5,PIX,100.05,5,22
+ORDER_1334,2023-04-22,CUST_0396,Acessórios,Cintos,108.73,Único,Marrom,False,3,Debit Card,45.3,5,22
+ORDER_1335,2023-04-22,CUST_0090,Blusas,Social,262.22,M,Branco,False,3,Debit Card,104.89,5,22
+ORDER_1336,2023-04-23,CUST_0357,Saias,Mini,188.44,M,Rosa,False,5,PIX,73.8,6,23
+ORDER_1337,2023-04-23,CUST_0256,Blusas,Social,233.06,M,Branco,False,3,Debit Card,93.23,6,23
+ORDER_1338,2023-04-23,CUST_0496,Vestidos,Praia,122.77,G,Azul,False,5,Credit Card,51.16,6,23
+ORDER_1339,2023-04-26,CUST_0353,Saias,Midi,288.0,G,Preto,False,5,PIX,120.0,2,26
+ORDER_1340,2023-04-26,CUST_0220,Saias,Midi,152.99,P,Preto,False,2,Debit Card,63.74,2,26
+ORDER_1341,2023-04-27,CUST_0009,Acessórios,Bolsas,240.79,Único,Dourado,False,4,Credit Card,110.36,3,27
+ORDER_1342,2023-04-27,CUST_0012,Acessórios,Bijuterias,65.64,Único,Prata,True,2,Boleto,32.82,3,27
+ORDER_1343,2023-04-29,CUST_0325,Calças,Jeans,192.1,GG,Azul,False,4,Boleto,64.03,5,29
+ORDER_1344,2023-04-29,CUST_0438,Blusas,Moletom,153.99,M,Preto,False,4,Debit Card,48.12,5,29
+ORDER_1345,2023-04-30,CUST_0244,Saias,Mini,160.29,M,Vermelho,False,4,Debit Card,52.32,6,30
+ORDER_1346,2023-04-30,CUST_0182,Blusas,T-shirt,85.62,G,Rosa,False,5,Credit Card,24.97,6,30
+ORDER_1347,2023-04-30,CUST_0284,Calças,Moletom,169.49,M,Preto,False,5,PIX,52.97,6,30
+ORDER_1348,2023-04-30,CUST_0312,Acessórios,Bijuterias,108.52,Único,Prata,False,4,PIX,45.22,6,30
+ORDER_1349,2023-04-30,CUST_0099,Blusas,T-shirt,73.32,P,Rosa,False,5,Boleto,21.39,6,30
+ORDER_1350,2023-05-03,CUST_0197,Acessórios,Bolsas,368.29,Único,Marrom,False,3,Debit Card,168.8,2,3
+ORDER_1351,2023-05-03,CUST_0482,Saias,Longa,197.8,M,Vermelho,False,5,Credit Card,85.71,2,3
+ORDER_1352,2023-05-04,CUST_0366,Acessórios,Bolsas,258.68,Único,Marrom,False,2,Debit Card,118.56,3,4
+ORDER_1353,2023-05-04,CUST_0226,Vestidos,Festa,617.89,M,Vermelho,False,4,Credit Card,283.2,3,4
+ORDER_1354,2023-05-04,CUST_0333,Saias,Midi,218.59,M,Azul,False,5,Boleto,91.08,3,4
+ORDER_1355,2023-05-05,CUST_0103,Saias,Midi,154.16,G,Azul,False,5,Boleto,64.23,4,5
+ORDER_1356,2023-05-05,CUST_0106,Vestidos,Festa,492.94,G,Preto,False,4,Credit Card,225.93,4,5
+ORDER_1357,2023-05-05,CUST_0365,Vestidos,Praia,178.48,G,Preto,False,4,PIX,74.36,4,5
+ORDER_1358,2023-05-05,CUST_0368,Vestidos,Casual,232.92,P,Rosa,False,5,Debit Card,87.34,4,5
+ORDER_1359,2023-05-05,CUST_0058,Blusas,T-shirt,136.79,G,Preto,False,3,PIX,47.88,4,5
+ORDER_1360,2023-05-06,CUST_0078,Saias,Midi,231.66,P,Preto,False,4,Credit Card,96.53,5,6
+ORDER_1361,2023-05-06,CUST_0075,Vestidos,Praia,111.68,P,Vermelho,False,4,Boleto,46.53,5,6
+ORDER_1362,2023-05-07,CUST_0042,Blusas,Moletom,171.92,G,Rosa,False,5,PIX,64.47,6,7
+ORDER_1363,2023-05-07,CUST_0422,Blusas,T-shirt,133.18,G,Rosa,False,2,Boleto,46.61,6,7
+ORDER_1364,2023-05-07,CUST_0324,Saias,Mini,97.38,G,Preto,False,1,PIX,38.14,6,7
+ORDER_1365,2023-05-08,CUST_0181,Acessórios,Bijuterias,47.66,Único,Marrom,False,3,Credit Card,28.6,0,8
+ORDER_1366,2023-05-08,CUST_0033,Acessórios,Cintos,97.11,Único,Dourado,False,5,PIX,48.55,0,8
+ORDER_1367,2023-05-08,CUST_0071,Vestidos,Praia,105.66,G,Preto,False,5,Boleto,52.83,0,8
+ORDER_1368,2023-05-08,CUST_0056,Saias,Longa,207.73,G,Preto,False,2,Boleto,108.02,0,8
+ORDER_1369,2023-05-09,CUST_0105,Blusas,T-shirt,99.91,GG,Preto,False,5,Credit Card,41.96,1,9
+ORDER_1370,2023-05-10,CUST_0200,Vestidos,Praia,146.74,M,Preto,False,5,Credit Card,73.37,2,10
+ORDER_1371,2023-05-10,CUST_0101,Vestidos,Casual,94.07,G,Preto,True,2,PIX,42.33,2,10
+ORDER_1372,2023-05-11,CUST_0256,Vestidos,Praia,132.44,M,Azul,False,5,Credit Card,66.22,3,11
+ORDER_1373,2023-05-12,CUST_0307,Saias,Mini,80.03,P,Rosa,False,3,Debit Card,37.61,4,12
+ORDER_1374,2023-05-12,CUST_0074,Blusas,Social,201.82,P,Branco,False,4,Boleto,96.87,4,12
+ORDER_1375,2023-05-12,CUST_0171,Blusas,T-shirt,99.59,M,Rosa,False,5,PIX,41.83,4,12
+ORDER_1376,2023-05-12,CUST_0377,Acessórios,Bijuterias,42.47,Único,Prata,False,4,PIX,25.48,4,12
+ORDER_1377,2023-05-12,CUST_0143,Acessórios,Bolsas,224.55,Único,Dourado,False,5,PIX,123.5,4,12
+ORDER_1378,2023-05-12,CUST_0166,Saias,Mini,169.17,G,Preto,False,5,PIX,79.51,4,12
+ORDER_1379,2023-05-13,CUST_0399,Acessórios,Bijuterias,68.69,Único,Preto,False,5,PIX,34.34,5,13
+ORDER_1380,2023-05-13,CUST_0261,Vestidos,Festa,626.66,M,Rosa,False,1,Debit Card,287.22,5,13
+ORDER_1381,2023-05-14,CUST_0221,Vestidos,Praia,170.11,P,Preto,True,4,PIX,70.88,6,14
+ORDER_1382,2023-05-14,CUST_0083,Vestidos,Casual,121.09,P,Preto,False,4,Credit Card,45.41,6,14
+ORDER_1383,2023-05-15,CUST_0182,Acessórios,Bijuterias,37.03,Único,Prata,False,4,Credit Card,22.22,0,15
+ORDER_1384,2023-05-15,CUST_0307,Saias,Longa,178.13,M,Rosa,False,1,Debit Card,92.63,0,15
+ORDER_1385,2023-05-15,CUST_0010,Vestidos,Casual,128.17,P,Rosa,False,1,Credit Card,57.68,0,15
+ORDER_1386,2023-05-15,CUST_0396,Saias,Midi,124.15,M,Vermelho,False,3,Boleto,62.08,0,15
+ORDER_1387,2023-05-16,CUST_0004,Blusas,Moletom,124.52,P,Azul,True,2,PIX,56.03,1,16
+ORDER_1388,2023-05-16,CUST_0351,Saias,Mini,86.47,G,Vermelho,False,5,Debit Card,40.64,1,16
+ORDER_1389,2023-05-16,CUST_0402,Vestidos,Praia,88.79,G,Vermelho,False,5,PIX,44.4,1,16
+ORDER_1390,2023-05-16,CUST_0336,Acessórios,Bolsas,366.17,Único,Prata,False,4,Credit Card,201.39,1,16
+ORDER_1391,2023-05-17,CUST_0488,Vestidos,Praia,140.27,P,Preto,False,5,Debit Card,70.14,2,17
+ORDER_1392,2023-05-17,CUST_0292,Blusas,Social,139.4,M,Rosa,False,5,Debit Card,66.91,2,17
+ORDER_1393,2023-05-17,CUST_0281,Vestidos,Festa,391.15,M,Vermelho,False,5,Boleto,215.13,2,17
+ORDER_1394,2023-05-18,CUST_0215,Vestidos,Casual,153.61,G,Rosa,False,4,PIX,69.12,3,18
+ORDER_1395,2023-05-18,CUST_0460,Acessórios,Bijuterias,82.79,Único,Prata,False,1,PIX,49.67,3,18
+ORDER_1396,2023-05-18,CUST_0098,Blusas,T-shirt,62.53,M,Preto,False,4,Boleto,26.26,3,18
+ORDER_1397,2023-05-18,CUST_0420,Calças,Jeans,272.99,M,Branco,False,5,Boleto,131.04,3,18
+ORDER_1398,2023-05-19,CUST_0101,Acessórios,Bijuterias,43.77,Único,Preto,False,5,Credit Card,26.26,4,19
+ORDER_1399,2023-05-19,CUST_0451,Vestidos,Festa,359.37,G,Azul,False,3,Boleto,197.65,4,19
+ORDER_1400,2023-05-19,CUST_0009,Blusas,Moletom,110.87,G,Rosa,False,4,Debit Card,49.89,4,19
+ORDER_1401,2023-05-20,CUST_0061,Vestidos,Praia,137.48,M,Azul,True,1,PIX,57.28,5,20
+ORDER_1402,2023-05-20,CUST_0309,Acessórios,Bolsas,226.57,Único,Preto,False,4,Credit Card,103.85,5,20
+ORDER_1403,2023-05-21,CUST_0146,Acessórios,Cintos,71.87,Único,Prata,False,3,PIX,29.95,6,21
+ORDER_1404,2023-05-21,CUST_0427,Calças,Jeans,221.71,GG,Branco,False,5,Boleto,88.68,6,21
+ORDER_1405,2023-05-21,CUST_0419,Calças,Jeans,252.13,P,Azul,False,4,Credit Card,100.85,6,21
+ORDER_1406,2023-05-21,CUST_0063,Vestidos,Casual,132.78,M,Preto,False,4,Debit Card,49.79,6,21
+ORDER_1407,2023-05-21,CUST_0121,Saias,Longa,293.33,G,Azul,False,4,PIX,127.11,6,21
+ORDER_1408,2023-05-21,CUST_0226,Vestidos,Praia,168.59,M,Preto,True,1,Debit Card,70.25,6,21
+ORDER_1409,2023-05-22,CUST_0105,Saias,Midi,224.16,P,Preto,False,2,Boleto,112.08,0,22
+ORDER_1410,2023-05-22,CUST_0462,Acessórios,Bijuterias,35.31,Único,Prata,True,4,PIX,21.19,0,22
+ORDER_1411,2023-05-23,CUST_0260,Vestidos,Festa,311.43,P,Preto,False,4,Debit Card,171.29,1,23
+ORDER_1412,2023-05-23,CUST_0349,Vestidos,Festa,314.92,M,Rosa,False,3,Debit Card,173.21,1,23
+ORDER_1413,2023-05-23,CUST_0425,Saias,Midi,205.09,P,Vermelho,False,4,PIX,102.55,1,23
+ORDER_1414,2023-05-24,CUST_0255,Saias,Midi,215.18,G,Preto,True,2,Boleto,107.59,2,24
+ORDER_1415,2023-05-25,CUST_0429,Acessórios,Cintos,75.24,Único,Dourado,False,3,PIX,31.35,3,25
+ORDER_1416,2023-05-25,CUST_0434,Saias,Longa,264.29,M,Rosa,False,4,Boleto,114.52,3,25
+ORDER_1417,2023-05-26,CUST_0207,Vestidos,Casual,147.28,P,Vermelho,True,2,PIX,55.23,4,26
+ORDER_1418,2023-05-26,CUST_0028,Vestidos,Casual,192.65,M,Rosa,False,5,PIX,72.24,4,26
+ORDER_1419,2023-05-26,CUST_0170,Blusas,Social,286.02,P,Preto,False,5,Debit Card,114.41,4,26
+ORDER_1420,2023-05-26,CUST_0336,Calças,Social,378.68,M,Azul,False,5,Credit Card,164.1,4,26
+ORDER_1421,2023-05-26,CUST_0076,Saias,Mini,138.49,P,Rosa,False,2,PIX,54.24,4,26
+ORDER_1422,2023-05-26,CUST_0116,Saias,Mini,121.2,P,Azul,False,4,Debit Card,47.47,4,26
+ORDER_1423,2023-05-26,CUST_0069,Acessórios,Bolsas,350.83,Único,Prata,False,4,Credit Card,160.8,4,26
+ORDER_1424,2023-05-27,CUST_0354,Blusas,Moletom,147.27,P,Preto,False,4,Boleto,46.02,5,27
+ORDER_1425,2023-05-27,CUST_0234,Blusas,Moletom,187.8,GG,Rosa,False,4,PIX,58.69,5,27
+ORDER_1426,2023-05-27,CUST_0001,Blusas,T-shirt,131.13,G,Rosa,False,1,PIX,38.25,5,27
+ORDER_1427,2023-05-27,CUST_0167,Blusas,T-shirt,161.01,P,Rosa,True,1,PIX,46.96,5,27
+ORDER_1428,2023-05-28,CUST_0352,Calças,Moletom,161.67,M,Preto,False,4,PIX,50.52,6,28
+ORDER_1429,2023-05-28,CUST_0218,Vestidos,Festa,657.29,M,Rosa,True,1,PIX,251.05,6,28
+ORDER_1430,2023-05-28,CUST_0273,Acessórios,Bijuterias,49.81,Único,Preto,False,5,Debit Card,20.75,6,28
+ORDER_1431,2023-05-28,CUST_0368,Acessórios,Cintos,181.77,Único,Prata,False,3,Credit Card,63.12,6,28
+ORDER_1432,2023-05-28,CUST_0251,Calças,Jeans,343.5,P,Branco,False,4,Boleto,114.5,6,28
+ORDER_1433,2023-05-29,CUST_0347,Vestidos,Festa,422.68,M,Rosa,False,4,PIX,193.73,0,29
+ORDER_1434,2023-05-30,CUST_0344,Blusas,Social,296.89,GG,Preto,False,1,Boleto,118.76,1,30
+ORDER_1435,2023-05-31,CUST_0419,Saias,Longa,344.05,M,Azul,False,5,Credit Card,149.09,2,31
+ORDER_1436,2023-05-31,CUST_0174,Acessórios,Bijuterias,42.26,Único,Dourado,False,3,PIX,21.13,2,31
+ORDER_1437,2023-05-31,CUST_0170,Saias,Midi,248.52,G,Azul,False,4,Credit Card,103.55,2,31
+ORDER_1438,2023-05-31,CUST_0246,Saias,Mini,151.8,M,Vermelho,False,2,PIX,59.45,2,31
+ORDER_1439,2023-05-31,CUST_0423,Acessórios,Cintos,119.92,Único,Dourado,False,5,Credit Card,49.97,2,31
+ORDER_1440,2023-05-31,CUST_0090,Saias,Mini,144.73,G,Vermelho,False,5,Boleto,56.69,2,31
+ORDER_1441,2023-06-01,CUST_0049,Acessórios,Bijuterias,68.98,Único,Preto,False,5,PIX,34.49,3,1
+ORDER_1442,2023-06-01,CUST_0446,Acessórios,Bijuterias,118.8,Único,Prata,False,5,PIX,59.4,3,1
+ORDER_1443,2023-06-01,CUST_0294,Saias,Longa,223.37,G,Vermelho,False,5,Debit Card,96.79,3,1
+ORDER_1444,2023-06-02,CUST_0407,Acessórios,Bolsas,368.93,Único,Preto,False,2,PIX,169.09,4,2
+ORDER_1445,2023-06-02,CUST_0150,Acessórios,Cintos,63.94,Único,Preto,False,3,PIX,26.64,4,2
+ORDER_1446,2023-06-02,CUST_0132,Calças,Jeans,231.23,P,Azul,False,4,PIX,92.49,4,2
+ORDER_1447,2023-06-03,CUST_0433,Acessórios,Cintos,79.14,Único,Dourado,False,5,Credit Card,27.48,5,3
+ORDER_1448,2023-06-03,CUST_0059,Saias,Mini,154.94,G,Rosa,False,3,Boleto,50.57,5,3
+ORDER_1449,2023-06-04,CUST_0457,Saias,Midi,328.92,G,Vermelho,False,4,Credit Card,114.21,6,4
+ORDER_1450,2023-06-04,CUST_0324,Saias,Midi,175.58,G,Rosa,False,5,Debit Card,60.97,6,4
+ORDER_1451,2023-06-04,CUST_0199,Saias,Longa,351.56,G,Preto,True,3,Credit Card,126.95,6,4
+ORDER_1452,2023-06-05,CUST_0215,Saias,Midi,281.57,P,Vermelho,False,4,Debit Card,117.32,0,5
+ORDER_1453,2023-06-05,CUST_0386,Acessórios,Bolsas,294.83,Único,Preto,False,1,Boleto,135.13,0,5
+ORDER_1454,2023-06-05,CUST_0049,Blusas,Social,265.93,P,Rosa,False,5,Debit Card,106.37,0,5
+ORDER_1455,2023-06-05,CUST_0472,Vestidos,Casual,134.11,G,Preto,False,3,PIX,50.29,0,5
+ORDER_1456,2023-06-05,CUST_0232,Acessórios,Bolsas,320.24,Único,Preto,False,5,Debit Card,146.78,0,5
+ORDER_1457,2023-06-06,CUST_0247,Calças,Jeans,237.32,G,Azul,False,5,Boleto,113.91,1,6
+ORDER_1458,2023-06-06,CUST_0382,Blusas,Social,145.83,G,Rosa,False,5,Credit Card,70.0,1,6
+ORDER_1459,2023-06-07,CUST_0479,Acessórios,Cintos,132.54,Único,Prata,False,5,Credit Card,66.27,2,7
+ORDER_1460,2023-06-08,CUST_0239,Blusas,Moletom,135.52,G,Branco,True,2,Credit Card,60.98,3,8
+ORDER_1461,2023-06-08,CUST_0415,Vestidos,Praia,90.5,M,Preto,True,2,PIX,45.25,3,8
+ORDER_1462,2023-06-08,CUST_0367,Saias,Midi,166.01,M,Azul,False,2,Boleto,83.0,3,8
+ORDER_1463,2023-06-08,CUST_0168,Calças,Jeans,218.38,M,Branco,False,5,Debit Card,104.82,3,8
+ORDER_1464,2023-06-08,CUST_0048,Blusas,Moletom,101.65,M,Branco,False,5,PIX,45.74,3,8
+ORDER_1465,2023-06-08,CUST_0051,Acessórios,Bolsas,297.16,Único,Preto,False,5,Boleto,163.44,3,8
+ORDER_1466,2023-06-09,CUST_0299,Vestidos,Praia,119.53,M,Azul,False,4,Credit Card,59.77,4,9
+ORDER_1467,2023-06-09,CUST_0098,Blusas,T-shirt,56.54,M,Branco,False,3,Boleto,23.75,4,9
+ORDER_1468,2023-06-09,CUST_0439,Calças,Moletom,170.42,P,Preto,False,5,PIX,76.69,4,9
+ORDER_1469,2023-06-09,CUST_0216,Acessórios,Bolsas,276.31,Único,Marrom,False,4,Credit Card,151.97,4,9
+ORDER_1470,2023-06-09,CUST_0177,Acessórios,Cintos,104.55,Único,Dourado,False,4,Credit Card,52.27,4,9
+ORDER_1471,2023-06-10,CUST_0380,Calças,Moletom,146.9,G,Preto,False,4,PIX,55.09,5,10
+ORDER_1472,2023-06-10,CUST_0474,Acessórios,Bijuterias,56.82,Único,Preto,False,5,PIX,28.41,5,10
+ORDER_1473,2023-06-10,CUST_0080,Saias,Longa,253.25,P,Preto,False,5,Credit Card,109.74,5,10
+ORDER_1474,2023-06-10,CUST_0185,Vestidos,Praia,174.72,M,Preto,False,5,Debit Card,72.8,5,10
+ORDER_1475,2023-06-10,CUST_0367,Blusas,T-shirt,96.3,M,Rosa,False,5,PIX,33.7,5,10
+ORDER_1476,2023-06-10,CUST_0461,Vestidos,Festa,494.64,P,Vermelho,False,5,PIX,226.71,5,10
+ORDER_1477,2023-06-10,CUST_0399,Vestidos,Festa,552.47,P,Azul,False,3,Boleto,253.21,5,10
+ORDER_1478,2023-06-11,CUST_0027,Acessórios,Bijuterias,63.42,Único,Preto,False,3,Debit Card,31.71,6,11
+ORDER_1479,2023-06-11,CUST_0452,Calças,Jeans,222.59,M,Preto,False,5,PIX,89.04,6,11
+ORDER_1480,2023-06-11,CUST_0464,Saias,Longa,314.17,M,Preto,False,5,Credit Card,136.14,6,11
+ORDER_1481,2023-06-13,CUST_0448,Vestidos,Praia,101.38,P,Preto,False,5,Debit Card,50.69,1,13
+ORDER_1482,2023-06-14,CUST_0478,Calças,Jeans,286.3,GG,Azul,False,4,Credit Card,137.42,2,14
+ORDER_1483,2023-06-15,CUST_0492,Acessórios,Cintos,55.96,Único,Dourado,False,3,PIX,27.98,3,15
+ORDER_1484,2023-06-16,CUST_0414,Acessórios,Bijuterias,92.57,Único,Dourado,False,3,PIX,55.54,4,16
+ORDER_1485,2023-06-16,CUST_0420,Blusas,T-shirt,53.37,GG,Rosa,False,5,Debit Card,22.42,4,16
+ORDER_1486,2023-06-16,CUST_0195,Saias,Mini,85.44,G,Preto,False,2,Credit Card,40.16,4,16
+ORDER_1487,2023-06-16,CUST_0214,Saias,Midi,159.57,P,Azul,False,2,Debit Card,79.78,4,16
+ORDER_1488,2023-06-18,CUST_0369,Vestidos,Casual,183.07,G,Vermelho,False,5,Credit Card,68.65,6,18
+ORDER_1489,2023-06-19,CUST_0342,Vestidos,Festa,331.41,M,Rosa,False,4,Boleto,182.28,0,19
+ORDER_1490,2023-06-20,CUST_0114,Acessórios,Bolsas,200.4,Único,Preto,False,5,PIX,110.22,1,20
+ORDER_1491,2023-06-21,CUST_0242,Blusas,Moletom,149.9,G,Branco,False,5,Boleto,67.45,2,21
+ORDER_1492,2023-06-21,CUST_0124,Saias,Mini,127.43,P,Rosa,False,5,Credit Card,59.89,2,21
+ORDER_1493,2023-06-21,CUST_0305,Blusas,T-shirt,57.79,G,Branco,False,5,Credit Card,24.27,2,21
+ORDER_1494,2023-06-21,CUST_0076,Saias,Longa,212.48,P,Vermelho,False,5,Debit Card,110.49,2,21
+ORDER_1495,2023-06-21,CUST_0311,Blusas,T-shirt,82.77,G,Branco,False,3,Credit Card,34.76,2,21
+ORDER_1496,2023-06-22,CUST_0469,Vestidos,Casual,132.18,G,Rosa,False,3,Credit Card,59.48,3,22
+ORDER_1497,2023-06-22,CUST_0312,Acessórios,Bolsas,364.01,Único,Prata,False,2,Credit Card,200.21,3,22
+ORDER_1498,2023-06-22,CUST_0196,Blusas,Moletom,154.32,M,Branco,False,2,PIX,69.44,3,22
+ORDER_1499,2023-06-23,CUST_0351,Acessórios,Cintos,114.98,Único,Preto,False,5,Debit Card,57.49,4,23
+ORDER_1500,2023-06-23,CUST_0044,Saias,Midi,241.09,G,Azul,True,3,PIX,120.55,4,23
+ORDER_1501,2023-06-24,CUST_0415,Acessórios,Bijuterias,49.36,Único,Prata,False,5,Credit Card,24.68,5,24
+ORDER_1502,2023-06-25,CUST_0186,Saias,Midi,227.13,M,Vermelho,False,5,PIX,78.86,6,25
+ORDER_1503,2023-06-25,CUST_0343,Blusas,Moletom,266.08,P,Preto,True,1,Debit Card,83.15,6,25
+ORDER_1504,2023-06-26,CUST_0246,Blusas,Moletom,132.98,G,Rosa,False,3,Credit Card,49.87,0,26
+ORDER_1505,2023-06-27,CUST_0437,Acessórios,Bolsas,427.04,Único,Prata,False,5,Credit Card,195.73,1,27
+ORDER_1506,2023-06-28,CUST_0084,Vestidos,Casual,224.14,P,Rosa,True,2,PIX,84.05,2,28
+ORDER_1507,2023-06-29,CUST_0207,Blusas,Social,158.22,M,Rosa,False,4,Debit Card,63.29,3,29
+ORDER_1508,2023-06-30,CUST_0151,Calças,Social,363.04,M,Azul,False,3,Debit Card,157.32,4,30
+ORDER_1509,2023-06-30,CUST_0156,Acessórios,Bijuterias,55.69,Único,Preto,False,5,PIX,27.85,4,30
+ORDER_1510,2023-06-30,CUST_0016,Calças,Jeans,202.48,G,Azul,False,5,Credit Card,80.99,4,30
+ORDER_1511,2023-07-01,CUST_0165,Acessórios,Bijuterias,99.36,Único,Prata,False,4,Boleto,41.4,5,1
+ORDER_1512,2023-07-01,CUST_0405,Saias,Midi,340.46,M,Vermelho,False,4,Credit Card,118.22,5,1
+ORDER_1513,2023-07-01,CUST_0463,Calças,Moletom,132.55,M,Preto,False,5,Boleto,41.42,5,1
+ORDER_1514,2023-07-01,CUST_0145,Saias,Midi,354.48,G,Vermelho,False,4,Debit Card,123.08,5,1
+ORDER_1515,2023-07-02,CUST_0498,Saias,Mini,151.13,M,Azul,False,5,Debit Card,49.33,6,2
+ORDER_1516,2023-07-02,CUST_0037,Calças,Moletom,219.0,P,Branco,False,5,PIX,68.44,6,2
+ORDER_1517,2023-07-02,CUST_0333,Vestidos,Casual,178.49,G,Vermelho,False,4,Credit Card,55.78,6,2
+ORDER_1518,2023-07-02,CUST_0403,Vestidos,Praia,132.64,M,Rosa,False,5,Debit Card,46.05,6,2
+ORDER_1519,2023-07-03,CUST_0414,Saias,Mini,183.07,G,Rosa,False,5,Credit Card,71.7,0,3
+ORDER_1520,2023-07-04,CUST_0045,Calças,Jeans,332.95,M,Preto,True,4,Boleto,133.18,1,4
+ORDER_1521,2023-07-04,CUST_0402,Saias,Mini,126.84,P,Vermelho,False,3,Debit Card,49.68,1,4
+ORDER_1522,2023-07-04,CUST_0206,Vestidos,Casual,225.61,G,Rosa,False,4,PIX,84.6,1,4
+ORDER_1523,2023-07-04,CUST_0062,Vestidos,Festa,696.08,M,Azul,False,4,Credit Card,319.04,1,4
+ORDER_1524,2023-07-05,CUST_0420,Vestidos,Casual,127.66,M,Vermelho,False,4,Credit Card,47.87,2,5
+ORDER_1525,2023-07-05,CUST_0356,Blusas,Social,166.61,P,Branco,False,1,PIX,66.64,2,5
+ORDER_1526,2023-07-05,CUST_0468,Vestidos,Festa,517.92,P,Azul,False,5,Debit Card,237.38,2,5
+ORDER_1527,2023-07-05,CUST_0308,Vestidos,Festa,686.48,M,Vermelho,False,4,Credit Card,314.64,2,5
+ORDER_1528,2023-07-06,CUST_0019,Acessórios,Cintos,85.24,Único,Preto,False,1,PIX,42.62,3,6
+ORDER_1529,2023-07-06,CUST_0365,Calças,Moletom,147.75,G,Azul,False,4,PIX,66.49,3,6
+ORDER_1530,2023-07-07,CUST_0300,Acessórios,Bijuterias,49.57,Único,Prata,False,4,Debit Card,29.74,4,7
+ORDER_1531,2023-07-07,CUST_0007,Blusas,Social,127.99,GG,Azul,False,2,Boleto,61.44,4,7
+ORDER_1532,2023-07-07,CUST_0249,Blusas,Social,151.76,P,Azul,True,3,Debit Card,72.84,4,7
+ORDER_1533,2023-07-08,CUST_0428,Calças,Social,298.25,GG,Azul,False,2,Boleto,129.24,5,8
+ORDER_1534,2023-07-08,CUST_0117,Blusas,T-shirt,78.54,GG,Branco,False,5,Credit Card,27.49,5,8
+ORDER_1535,2023-07-08,CUST_0068,Calças,Social,317.34,P,Azul,True,5,Credit Card,137.51,5,8
+ORDER_1536,2023-07-10,CUST_0034,Acessórios,Bolsas,165.77,Único,Prata,False,3,Credit Card,91.17,0,10
+ORDER_1537,2023-07-10,CUST_0194,Calças,Social,230.38,M,Azul,False,5,PIX,119.8,0,10
+ORDER_1538,2023-07-10,CUST_0325,Blusas,Moletom,114.11,GG,Preto,False,3,PIX,51.35,0,10
+ORDER_1539,2023-07-10,CUST_0055,Blusas,Social,126.45,M,Azul,False,4,Credit Card,60.7,0,10
+ORDER_1540,2023-07-10,CUST_0266,Acessórios,Cintos,71.07,Único,Prata,False,2,PIX,35.53,0,10
+ORDER_1541,2023-07-11,CUST_0480,Acessórios,Cintos,68.92,Único,Preto,False,4,PIX,34.46,1,11
+ORDER_1542,2023-07-11,CUST_0042,Blusas,Moletom,159.89,G,Azul,True,4,PIX,71.95,1,11
+ORDER_1543,2023-07-11,CUST_0297,Acessórios,Bolsas,247.83,Único,Preto,False,3,Credit Card,136.31,1,11
+ORDER_1544,2023-07-12,CUST_0461,Saias,Mini,103.92,G,Preto,False,4,Boleto,48.84,2,12
+ORDER_1545,2023-07-12,CUST_0231,Calças,Social,259.04,GG,Branco,True,2,Boleto,134.7,2,12
+ORDER_1546,2023-07-12,CUST_0453,Acessórios,Cintos,100.28,Único,Dourado,False,5,PIX,50.14,2,12
+ORDER_1547,2023-07-13,CUST_0378,Acessórios,Bijuterias,64.91,Único,Dourado,False,4,Credit Card,38.95,3,13
+ORDER_1548,2023-07-14,CUST_0394,Calças,Moletom,95.4,M,Preto,False,1,Debit Card,42.93,4,14
+ORDER_1549,2023-07-15,CUST_0010,Blusas,T-shirt,98.29,G,Branco,False,5,Boleto,34.4,5,15
+ORDER_1550,2023-07-15,CUST_0358,Acessórios,Bijuterias,44.78,Único,Prata,False,4,Boleto,22.39,5,15
+ORDER_1551,2023-07-16,CUST_0475,Saias,Midi,245.68,G,Azul,False,3,Boleto,102.36,6,16
+ORDER_1552,2023-07-16,CUST_0444,Vestidos,Casual,216.44,G,Vermelho,False,4,Credit Card,81.17,6,16
+ORDER_1553,2023-07-16,CUST_0128,Acessórios,Bijuterias,84.5,Único,Preto,False,5,Boleto,42.25,6,16
+ORDER_1554,2023-07-17,CUST_0179,Vestidos,Praia,133.41,M,Vermelho,False,5,PIX,66.7,0,17
+ORDER_1555,2023-07-17,CUST_0405,Acessórios,Bijuterias,31.53,Único,Prata,False,4,Credit Card,18.92,0,17
+ORDER_1556,2023-07-17,CUST_0392,Blusas,T-shirt,114.3,GG,Preto,True,3,Credit Card,48.01,0,17
+ORDER_1557,2023-07-18,CUST_0193,Calças,Moletom,144.91,G,Branco,False,5,Boleto,65.21,1,18
+ORDER_1558,2023-07-18,CUST_0092,Acessórios,Bijuterias,84.24,Único,Prata,True,3,Credit Card,50.54,1,18
+ORDER_1559,2023-07-18,CUST_0369,Saias,Midi,138.62,P,Preto,False,3,Credit Card,69.31,1,18
+ORDER_1560,2023-07-18,CUST_0231,Blusas,Social,203.81,GG,Preto,False,5,PIX,97.83,1,18
+ORDER_1561,2023-07-19,CUST_0078,Blusas,Moletom,198.89,G,Rosa,False,4,PIX,89.5,2,19
+ORDER_1562,2023-07-19,CUST_0085,Saias,Midi,155.14,P,Preto,False,4,PIX,77.57,2,19
+ORDER_1563,2023-07-19,CUST_0030,Acessórios,Bijuterias,80.61,Único,Dourado,False,3,Debit Card,48.37,2,19
+ORDER_1564,2023-07-20,CUST_0213,Acessórios,Bolsas,230.33,Único,Marrom,False,3,Debit Card,126.68,3,20
+ORDER_1565,2023-07-20,CUST_0049,Calças,Jeans,245.42,P,Branco,False,5,Debit Card,117.8,3,20
+ORDER_1566,2023-07-20,CUST_0265,Acessórios,Cintos,65.8,Único,Dourado,False,5,Credit Card,32.9,3,20
+ORDER_1567,2023-07-20,CUST_0145,Calças,Moletom,165.76,G,Preto,False,3,Debit Card,74.59,3,20
+ORDER_1568,2023-07-21,CUST_0069,Calças,Moletom,176.71,P,Preto,False,5,Credit Card,79.52,4,21
+ORDER_1569,2023-07-21,CUST_0058,Blusas,Social,246.76,G,Preto,False,5,Credit Card,118.44,4,21
+ORDER_1570,2023-07-21,CUST_0185,Blusas,T-shirt,54.6,M,Azul,False,5,Debit Card,22.93,4,21
+ORDER_1571,2023-07-22,CUST_0062,Vestidos,Festa,511.52,M,Vermelho,False,4,Boleto,234.45,5,22
+ORDER_1572,2023-07-23,CUST_0479,Saias,Mini,195.08,P,Rosa,False,5,Credit Card,76.41,6,23
+ORDER_1573,2023-07-23,CUST_0308,Saias,Midi,182.8,P,Azul,False,4,Credit Card,76.17,6,23
+ORDER_1574,2023-07-24,CUST_0445,Vestidos,Casual,104.64,M,Vermelho,False,5,PIX,47.09,0,24
+ORDER_1575,2023-07-24,CUST_0296,Vestidos,Casual,198.79,P,Vermelho,False,5,Credit Card,89.46,0,24
+ORDER_1576,2023-07-24,CUST_0166,Saias,Longa,237.46,G,Rosa,False,5,Boleto,123.48,0,24
+ORDER_1577,2023-07-24,CUST_0171,Vestidos,Casual,118.89,M,Vermelho,False,5,Credit Card,53.5,0,24
+ORDER_1578,2023-07-25,CUST_0063,Saias,Midi,244.58,M,Vermelho,False,5,PIX,101.91,1,25
+ORDER_1579,2023-07-25,CUST_0147,Saias,Mini,115.37,M,Rosa,False,5,Debit Card,45.19,1,25
+ORDER_1580,2023-07-25,CUST_0484,Blusas,Moletom,169.24,M,Rosa,False,4,Boleto,63.46,1,25
+ORDER_1581,2023-07-25,CUST_0306,Calças,Moletom,184.16,P,Azul,False,5,Credit Card,69.06,1,25
+ORDER_1582,2023-07-26,CUST_0161,Saias,Mini,160.99,M,Vermelho,False,5,Debit Card,63.06,2,26
+ORDER_1583,2023-07-26,CUST_0141,Saias,Longa,253.99,M,Preto,False,2,Boleto,110.06,2,26
+ORDER_1584,2023-07-26,CUST_0334,Acessórios,Bijuterias,67.33,Único,Dourado,False,5,Boleto,33.67,2,26
+ORDER_1585,2023-07-26,CUST_0097,Saias,Longa,254.33,G,Rosa,False,2,Boleto,110.21,2,26
+ORDER_1586,2023-07-27,CUST_0446,Acessórios,Cintos,163.96,Único,Preto,False,4,PIX,68.31,3,27
+ORDER_1587,2023-07-27,CUST_0221,Vestidos,Casual,178.1,P,Preto,False,5,PIX,66.79,3,27
+ORDER_1588,2023-07-28,CUST_0043,Saias,Midi,235.98,P,Rosa,False,5,Credit Card,98.33,4,28
+ORDER_1589,2023-07-28,CUST_0433,Vestidos,Festa,430.37,P,Azul,False,3,Credit Card,197.25,4,28
+ORDER_1590,2023-07-28,CUST_0292,Calças,Moletom,179.48,M,Branco,False,5,Debit Card,67.31,4,28
+ORDER_1591,2023-07-28,CUST_0378,Blusas,T-shirt,126.71,P,Azul,False,4,PIX,44.35,4,28
+ORDER_1592,2023-07-29,CUST_0108,Acessórios,Cintos,166.39,Único,Prata,False,4,Debit Card,57.77,5,29
+ORDER_1593,2023-07-29,CUST_0266,Saias,Midi,175.06,M,Preto,False,3,Boleto,60.78,5,29
+ORDER_1594,2023-07-29,CUST_0095,Blusas,Social,209.65,P,Preto,False,2,Credit Card,69.88,5,29
+ORDER_1595,2023-07-29,CUST_0262,Saias,Mini,161.63,M,Vermelho,False,4,PIX,52.75,5,29
+ORDER_1596,2023-07-29,CUST_0313,Blusas,Social,173.74,G,Azul,False,4,Boleto,57.91,5,29
+ORDER_1597,2023-07-30,CUST_0385,Blusas,T-shirt,73.47,G,Rosa,False,5,PIX,21.43,6,30
+ORDER_1598,2023-07-30,CUST_0071,Acessórios,Cintos,142.63,Único,Prata,False,3,Credit Card,49.52,6,30
+ORDER_1599,2023-07-31,CUST_0442,Acessórios,Bolsas,203.87,Único,Preto,False,1,Debit Card,93.44,0,31
+ORDER_1600,2023-07-31,CUST_0219,Acessórios,Cintos,107.12,Único,Dourado,False,4,PIX,44.63,0,31
+ORDER_1601,2023-08-01,CUST_0021,Blusas,Social,159.95,M,Rosa,False,4,PIX,63.98,1,1
+ORDER_1602,2023-08-01,CUST_0092,Acessórios,Cintos,127.21,Único,Prata,False,4,Boleto,53.01,1,1
+ORDER_1603,2023-08-01,CUST_0127,Vestidos,Praia,152.35,P,Rosa,False,3,Boleto,63.48,1,1
+ORDER_1604,2023-08-02,CUST_0080,Saias,Mini,145.45,G,Vermelho,False,5,Debit Card,56.97,2,2
+ORDER_1605,2023-08-02,CUST_0312,Blusas,Social,283.94,P,Azul,False,5,Boleto,113.58,2,2
+ORDER_1606,2023-08-03,CUST_0238,Vestidos,Festa,455.66,P,Preto,False,5,PIX,208.85,3,3
+ORDER_1607,2023-08-03,CUST_0471,Acessórios,Bolsas,373.96,Único,Marrom,False,5,PIX,171.4,3,3
+ORDER_1608,2023-08-03,CUST_0372,Calças,Moletom,210.44,P,Azul,False,2,Boleto,78.92,3,3
+ORDER_1609,2023-08-04,CUST_0404,Vestidos,Casual,147.4,G,Azul,False,5,Boleto,55.27,4,4
+ORDER_1610,2023-08-04,CUST_0486,Saias,Mini,113.92,G,Rosa,False,5,Debit Card,44.62,4,4
+ORDER_1611,2023-08-05,CUST_0182,Blusas,Moletom,162.2,M,Branco,False,3,Credit Card,50.69,5,5
+ORDER_1612,2023-08-07,CUST_0025,Blusas,Moletom,140.76,M,Branco,False,1,PIX,63.34,0,7
+ORDER_1613,2023-08-07,CUST_0156,Vestidos,Festa,437.97,M,Vermelho,False,5,Credit Card,240.88,0,7
+ORDER_1614,2023-08-07,CUST_0005,Acessórios,Bolsas,274.13,Único,Prata,False,2,Debit Card,150.77,0,7
+ORDER_1615,2023-08-08,CUST_0120,Vestidos,Praia,143.48,M,Azul,False,2,PIX,71.74,1,8
+ORDER_1616,2023-08-09,CUST_0277,Vestidos,Praia,121.17,P,Vermelho,False,4,Boleto,60.59,2,9
+ORDER_1617,2023-08-10,CUST_0018,Blusas,Social,125.01,P,Preto,False,5,Credit Card,60.0,3,10
+ORDER_1618,2023-08-11,CUST_0431,Blusas,Moletom,107.36,G,Preto,False,4,Credit Card,48.31,4,11
+ORDER_1619,2023-08-11,CUST_0198,Blusas,Moletom,167.21,GG,Preto,False,4,Debit Card,75.24,4,11
+ORDER_1620,2023-08-11,CUST_0057,Acessórios,Bolsas,223.98,Único,Preto,False,4,Boleto,123.19,4,11
+ORDER_1621,2023-08-11,CUST_0093,Saias,Midi,192.47,P,Rosa,False,5,Debit Card,96.23,4,11
+ORDER_1622,2023-08-12,CUST_0019,Acessórios,Cintos,91.03,Único,Marrom,False,5,Credit Card,37.93,5,12
+ORDER_1623,2023-08-12,CUST_0384,Vestidos,Casual,129.04,M,Azul,False,5,PIX,48.39,5,12
+ORDER_1624,2023-08-13,CUST_0353,Saias,Longa,352.79,M,Azul,False,5,Boleto,152.87,6,13
+ORDER_1625,2023-08-14,CUST_0193,Acessórios,Bijuterias,76.21,Único,Prata,False,4,Debit Card,45.73,0,14
+ORDER_1626,2023-08-15,CUST_0237,Blusas,T-shirt,65.67,P,Azul,False,5,PIX,27.58,1,15
+ORDER_1627,2023-08-15,CUST_0387,Acessórios,Bolsas,389.01,Único,Marrom,False,3,Credit Card,213.96,1,15
+ORDER_1628,2023-08-15,CUST_0426,Vestidos,Casual,140.36,P,Vermelho,False,4,Boleto,63.16,1,15
+ORDER_1629,2023-08-16,CUST_0277,Saias,Longa,290.01,M,Azul,False,3,PIX,150.81,2,16
+ORDER_1630,2023-08-16,CUST_0227,Acessórios,Cintos,149.55,Único,Marrom,False,5,Boleto,74.78,2,16
+ORDER_1631,2023-08-16,CUST_0233,Vestidos,Casual,150.71,M,Rosa,False,5,Credit Card,67.82,2,16
+ORDER_1632,2023-08-17,CUST_0040,Blusas,Social,173.8,G,Preto,False,5,Credit Card,83.42,3,17
+ORDER_1633,2023-08-17,CUST_0323,Blusas,Moletom,113.44,M,Rosa,False,4,Boleto,51.05,3,17
+ORDER_1634,2023-08-17,CUST_0153,Saias,Mini,132.1,P,Vermelho,False,5,PIX,62.09,3,17
+ORDER_1635,2023-08-18,CUST_0127,Acessórios,Bijuterias,33.03,Único,Marrom,False,5,Credit Card,19.82,4,18
+ORDER_1636,2023-08-19,CUST_0237,Saias,Mini,108.55,G,Rosa,False,4,PIX,42.52,5,19
+ORDER_1637,2023-08-19,CUST_0486,Calças,Moletom,138.8,GG,Azul,False,5,PIX,52.05,5,19
+ORDER_1638,2023-08-21,CUST_0493,Vestidos,Casual,189.71,P,Azul,False,4,Credit Card,85.37,0,21
+ORDER_1639,2023-08-22,CUST_0055,Saias,Midi,193.57,M,Preto,False,4,Credit Card,96.78,1,22
+ORDER_1640,2023-08-22,CUST_0468,Acessórios,Cintos,132.59,Único,Marrom,False,5,PIX,66.3,1,22
+ORDER_1641,2023-08-24,CUST_0436,Acessórios,Bolsas,302.84,Único,Preto,False,5,Boleto,166.56,3,24
+ORDER_1642,2023-08-24,CUST_0172,Blusas,T-shirt,67.64,G,Branco,True,2,Boleto,28.41,3,24
+ORDER_1643,2023-08-24,CUST_0109,Acessórios,Cintos,66.93,Único,Preto,True,1,Credit Card,33.47,3,24
+ORDER_1644,2023-08-25,CUST_0354,Saias,Midi,209.04,P,Vermelho,False,3,PIX,87.1,4,25
+ORDER_1645,2023-08-25,CUST_0469,Acessórios,Bijuterias,55.55,Único,Prata,False,4,Boleto,27.77,4,25
+ORDER_1646,2023-08-25,CUST_0184,Acessórios,Bijuterias,112.03,Único,Dourado,False,4,Credit Card,56.02,4,25
+ORDER_1647,2023-08-27,CUST_0439,Blusas,T-shirt,150.06,GG,Rosa,False,4,Credit Card,43.77,6,27
+ORDER_1648,2023-08-27,CUST_0368,Vestidos,Praia,192.9,M,Vermelho,False,3,Credit Card,66.98,6,27
+ORDER_1649,2023-08-27,CUST_0471,Calças,Moletom,215.48,P,Preto,False,3,Credit Card,67.34,6,27
+ORDER_1650,2023-08-27,CUST_0198,Vestidos,Casual,210.92,P,Rosa,True,4,Boleto,65.91,6,27
+ORDER_1651,2023-08-27,CUST_0371,Saias,Midi,311.44,M,Vermelho,False,4,Boleto,108.14,6,27
+ORDER_1652,2023-08-28,CUST_0373,Saias,Midi,175.73,G,Azul,False,4,PIX,73.22,0,28
+ORDER_1653,2023-08-28,CUST_0461,Acessórios,Bijuterias,51.28,Único,Marrom,True,1,PIX,25.64,0,28
+ORDER_1654,2023-08-28,CUST_0497,Saias,Mini,203.95,M,Rosa,False,5,PIX,79.88,0,28
+ORDER_1655,2023-08-29,CUST_0087,Blusas,Moletom,215.08,M,Preto,False,3,Credit Card,80.65,1,29
+ORDER_1656,2023-08-29,CUST_0201,Vestidos,Casual,142.49,M,Azul,False,5,Boleto,53.43,1,29
+ORDER_1657,2023-08-30,CUST_0337,Calças,Moletom,128.75,M,Branco,False,5,Debit Card,48.28,2,30
+ORDER_1658,2023-08-30,CUST_0322,Acessórios,Bolsas,453.26,Único,Dourado,False,5,Credit Card,207.75,2,30
+ORDER_1659,2023-08-30,CUST_0275,Saias,Longa,315.66,M,Vermelho,False,5,PIX,136.79,2,30
+ORDER_1660,2023-08-30,CUST_0211,Calças,Moletom,156.19,G,Preto,False,5,Credit Card,58.57,2,30
+ORDER_1661,2023-08-31,CUST_0391,Vestidos,Festa,473.06,M,Rosa,False,3,Credit Card,216.82,3,31
+ORDER_1662,2023-08-31,CUST_0118,Calças,Social,274.61,M,Branco,False,4,PIX,119.0,3,31
+ORDER_1663,2023-08-31,CUST_0191,Vestidos,Festa,376.96,M,Preto,False,3,Credit Card,172.77,3,31
+ORDER_1664,2023-08-31,CUST_0042,Calças,Social,315.18,G,Azul,False,5,Boleto,136.58,3,31
+ORDER_1665,2023-09-01,CUST_0042,Acessórios,Bolsas,254.54,Único,Prata,False,5,PIX,116.67,4,1
+ORDER_1666,2023-09-01,CUST_0315,Acessórios,Bolsas,378.48,Único,Preto,True,2,Credit Card,173.47,4,1
+ORDER_1667,2023-09-01,CUST_0276,Blusas,Social,175.86,P,Azul,False,3,PIX,70.34,4,1
+ORDER_1668,2023-09-02,CUST_0329,Vestidos,Festa,477.95,G,Rosa,False,5,PIX,182.55,5,2
+ORDER_1669,2023-09-02,CUST_0017,Acessórios,Bolsas,258.6,Único,Dourado,False,3,Debit Card,98.77,5,2
+ORDER_1670,2023-09-02,CUST_0283,Saias,Mini,237.53,M,Vermelho,False,2,PIX,77.53,5,2
+ORDER_1671,2023-09-02,CUST_0431,Vestidos,Festa,660.92,G,Preto,True,3,Boleto,252.43,5,2
+ORDER_1672,2023-09-02,CUST_0258,Saias,Midi,339.72,G,Preto,False,4,Credit Card,117.96,5,2
+ORDER_1673,2023-09-03,CUST_0063,Blusas,T-shirt,98.93,M,Preto,False,5,Boleto,28.85,6,3
+ORDER_1674,2023-09-04,CUST_0062,Calças,Moletom,168.07,P,Branco,False,1,Boleto,63.03,0,4
+ORDER_1675,2023-09-04,CUST_0100,Blusas,T-shirt,78.05,G,Rosa,False,5,PIX,27.32,0,4
+ORDER_1676,2023-09-05,CUST_0019,Blusas,T-shirt,105.19,G,Preto,False,5,Boleto,36.82,1,5
+ORDER_1677,2023-09-05,CUST_0017,Calças,Moletom,136.12,M,Branco,False,5,PIX,51.04,1,5
+ORDER_1678,2023-09-05,CUST_0325,Vestidos,Casual,189.62,P,Azul,False,4,PIX,71.11,1,5
+ORDER_1679,2023-09-05,CUST_0423,Calças,Social,383.65,M,Azul,False,2,Boleto,166.25,1,5
+ORDER_1680,2023-09-05,CUST_0466,Vestidos,Praia,99.17,P,Vermelho,False,4,Debit Card,41.32,1,5
+ORDER_1681,2023-09-05,CUST_0373,Acessórios,Cintos,97.1,Único,Dourado,True,3,PIX,40.46,1,5
+ORDER_1682,2023-09-05,CUST_0246,Blusas,Moletom,237.36,G,Azul,False,4,Credit Card,89.01,1,5
+ORDER_1683,2023-09-05,CUST_0251,Calças,Social,201.04,M,Azul,False,3,Boleto,87.12,1,5
+ORDER_1684,2023-09-07,CUST_0455,Saias,Longa,297.86,M,Azul,False,3,Credit Card,154.89,3,7
+ORDER_1685,2023-09-07,CUST_0081,Acessórios,Cintos,57.78,Único,Preto,False,5,Boleto,28.89,3,7
+ORDER_1686,2023-09-08,CUST_0039,Acessórios,Bijuterias,39.45,Único,Marrom,False,3,Boleto,23.67,4,8
+ORDER_1687,2023-09-08,CUST_0036,Acessórios,Cintos,84.81,Único,Dourado,False,5,Boleto,42.41,4,8
+ORDER_1688,2023-09-08,CUST_0424,Saias,Midi,225.31,G,Azul,False,2,Credit Card,112.66,4,8
+ORDER_1689,2023-09-08,CUST_0429,Saias,Mini,96.44,M,Preto,False,4,Debit Card,45.33,4,8
+ORDER_1690,2023-09-08,CUST_0388,Acessórios,Cintos,71.22,Único,Prata,False,1,Credit Card,35.61,4,8
+ORDER_1691,2023-09-09,CUST_0486,Calças,Social,262.46,P,Branco,False,2,Credit Card,113.73,5,9
+ORDER_1692,2023-09-09,CUST_0409,Vestidos,Festa,597.91,M,Rosa,False,4,Debit Card,274.04,5,9
+ORDER_1693,2023-09-09,CUST_0197,Blusas,Moletom,227.15,G,Rosa,False,5,Debit Card,85.18,5,9
+ORDER_1694,2023-09-12,CUST_0158,Acessórios,Cintos,89.75,Único,Preto,False,4,PIX,44.88,1,12
+ORDER_1695,2023-09-12,CUST_0204,Saias,Midi,132.02,M,Vermelho,False,5,PIX,66.01,1,12
+ORDER_1696,2023-09-12,CUST_0196,Calças,Social,309.87,G,Azul,False,5,Credit Card,161.13,1,12
+ORDER_1697,2023-09-12,CUST_0216,Saias,Longa,183.26,P,Vermelho,False,4,Boleto,95.3,1,12
+ORDER_1698,2023-09-14,CUST_0285,Vestidos,Festa,596.5,M,Vermelho,False,3,PIX,328.08,3,14
+ORDER_1699,2023-09-15,CUST_0457,Calças,Moletom,106.21,P,Preto,False,3,PIX,47.79,4,15
+ORDER_1700,2023-09-15,CUST_0196,Vestidos,Festa,361.04,P,Azul,False,2,Credit Card,198.57,4,15
+ORDER_1701,2023-09-15,CUST_0307,Acessórios,Bijuterias,35.32,Único,Prata,False,4,Credit Card,21.19,4,15
+ORDER_1702,2023-09-15,CUST_0152,Acessórios,Bolsas,244.17,Único,Dourado,False,3,Debit Card,134.29,4,15
+ORDER_1703,2023-09-15,CUST_0014,Vestidos,Praia,99.3,P,Vermelho,False,4,Debit Card,49.65,4,15
+ORDER_1704,2023-09-15,CUST_0325,Vestidos,Casual,149.28,P,Azul,False,2,Boleto,67.18,4,15
+ORDER_1705,2023-09-16,CUST_0146,Saias,Midi,249.43,P,Vermelho,False,4,Boleto,103.93,5,16
+ORDER_1706,2023-09-16,CUST_0426,Vestidos,Praia,136.3,P,Vermelho,False,4,PIX,56.79,5,16
+ORDER_1707,2023-09-16,CUST_0057,Blusas,T-shirt,61.38,G,Azul,False,4,Debit Card,21.48,5,16
+ORDER_1708,2023-09-16,CUST_0211,Saias,Midi,200.54,G,Vermelho,False,5,PIX,83.56,5,16
+ORDER_1709,2023-09-17,CUST_0268,Saias,Longa,244.8,G,Azul,False,2,Credit Card,106.08,6,17
+ORDER_1710,2023-09-17,CUST_0210,Blusas,Moletom,134.28,GG,Branco,False,5,Credit Card,50.36,6,17
+ORDER_1711,2023-09-17,CUST_0017,Saias,Longa,193.14,G,Azul,False,5,PIX,83.69,6,17
+ORDER_1712,2023-09-18,CUST_0286,Calças,Social,195.47,GG,Branco,False,5,Credit Card,101.64,0,18
+ORDER_1713,2023-09-18,CUST_0344,Calças,Jeans,276.18,G,Preto,False,4,PIX,132.57,0,18
+ORDER_1714,2023-09-19,CUST_0203,Acessórios,Bijuterias,90.55,Único,Preto,True,1,Boleto,54.33,1,19
+ORDER_1715,2023-09-20,CUST_0099,Saias,Longa,178.3,P,Azul,False,5,PIX,92.72,2,20
+ORDER_1716,2023-09-20,CUST_0279,Saias,Longa,155.12,P,Vermelho,True,5,PIX,80.66,2,20
+ORDER_1717,2023-09-21,CUST_0209,Vestidos,Praia,126.62,G,Rosa,False,4,Debit Card,63.31,3,21
+ORDER_1718,2023-09-21,CUST_0129,Acessórios,Bijuterias,43.06,Único,Preto,False,5,PIX,25.84,3,21
+ORDER_1719,2023-09-22,CUST_0335,Saias,Mini,163.15,M,Azul,False,4,Debit Card,76.68,4,22
+ORDER_1720,2023-09-22,CUST_0288,Calças,Moletom,117.44,M,Preto,True,1,Credit Card,52.85,4,22
+ORDER_1721,2023-09-23,CUST_0252,Saias,Longa,232.61,P,Rosa,True,2,Credit Card,100.8,5,23
+ORDER_1722,2023-09-23,CUST_0265,Vestidos,Casual,212.23,M,Preto,False,4,Debit Card,79.59,5,23
+ORDER_1723,2023-09-24,CUST_0271,Vestidos,Praia,111.73,M,Preto,False,5,PIX,46.55,6,24
+ORDER_1724,2023-09-24,CUST_0412,Vestidos,Praia,102.62,G,Rosa,False,2,Boleto,42.76,6,24
+ORDER_1725,2023-09-25,CUST_0408,Saias,Longa,182.64,M,Azul,False,3,PIX,79.14,0,25
+ORDER_1726,2023-09-26,CUST_0188,Vestidos,Festa,503.54,P,Preto,False,5,Boleto,230.79,1,26
+ORDER_1727,2023-09-26,CUST_0419,Saias,Mini,188.38,M,Azul,False,5,PIX,73.78,1,26
+ORDER_1728,2023-09-26,CUST_0214,Blusas,Social,185.65,G,Preto,False,5,Debit Card,74.26,1,26
+ORDER_1729,2023-09-26,CUST_0283,Saias,Longa,339.26,M,Rosa,False,4,Debit Card,147.01,1,26
+ORDER_1730,2023-09-26,CUST_0211,Blusas,Moletom,131.76,P,Azul,False,4,PIX,49.41,1,26
+ORDER_1731,2023-09-27,CUST_0365,Acessórios,Cintos,143.09,Único,Dourado,False,5,Credit Card,59.62,2,27
+ORDER_1732,2023-09-27,CUST_0076,Blusas,Moletom,145.33,GG,Azul,False,4,Debit Card,54.5,2,27
+ORDER_1733,2023-09-27,CUST_0148,Vestidos,Festa,424.98,P,Rosa,False,3,Debit Card,194.78,2,27
+ORDER_1734,2023-09-28,CUST_0321,Calças,Social,396.34,G,Preto,False,4,Credit Card,171.75,3,28
+ORDER_1735,2023-09-29,CUST_0213,Acessórios,Cintos,96.79,Único,Marrom,False,5,PIX,40.33,4,29
+ORDER_1736,2023-09-29,CUST_0433,Saias,Longa,327.05,P,Rosa,False,4,PIX,141.72,4,29
+ORDER_1737,2023-09-30,CUST_0109,Vestidos,Festa,559.45,G,Rosa,False,4,Boleto,213.68,5,30
+ORDER_1738,2023-09-30,CUST_0129,Calças,Jeans,332.83,G,Branco,False,4,PIX,110.94,5,30
+ORDER_1739,2023-09-30,CUST_0010,Blusas,Moletom,273.14,G,Preto,True,3,Credit Card,85.36,5,30
+ORDER_1740,2023-10-01,CUST_0047,Acessórios,Cintos,129.76,Único,Marrom,False,4,Debit Card,45.05,6,1
+ORDER_1741,2023-10-01,CUST_0379,Blusas,Moletom,156.1,GG,Azul,False,5,Credit Card,48.78,6,1
+ORDER_1742,2023-10-02,CUST_0315,Calças,Social,195.88,M,Azul,False,5,Credit Card,84.88,0,2
+ORDER_1743,2023-10-02,CUST_0096,Saias,Mini,174.97,P,Preto,False,4,PIX,68.53,0,2
+ORDER_1744,2023-10-02,CUST_0446,Calças,Social,380.64,GG,Branco,False,4,Credit Card,164.94,0,2
+ORDER_1745,2023-10-02,CUST_0103,Calças,Moletom,142.34,M,Preto,False,5,Credit Card,53.38,0,2
+ORDER_1746,2023-10-03,CUST_0380,Saias,Mini,139.5,P,Vermelho,False,3,Debit Card,54.64,1,3
+ORDER_1747,2023-10-03,CUST_0342,Calças,Social,204.95,M,Preto,False,4,Credit Card,88.81,1,3
+ORDER_1748,2023-10-03,CUST_0146,Vestidos,Festa,447.06,G,Vermelho,True,2,Credit Card,204.9,1,3
+ORDER_1749,2023-10-04,CUST_0368,Saias,Longa,325.91,M,Azul,False,3,PIX,141.23,2,4
+ORDER_1750,2023-10-04,CUST_0430,Acessórios,Bolsas,461.03,Único,Dourado,False,5,Credit Card,211.3,2,4
+ORDER_1751,2023-10-04,CUST_0416,Blusas,Social,236.71,M,Rosa,False,5,PIX,94.68,2,4
+ORDER_1752,2023-10-05,CUST_0027,Blusas,T-shirt,72.14,G,Azul,False,5,PIX,25.25,3,5
+ORDER_1753,2023-10-05,CUST_0220,Blusas,Moletom,133.68,P,Azul,False,4,Debit Card,50.13,3,5
+ORDER_1754,2023-10-05,CUST_0018,Blusas,Social,244.44,P,Azul,False,5,Debit Card,97.78,3,5
+ORDER_1755,2023-10-05,CUST_0167,Vestidos,Festa,564.31,P,Azul,False,5,Debit Card,258.64,3,5
+ORDER_1756,2023-10-06,CUST_0433,Calças,Social,166.21,G,Preto,False,5,Debit Card,86.43,4,6
+ORDER_1757,2023-10-07,CUST_0477,Acessórios,Bolsas,441.62,Único,Marrom,False,4,Credit Card,202.41,5,7
+ORDER_1758,2023-10-07,CUST_0082,Acessórios,Bijuterias,62.86,Único,Preto,False,1,PIX,31.43,5,7
+ORDER_1759,2023-10-07,CUST_0428,Blusas,Social,168.72,M,Branco,False,5,Debit Card,67.49,5,7
+ORDER_1760,2023-10-08,CUST_0072,Blusas,Moletom,133.68,GG,Azul,False,5,Debit Card,50.13,6,8
+ORDER_1761,2023-10-08,CUST_0310,Acessórios,Bijuterias,118.67,Único,Dourado,False,2,Debit Card,59.33,6,8
+ORDER_1762,2023-10-08,CUST_0479,Acessórios,Bijuterias,92.27,Único,Prata,False,4,PIX,46.13,6,8
+ORDER_1763,2023-10-08,CUST_0254,Calças,Social,326.66,GG,Preto,False,5,Debit Card,141.55,6,8
+ORDER_1764,2023-10-08,CUST_0162,Blusas,Social,206.99,P,Preto,False,1,Boleto,82.8,6,8
+ORDER_1765,2023-10-09,CUST_0327,Vestidos,Praia,128.21,G,Rosa,False,5,PIX,64.11,0,9
+ORDER_1766,2023-10-10,CUST_0420,Acessórios,Bolsas,242.11,Único,Marrom,False,3,PIX,133.16,1,10
+ORDER_1767,2023-10-10,CUST_0402,Blusas,Moletom,169.32,GG,Azul,False,2,Debit Card,76.19,1,10
+ORDER_1768,2023-10-10,CUST_0038,Vestidos,Casual,120.62,M,Vermelho,False,4,Boleto,54.28,1,10
+ORDER_1769,2023-10-10,CUST_0443,Blusas,Social,223.65,P,Preto,False,5,Credit Card,107.35,1,10
+ORDER_1770,2023-10-11,CUST_0393,Acessórios,Bijuterias,60.84,Único,Marrom,False,5,Debit Card,36.5,2,11
+ORDER_1771,2023-10-11,CUST_0201,Blusas,Social,180.4,G,Rosa,False,5,Debit Card,86.59,2,11
+ORDER_1772,2023-10-12,CUST_0494,Calças,Jeans,141.02,M,Branco,False,4,PIX,67.69,3,12
+ORDER_1773,2023-10-14,CUST_0200,Vestidos,Casual,230.44,M,Rosa,False,4,Debit Card,86.41,5,14
+ORDER_1774,2023-10-15,CUST_0255,Calças,Jeans,283.55,GG,Preto,False,4,PIX,113.42,6,15
+ORDER_1775,2023-10-15,CUST_0179,Saias,Midi,230.22,G,Vermelho,False,5,Credit Card,95.92,6,15
+ORDER_1776,2023-10-16,CUST_0035,Saias,Mini,118.95,G,Vermelho,False,4,Credit Card,55.91,0,16
+ORDER_1777,2023-10-16,CUST_0082,Blusas,Social,123.5,M,Preto,False,5,PIX,59.28,0,16
+ORDER_1778,2023-10-17,CUST_0389,Calças,Jeans,202.41,G,Azul,False,5,PIX,97.16,1,17
+ORDER_1779,2023-10-17,CUST_0398,Calças,Social,337.74,P,Azul,False,4,Debit Card,175.62,1,17
+ORDER_1780,2023-10-18,CUST_0220,Acessórios,Cintos,68.05,Único,Preto,False,5,Debit Card,34.02,2,18
+ORDER_1781,2023-10-18,CUST_0158,Saias,Mini,87.23,M,Preto,False,2,PIX,41.0,2,18
+ORDER_1782,2023-10-18,CUST_0004,Blusas,T-shirt,94.18,P,Azul,False,4,Credit Card,39.56,2,18
+ORDER_1783,2023-10-19,CUST_0167,Saias,Mini,151.06,M,Azul,False,2,Credit Card,71.0,3,19
+ORDER_1784,2023-10-19,CUST_0468,Blusas,Social,240.46,G,Rosa,False,5,PIX,115.42,3,19
+ORDER_1785,2023-10-19,CUST_0448,Saias,Mini,96.8,P,Rosa,False,4,PIX,45.5,3,19
+ORDER_1786,2023-10-20,CUST_0409,Vestidos,Praia,81.04,M,Vermelho,False,5,Credit Card,40.52,4,20
+ORDER_1787,2023-10-21,CUST_0412,Blusas,Social,160.22,M,Preto,False,2,PIX,64.09,5,21
+ORDER_1788,2023-10-21,CUST_0204,Calças,Moletom,194.83,G,Azul,False,5,Credit Card,73.06,5,21
+ORDER_1789,2023-10-21,CUST_0194,Saias,Midi,155.34,G,Rosa,False,4,Debit Card,64.72,5,21
+ORDER_1790,2023-10-21,CUST_0235,Acessórios,Bolsas,255.89,Único,Preto,True,2,PIX,117.28,5,21
+ORDER_1791,2023-10-21,CUST_0206,Blusas,T-shirt,105.49,P,Rosa,False,5,Debit Card,36.92,5,21
+ORDER_1792,2023-10-21,CUST_0150,Saias,Longa,187.56,G,Preto,False,4,Debit Card,81.28,5,21
+ORDER_1793,2023-10-22,CUST_0159,Calças,Moletom,171.73,GG,Branco,False,3,Credit Card,64.4,6,22
+ORDER_1794,2023-10-22,CUST_0279,Vestidos,Festa,522.96,G,Azul,False,5,Boleto,239.69,6,22
+ORDER_1795,2023-10-22,CUST_0304,Saias,Longa,207.28,P,Vermelho,False,5,Debit Card,89.82,6,22
+ORDER_1796,2023-10-22,CUST_0404,Acessórios,Bijuterias,36.53,Único,Preto,False,3,Boleto,18.26,6,22
+ORDER_1797,2023-10-22,CUST_0381,Calças,Moletom,165.8,M,Branco,False,5,Credit Card,62.18,6,22
+ORDER_1798,2023-10-23,CUST_0166,Vestidos,Casual,177.11,G,Preto,False,5,Credit Card,79.7,0,23
+ORDER_1799,2023-10-23,CUST_0311,Vestidos,Casual,99.58,M,Preto,False,3,PIX,44.81,0,23
+ORDER_1800,2023-10-24,CUST_0068,Saias,Longa,226.27,M,Vermelho,False,5,PIX,117.66,1,24
+ORDER_1801,2023-10-24,CUST_0463,Blusas,Social,174.83,P,Azul,False,5,PIX,83.92,1,24
+ORDER_1802,2023-10-24,CUST_0088,Calças,Jeans,178.75,M,Branco,False,4,PIX,85.8,1,24
+ORDER_1803,2023-10-24,CUST_0217,Saias,Mini,130.47,G,Preto,False,4,PIX,61.32,1,24
+ORDER_1804,2023-10-25,CUST_0001,Vestidos,Praia,158.56,G,Rosa,False,5,PIX,66.06,2,25
+ORDER_1805,2023-10-25,CUST_0135,Acessórios,Bijuterias,61.7,Único,Prata,False,5,Boleto,30.85,2,25
+ORDER_1806,2023-10-25,CUST_0185,Vestidos,Festa,482.03,P,Azul,False,4,Boleto,220.93,2,25
+ORDER_1807,2023-10-26,CUST_0351,Saias,Midi,257.0,G,Azul,False,4,Boleto,107.08,3,26
+ORDER_1808,2023-10-26,CUST_0140,Blusas,T-shirt,141.44,GG,Preto,False,3,PIX,49.51,3,26
+ORDER_1809,2023-10-26,CUST_0106,Acessórios,Bijuterias,100.76,Único,Dourado,False,5,Credit Card,50.38,3,26
+ORDER_1810,2023-10-26,CUST_0133,Blusas,T-shirt,121.14,GG,Preto,False,3,Credit Card,42.4,3,26
+ORDER_1811,2023-10-26,CUST_0108,Acessórios,Bolsas,383.47,Único,Preto,False,4,Credit Card,175.76,3,26
+ORDER_1812,2023-10-26,CUST_0178,Blusas,Social,288.08,M,Branco,False,3,PIX,115.23,3,26
+ORDER_1813,2023-10-26,CUST_0298,Blusas,Moletom,215.44,G,Preto,False,5,Debit Card,80.79,3,26
+ORDER_1814,2023-10-27,CUST_0358,Calças,Moletom,127.72,P,Preto,False,4,Credit Card,47.89,4,27
+ORDER_1815,2023-10-27,CUST_0380,Blusas,T-shirt,92.99,P,Azul,False,1,Boleto,32.55,4,27
+ORDER_1816,2023-10-27,CUST_0396,Blusas,T-shirt,60.53,P,Azul,False,4,Boleto,21.18,4,27
+ORDER_1817,2023-10-28,CUST_0359,Saias,Midi,230.08,P,Vermelho,False,4,Credit Card,79.89,5,28
+ORDER_1818,2023-10-28,CUST_0146,Blusas,Social,275.18,GG,Azul,False,5,Credit Card,91.73,5,28
+ORDER_1819,2023-10-28,CUST_0450,Saias,Midi,273.9,G,Azul,False,5,Debit Card,95.11,5,28
+ORDER_1820,2023-10-28,CUST_0074,Blusas,Social,224.96,M,Rosa,False,3,Credit Card,74.99,5,28
+ORDER_1821,2023-10-28,CUST_0463,Blusas,T-shirt,111.24,M,Preto,False,5,Credit Card,32.45,5,28
+ORDER_1822,2023-10-29,CUST_0478,Blusas,Social,343.97,M,Rosa,False,4,PIX,114.66,6,29
+ORDER_1823,2023-10-29,CUST_0108,Acessórios,Bijuterias,140.92,Único,Dourado,False,2,Boleto,58.72,6,29
+ORDER_1824,2023-10-29,CUST_0122,Blusas,Social,282.73,GG,Azul,False,5,Credit Card,94.24,6,29
+ORDER_1825,2023-10-30,CUST_0017,Calças,Jeans,196.15,M,Preto,False,4,Credit Card,78.46,0,30
+ORDER_1826,2023-10-31,CUST_0196,Vestidos,Casual,139.8,P,Vermelho,False,5,Debit Card,52.43,1,31
+ORDER_1827,2023-11-01,CUST_0327,Blusas,Moletom,186.76,P,Rosa,False,5,Debit Card,70.03,2,1
+ORDER_1828,2023-11-01,CUST_0318,Saias,Longa,296.48,P,Preto,False,5,PIX,128.48,2,1
+ORDER_1829,2023-11-01,CUST_0297,Blusas,Moletom,123.4,P,Azul,False,4,Boleto,46.27,2,1
+ORDER_1830,2023-11-01,CUST_0479,Acessórios,Bolsas,438.8,Único,Preto,True,3,Boleto,201.12,2,1
+ORDER_1831,2023-11-01,CUST_0499,Saias,Longa,283.19,P,Rosa,False,5,Boleto,122.71,2,1
+ORDER_1832,2023-11-03,CUST_0252,Blusas,T-shirt,118.98,P,Rosa,False,2,Debit Card,41.64,4,3
+ORDER_1833,2023-11-03,CUST_0487,Vestidos,Praia,138.26,M,Preto,False,4,Credit Card,57.61,4,3
+ORDER_1834,2023-11-03,CUST_0119,Calças,Moletom,113.86,M,Branco,True,1,PIX,42.7,4,3
+ORDER_1835,2023-11-03,CUST_0162,Calças,Moletom,116.35,P,Azul,False,3,Credit Card,43.63,4,3
+ORDER_1836,2023-11-03,CUST_0198,Vestidos,Praia,156.68,P,Rosa,True,1,Credit Card,65.28,4,3
+ORDER_1837,2023-11-03,CUST_0498,Calças,Jeans,162.59,M,Branco,True,2,PIX,65.04,4,3
+ORDER_1838,2023-11-04,CUST_0486,Saias,Mini,132.13,M,Vermelho,False,5,PIX,43.13,5,4
+ORDER_1839,2023-11-04,CUST_0045,Blusas,T-shirt,165.89,GG,Preto,False,5,PIX,48.38,5,4
+ORDER_1840,2023-11-04,CUST_0314,Calças,Social,402.48,G,Azul,False,3,Boleto,145.34,5,4
+ORDER_1841,2023-11-04,CUST_0179,Blusas,T-shirt,101.65,G,Azul,False,2,Credit Card,29.65,5,4
+ORDER_1842,2023-11-05,CUST_0382,Calças,Jeans,271.63,G,Branco,False,4,PIX,90.54,6,5
+ORDER_1843,2023-11-06,CUST_0418,Blusas,T-shirt,78.47,M,Azul,False,4,PIX,32.96,0,6
+ORDER_1844,2023-11-06,CUST_0044,Acessórios,Cintos,110.0,Único,Prata,False,4,Credit Card,55.0,0,6
+ORDER_1845,2023-11-06,CUST_0271,Acessórios,Bijuterias,59.62,Único,Dourado,False,5,Boleto,35.77,0,6
+ORDER_1846,2023-11-07,CUST_0078,Blusas,Social,238.41,G,Rosa,False,2,Credit Card,114.44,1,7
+ORDER_1847,2023-11-07,CUST_0326,Blusas,Moletom,144.19,P,Branco,False,3,Boleto,64.89,1,7
+ORDER_1848,2023-11-07,CUST_0178,Saias,Midi,236.51,G,Azul,False,5,PIX,118.25,1,7
+ORDER_1849,2023-11-07,CUST_0357,Blusas,Moletom,186.77,P,Preto,False,5,Boleto,84.05,1,7
+ORDER_1850,2023-11-07,CUST_0498,Blusas,T-shirt,72.87,GG,Rosa,False,5,Boleto,30.61,1,7
+ORDER_1851,2023-11-07,CUST_0416,Blusas,Moletom,134.81,G,Branco,False,5,Boleto,60.66,1,7
+ORDER_1852,2023-11-08,CUST_0451,Calças,Jeans,213.92,GG,Azul,True,4,Debit Card,102.68,2,8
+ORDER_1853,2023-11-08,CUST_0003,Vestidos,Praia,93.94,G,Azul,True,2,PIX,46.97,2,8
+ORDER_1854,2023-11-08,CUST_0214,Vestidos,Casual,112.88,M,Preto,False,2,Credit Card,50.8,2,8
+ORDER_1855,2023-11-09,CUST_0342,Blusas,Social,149.85,G,Preto,False,5,Boleto,71.93,3,9
+ORDER_1856,2023-11-09,CUST_0074,Vestidos,Festa,491.9,P,Rosa,False,3,PIX,270.55,3,9
+ORDER_1857,2023-11-12,CUST_0051,Acessórios,Bolsas,452.4,Único,Prata,False,5,Credit Card,207.35,6,12
+ORDER_1858,2023-11-12,CUST_0067,Blusas,Moletom,124.91,GG,Azul,False,5,Credit Card,46.84,6,12
+ORDER_1859,2023-11-13,CUST_0332,Calças,Social,297.98,G,Azul,False,4,PIX,154.95,0,13
+ORDER_1860,2023-11-13,CUST_0093,Calças,Social,317.61,GG,Azul,False,4,Credit Card,165.16,0,13
+ORDER_1861,2023-11-13,CUST_0176,Acessórios,Bolsas,416.98,Único,Preto,False,5,Credit Card,229.34,0,13
+ORDER_1862,2023-11-13,CUST_0145,Saias,Mini,170.49,G,Rosa,False,5,Boleto,80.13,0,13
+ORDER_1863,2023-11-13,CUST_0007,Blusas,Moletom,114.54,GG,Branco,False,3,Credit Card,51.54,0,13
+ORDER_1864,2023-11-14,CUST_0269,Acessórios,Cintos,90.81,Único,Preto,False,5,Debit Card,45.41,1,14
+ORDER_1865,2023-11-14,CUST_0376,Acessórios,Cintos,55.84,Único,Dourado,False,4,Credit Card,27.92,1,14
+ORDER_1866,2023-11-15,CUST_0322,Vestidos,Praia,119.48,M,Preto,False,5,Credit Card,59.74,2,15
+ORDER_1867,2023-11-15,CUST_0004,Calças,Moletom,140.36,P,Branco,False,5,Debit Card,63.16,2,15
+ORDER_1868,2023-11-15,CUST_0138,Acessórios,Bijuterias,99.21,Único,Preto,False,3,Boleto,59.53,2,15
+ORDER_1869,2023-11-16,CUST_0231,Calças,Moletom,139.43,P,Azul,False,5,PIX,62.74,3,16
+ORDER_1870,2023-11-16,CUST_0088,Calças,Moletom,104.58,P,Preto,True,1,PIX,47.06,3,16
+ORDER_1871,2023-11-16,CUST_0017,Calças,Jeans,137.85,P,Branco,False,5,PIX,66.17,3,16
+ORDER_1872,2023-11-16,CUST_0052,Acessórios,Bolsas,193.56,Único,Prata,False,5,Debit Card,106.46,3,16
+ORDER_1873,2023-11-16,CUST_0134,Calças,Jeans,155.37,M,Azul,False,5,PIX,74.58,3,16
+ORDER_1874,2023-11-16,CUST_0211,Calças,Jeans,138.14,G,Branco,False,4,Credit Card,66.31,3,16
+ORDER_1875,2023-11-17,CUST_0325,Calças,Moletom,105.4,P,Azul,False,4,PIX,47.43,4,17
+ORDER_1876,2023-11-17,CUST_0480,Acessórios,Cintos,80.55,Único,Preto,False,4,Boleto,40.27,4,17
+ORDER_1877,2023-11-17,CUST_0458,Calças,Moletom,174.45,GG,Branco,False,3,Boleto,78.5,4,17
+ORDER_1878,2023-11-18,CUST_0393,Acessórios,Cintos,69.2,Único,Preto,False,5,Debit Card,28.84,5,18
+ORDER_1879,2023-11-18,CUST_0219,Vestidos,Praia,108.4,G,Rosa,True,3,Boleto,45.16,5,18
+ORDER_1880,2023-11-18,CUST_0205,Calças,Jeans,161.68,M,Preto,False,4,Boleto,64.67,5,18
+ORDER_1881,2023-11-18,CUST_0211,Blusas,Moletom,127.78,P,Branco,False,4,PIX,47.92,5,18
+ORDER_1882,2023-11-19,CUST_0277,Acessórios,Cintos,124.79,Único,Preto,False,2,PIX,51.99,6,19
+ORDER_1883,2023-11-19,CUST_0024,Blusas,Social,263.35,G,Preto,False,2,PIX,105.34,6,19
+ORDER_1884,2023-11-19,CUST_0486,Acessórios,Bolsas,278.15,Único,Dourado,False,4,Debit Card,127.48,6,19
+ORDER_1885,2023-11-20,CUST_0004,Vestidos,Casual,96.02,P,Preto,False,3,Credit Card,43.21,0,20
+ORDER_1886,2023-11-20,CUST_0152,Saias,Mini,91.85,M,Azul,False,3,Credit Card,43.17,0,20
+ORDER_1887,2023-11-20,CUST_0443,Calças,Jeans,281.12,P,Azul,False,4,Boleto,134.94,0,20
+ORDER_1888,2023-11-20,CUST_0483,Calças,Moletom,108.63,M,Preto,False,5,Boleto,48.88,0,20
+ORDER_1889,2023-11-20,CUST_0259,Calças,Jeans,215.78,P,Azul,False,5,Boleto,103.57,0,20
+ORDER_1890,2023-11-20,CUST_0324,Calças,Moletom,101.43,P,Branco,False,2,PIX,45.64,0,20
+ORDER_1891,2023-11-21,CUST_0357,Calças,Moletom,98.94,P,Azul,False,5,Debit Card,44.52,1,21
+ORDER_1892,2023-11-21,CUST_0168,Acessórios,Bolsas,358.33,Único,Preto,False,5,PIX,197.08,1,21
+ORDER_1893,2023-11-21,CUST_0176,Calças,Moletom,164.05,GG,Preto,False,5,Credit Card,73.82,1,21
+ORDER_1894,2023-11-21,CUST_0310,Acessórios,Cintos,71.82,Único,Preto,False,5,Credit Card,35.91,1,21
+ORDER_1895,2023-11-22,CUST_0291,Calças,Social,285.12,M,Azul,True,1,PIX,148.26,2,22
+ORDER_1896,2023-11-22,CUST_0479,Calças,Moletom,167.85,M,Azul,False,3,Debit Card,75.53,2,22
+ORDER_1897,2023-11-22,CUST_0056,Calças,Moletom,113.23,G,Preto,False,4,PIX,50.95,2,22
+ORDER_1898,2023-11-22,CUST_0108,Vestidos,Casual,177.32,P,Azul,False,4,Debit Card,79.79,2,22
+ORDER_1899,2023-11-22,CUST_0473,Vestidos,Praia,132.04,G,Azul,False,4,PIX,66.02,2,22
+ORDER_1900,2023-11-23,CUST_0296,Vestidos,Casual,181.31,P,Vermelho,False,5,PIX,81.59,3,23
+ORDER_1901,2023-11-23,CUST_0461,Acessórios,Bijuterias,93.21,Único,Dourado,False,4,Debit Card,55.93,3,23
+ORDER_1902,2023-11-23,CUST_0324,Calças,Social,235.42,M,Azul,False,2,Debit Card,122.42,3,23
+ORDER_1903,2023-11-23,CUST_0302,Vestidos,Casual,139.7,G,Azul,False,3,Boleto,62.86,3,23
+ORDER_1904,2023-11-24,CUST_0334,Calças,Jeans,157.43,GG,Branco,False,3,PIX,75.57,4,24
+ORDER_1905,2023-11-24,CUST_0141,Calças,Jeans,265.35,M,Azul,False,3,PIX,127.37,4,24
+ORDER_1906,2023-11-24,CUST_0155,Blusas,Social,210.11,GG,Azul,False,5,Credit Card,100.85,4,24
+ORDER_1907,2023-11-24,CUST_0262,Calças,Jeans,178.21,GG,Azul,False,3,PIX,85.54,4,24
+ORDER_1908,2023-11-24,CUST_0273,Acessórios,Cintos,81.63,Único,Prata,False,4,PIX,40.81,4,24
+ORDER_1909,2023-11-26,CUST_0420,Calças,Social,358.47,M,Branco,False,5,PIX,129.45,6,26
+ORDER_1910,2023-11-26,CUST_0232,Blusas,Social,248.52,P,Branco,False,2,PIX,82.84,6,26
+ORDER_1911,2023-11-27,CUST_0241,Acessórios,Cintos,120.88,Único,Dourado,False,4,Credit Card,50.37,0,27
+ORDER_1912,2023-11-27,CUST_0355,Calças,Social,412.51,GG,Branco,False,5,PIX,178.76,0,27
+ORDER_1913,2023-11-28,CUST_0337,Acessórios,Bijuterias,100.55,Único,Dourado,False,3,PIX,50.27,1,28
+ORDER_1914,2023-11-28,CUST_0489,Calças,Jeans,305.0,GG,Branco,False,4,Boleto,122.0,1,28
+ORDER_1915,2023-11-29,CUST_0258,Blusas,T-shirt,88.68,P,Rosa,False,4,Boleto,31.04,2,29
+ORDER_1916,2023-11-29,CUST_0249,Acessórios,Bijuterias,45.49,Único,Marrom,False,1,Credit Card,22.75,2,29
+ORDER_1917,2023-11-29,CUST_0077,Acessórios,Bolsas,273.9,Único,Dourado,False,2,Boleto,125.54,2,29
+ORDER_1918,2023-11-30,CUST_0180,Acessórios,Bijuterias,48.18,Único,Marrom,False,5,Debit Card,24.09,3,30
+ORDER_1919,2023-11-30,CUST_0066,Blusas,T-shirt,73.94,G,Rosa,False,2,Credit Card,25.88,3,30
+ORDER_1920,2023-11-30,CUST_0308,Calças,Moletom,199.91,G,Preto,False,4,Boleto,74.97,3,30
+ORDER_1921,2023-11-30,CUST_0348,Vestidos,Festa,704.42,G,Azul,False,5,PIX,322.86,3,30
+ORDER_1922,2023-12-01,CUST_0171,Acessórios,Bolsas,485.12,Único,Dourado,False,5,PIX,222.35,4,1
+ORDER_1923,2023-12-01,CUST_0474,Blusas,T-shirt,96.29,P,Preto,False,3,PIX,33.7,4,1
+ORDER_1924,2023-12-01,CUST_0022,Acessórios,Bolsas,305.36,Único,Preto,False,3,PIX,139.96,4,1
+ORDER_1925,2023-12-01,CUST_0367,Vestidos,Casual,111.25,G,Vermelho,False,4,Debit Card,41.72,4,1
+ORDER_1926,2023-12-01,CUST_0107,Vestidos,Casual,128.68,G,Azul,False,4,Debit Card,48.25,4,1
+ORDER_1927,2023-12-01,CUST_0439,Vestidos,Casual,174.65,P,Preto,False,4,PIX,65.49,4,1
+ORDER_1928,2023-12-02,CUST_0323,Saias,Mini,138.47,P,Vermelho,False,3,Boleto,45.2,5,2
+ORDER_1929,2023-12-02,CUST_0227,Saias,Longa,377.81,M,Preto,False,5,PIX,136.43,5,2
+ORDER_1930,2023-12-03,CUST_0444,Blusas,Moletom,280.41,M,Azul,False,5,Credit Card,87.63,6,3
+ORDER_1931,2023-12-03,CUST_0442,Blusas,T-shirt,168.58,M,Branco,False,3,Debit Card,49.17,6,3
+ORDER_1932,2023-12-04,CUST_0396,Vestidos,Praia,121.4,G,Vermelho,False,3,PIX,50.59,0,4
+ORDER_1933,2023-12-05,CUST_0216,Saias,Midi,184.27,G,Rosa,False,1,Credit Card,76.78,1,5
+ORDER_1934,2023-12-05,CUST_0069,Blusas,Social,273.58,P,Branco,False,3,Boleto,109.43,1,5
+ORDER_1935,2023-12-05,CUST_0084,Acessórios,Cintos,145.18,Único,Dourado,False,5,PIX,60.49,1,5
+ORDER_1936,2023-12-05,CUST_0103,Acessórios,Bolsas,264.71,Único,Dourado,False,2,Boleto,121.32,1,5
+ORDER_1937,2023-12-06,CUST_0039,Blusas,Social,121.83,P,Azul,False,4,Credit Card,58.48,2,6
+ORDER_1938,2023-12-06,CUST_0013,Saias,Midi,207.55,M,Vermelho,False,5,Credit Card,103.78,2,6
+ORDER_1939,2023-12-06,CUST_0297,Blusas,T-shirt,103.29,M,Rosa,False,3,PIX,43.38,2,6
+ORDER_1940,2023-12-07,CUST_0313,Saias,Longa,222.42,G,Preto,False,3,PIX,115.66,3,7
+ORDER_1941,2023-12-08,CUST_0181,Calças,Moletom,121.69,GG,Branco,False,4,Debit Card,54.76,4,8
+ORDER_1942,2023-12-08,CUST_0493,Acessórios,Bijuterias,73.98,Único,Marrom,False,4,PIX,44.39,4,8
+ORDER_1943,2023-12-08,CUST_0268,Acessórios,Bolsas,173.43,Único,Dourado,False,3,Boleto,95.39,4,8
+ORDER_1944,2023-12-10,CUST_0013,Vestidos,Praia,172.52,M,Rosa,False,5,Boleto,71.89,6,10
+ORDER_1945,2023-12-10,CUST_0120,Calças,Moletom,162.77,M,Branco,False,4,PIX,61.04,6,10
+ORDER_1946,2023-12-10,CUST_0458,Saias,Longa,181.72,P,Rosa,True,1,Credit Card,78.74,6,10
+ORDER_1947,2023-12-11,CUST_0353,Blusas,Moletom,195.5,G,Preto,False,4,Boleto,87.98,0,11
+ORDER_1948,2023-12-11,CUST_0057,Blusas,Social,179.47,P,Preto,False,5,PIX,86.15,0,11
+ORDER_1949,2023-12-11,CUST_0040,Calças,Jeans,206.39,P,Azul,False,4,Credit Card,99.07,0,11
+ORDER_1950,2023-12-11,CUST_0374,Vestidos,Festa,494.14,G,Preto,False,3,Credit Card,271.78,0,11
+ORDER_1951,2023-12-11,CUST_0336,Blusas,Social,196.67,G,Branco,False,4,Boleto,94.4,0,11
+ORDER_1952,2023-12-11,CUST_0128,Acessórios,Bolsas,415.96,Único,Preto,False,5,Debit Card,228.78,0,11
+ORDER_1953,2023-12-12,CUST_0173,Acessórios,Bolsas,445.68,Único,Dourado,False,5,Credit Card,245.12,1,12
+ORDER_1954,2023-12-12,CUST_0035,Acessórios,Bijuterias,33.03,Único,Marrom,False,3,Credit Card,19.82,1,12
+ORDER_1955,2023-12-12,CUST_0259,Saias,Midi,177.84,G,Vermelho,False,3,Credit Card,88.92,1,12
+ORDER_1956,2023-12-13,CUST_0376,Calças,Moletom,98.13,GG,Azul,False,4,Credit Card,44.16,2,13
+ORDER_1957,2023-12-14,CUST_0005,Vestidos,Casual,186.05,M,Azul,False,2,Credit Card,83.72,3,14
+ORDER_1958,2023-12-15,CUST_0218,Vestidos,Praia,137.18,G,Azul,False,3,Credit Card,68.59,4,15
+ORDER_1959,2023-12-15,CUST_0011,Blusas,T-shirt,67.56,P,Rosa,False,4,Credit Card,28.38,4,15
+ORDER_1960,2023-12-15,CUST_0382,Calças,Jeans,138.92,GG,Azul,False,4,Boleto,66.68,4,15
+ORDER_1961,2023-12-15,CUST_0327,Saias,Mini,152.89,P,Rosa,False,2,PIX,71.86,4,15
+ORDER_1962,2023-12-15,CUST_0117,Calças,Social,186.24,P,Azul,False,5,Credit Card,96.84,4,15
+ORDER_1963,2023-12-15,CUST_0184,Blusas,Moletom,157.48,P,Rosa,False,5,PIX,70.87,4,15
+ORDER_1964,2023-12-16,CUST_0394,Saias,Midi,262.78,G,Preto,False,5,Boleto,109.49,5,16
+ORDER_1965,2023-12-17,CUST_0362,Vestidos,Casual,139.97,P,Azul,False,3,Boleto,52.49,6,17
+ORDER_1966,2023-12-17,CUST_0116,Calças,Jeans,211.93,GG,Preto,True,1,PIX,84.77,6,17
+ORDER_1967,2023-12-18,CUST_0162,Vestidos,Praia,100.87,P,Azul,False,2,Debit Card,50.44,0,18
+ORDER_1968,2023-12-18,CUST_0067,Saias,Longa,283.15,G,Azul,False,5,PIX,147.24,0,18
+ORDER_1969,2023-12-19,CUST_0200,Calças,Moletom,153.28,M,Azul,False,5,PIX,68.98,1,19
+ORDER_1970,2023-12-19,CUST_0031,Calças,Social,179.02,M,Preto,False,2,Boleto,93.09,1,19
+ORDER_1971,2023-12-20,CUST_0075,Blusas,T-shirt,70.94,G,Azul,False,5,Boleto,29.79,2,20
+ORDER_1972,2023-12-20,CUST_0237,Acessórios,Bijuterias,47.09,Único,Dourado,False,3,Credit Card,28.25,2,20
+ORDER_1973,2023-12-21,CUST_0327,Acessórios,Bijuterias,92.2,Único,Marrom,False,4,PIX,55.32,3,21
+ORDER_1974,2023-12-21,CUST_0493,Vestidos,Praia,137.45,P,Vermelho,False,3,Debit Card,68.72,3,21
+ORDER_1975,2023-12-22,CUST_0066,Vestidos,Praia,95.9,P,Rosa,False,4,Credit Card,47.95,4,22
+ORDER_1976,2023-12-22,CUST_0070,Blusas,T-shirt,84.5,P,Branco,False,1,PIX,35.49,4,22
+ORDER_1977,2023-12-23,CUST_0297,Blusas,Social,178.02,M,Preto,False,5,Boleto,71.21,5,23
+ORDER_1978,2023-12-24,CUST_0447,Acessórios,Cintos,71.3,Único,Marrom,True,2,Boleto,29.71,6,24
+ORDER_1979,2023-12-24,CUST_0416,Vestidos,Praia,156.18,P,Rosa,False,4,Credit Card,65.08,6,24
+ORDER_1980,2023-12-25,CUST_0020,Saias,Midi,224.88,M,Azul,False,4,Boleto,93.7,0,25
+ORDER_1981,2023-12-25,CUST_0441,Saias,Longa,306.18,G,Rosa,False,3,Credit Card,132.68,0,25
+ORDER_1982,2023-12-26,CUST_0226,Calças,Jeans,234.83,P,Branco,False,2,PIX,93.93,1,26
+ORDER_1983,2023-12-26,CUST_0434,Calças,Moletom,135.59,GG,Branco,False,5,Credit Card,50.85,1,26
+ORDER_1984,2023-12-26,CUST_0464,Blusas,Moletom,158.41,M,Azul,False,5,Credit Card,59.4,1,26
+ORDER_1985,2023-12-27,CUST_0409,Blusas,Moletom,166.63,M,Rosa,False,4,Boleto,62.49,2,27
+ORDER_1986,2023-12-27,CUST_0396,Vestidos,Casual,213.85,P,Azul,False,4,PIX,80.19,2,27
+ORDER_1987,2023-12-27,CUST_0199,Acessórios,Bolsas,220.5,Único,Dourado,False,5,Debit Card,101.06,2,27
+ORDER_1988,2023-12-27,CUST_0039,Calças,Moletom,115.6,P,Azul,False,2,Credit Card,43.35,2,27
+ORDER_1989,2023-12-28,CUST_0145,Calças,Social,375.18,G,Preto,False,5,Boleto,162.58,3,28
+ORDER_1990,2023-12-28,CUST_0045,Vestidos,Festa,714.94,G,Preto,False,4,Credit Card,327.68,3,28
+ORDER_1991,2023-12-28,CUST_0395,Saias,Longa,319.82,G,Vermelho,False,4,Debit Card,138.59,3,28
+ORDER_1992,2023-12-28,CUST_0326,Acessórios,Cintos,103.48,Único,Preto,True,3,Debit Card,43.12,3,28
+ORDER_1993,2023-12-28,CUST_0381,Vestidos,Praia,146.93,G,Azul,False,4,Debit Card,61.22,3,28
+ORDER_1994,2023-12-28,CUST_0407,Vestidos,Praia,107.3,M,Vermelho,False,1,PIX,44.71,3,28
+ORDER_1995,2023-12-28,CUST_0091,Saias,Longa,201.07,G,Vermelho,False,5,Boleto,87.13,3,28
+ORDER_1996,2023-12-28,CUST_0238,Calças,Social,412.97,P,Azul,False,4,Credit Card,178.95,3,28
+ORDER_1997,2023-12-29,CUST_0070,Calças,Social,347.51,G,Branco,False,4,Debit Card,150.59,4,29
+ORDER_1998,2023-12-30,CUST_0166,Acessórios,Bolsas,273.14,Único,Dourado,False,3,Boleto,104.32,5,30
+ORDER_1999,2023-12-30,CUST_0130,Blusas,Social,259.13,P,Branco,False,5,Debit Card,86.38,5,30
+ORDER_2000,2023-12-30,CUST_0214,Calças,Moletom,181.22,M,Azul,False,4,Debit Card,56.63,5,30

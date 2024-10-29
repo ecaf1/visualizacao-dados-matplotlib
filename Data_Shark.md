@@ -113,16 +113,16 @@ Cada grupo deverá entregar um relatório detalhado contendo:
 ⚠️ **ATENÇÃO**: O relatório será avaliado com o mesmo rigor da análise técnica. Relatórios superficiais ou mal elaborados impactarão significativamente a nota final.
 
 ## 📤 Entrega Final
-- Data de entrega: 3 de novembro
-- Local: Google Classroom
-- Conteúdo:
+- Data da apresentação presencial: 9 de novembro às 9h (aula de Prática e Pesquisa)
+  - Pitch presencial de 3-5 minutos por grupo
+- Data limite para entrega dos materiais: 9 de novembro
+- Local de entrega: Google Classroom
+- Conteúdo para entregar:
   1. Arquivo do relatório (PDF)
   2. Vídeo da apresentação
   3. Códigos e bases utilizadas
 
 🎥 **Observação**: Os vídeos serão publicados no canal oficial do NES no YouTube após avaliação.
-
-
 
 
 ## 🗓️ Prazos e Entregas
